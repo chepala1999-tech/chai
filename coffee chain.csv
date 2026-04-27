@@ -1,0 +1,1063 @@
+﻿Store id,Cogs,Date,Market Size,Regional Performance,Marketing,Product Line,Product Type,Product,Profit,Sales,State,Target COGS,Target Profit,Target Sales,Other Expenses,Total Sales,Total Profit,ProftMargin,Marketing spend,Actual Variance,Cost of Goods Sold (COGS), ROI on Marketing,Product Category,COGS overview, Revenue (Sales)
+303,51,01-10-2012,Major Market,Central,46,Leaves,Herbal Tea,Lemon,-5,122,Colorado,30,30,90,76,#REF!,#REF!,-4%,46,32,21,-0.108695652,Low Profit,51,122
+970,52,01-10-2012,Major Market,Central,17,Leaves,Herbal Tea,Mint,26,123,Colorado,30,50,90,45,#REF!,#REF!,21%,17,33,22,1.529411765,Low Profit,52,123
+409,43,01-10-2012,Major Market,South,13,Leaves,Herbal Tea,Lemon,28,107,Texas,30,50,90,36,#REF!,#REF!,26%,13,17,13,2.153846154,Low Profit,43,107
+850,38,01-10-2012,Major Market,East,10,Leaves,Tea,Darjeeling,35,94,Florida,40,50,100,21,#REF!,#REF!,37%,10,-6,-2,3.5,Low Profit,38,94
+562,72,01-10-2012,Major Market,West,23,Leaves,Tea,Green Tea,56,182,California,20,50,80,54,#REF!,#REF!,31%,23,102,52,2.434782609,Low Profit,72,182
+712,0,01-10-2012,Small Market,Central,0,Beans,Espresso,Decaf Espresso,31,43,Iowa,0,60,60,12,#REF!,#REF!,72%,0,-17,0,#DIV/0!,Low Profit,0,43
+860,47,01-10-2012,Small Market,East,15,Beans,Espresso,Decaf Espresso,21,111,Connecticut,30,50,90,43,#REF!,#REF!,19%,15,21,17,1.4,Low Profit,47,111
+918,27,01-10-2012,Small Market,South,7,Beans,Coffee,Decaf Irish Cream,21,66,Oklahoma,30,60,90,18,#REF!,#REF!,32%,7,-24,-3,3,Low Profit,27,66
+775,31,01-10-2012,Small Market,West,9,Beans,Coffee,Decaf Irish Cream,7,68,Nevada,30,50,90,30,#REF!,#REF!,10%,9,-22,1,0.777777778,Low Profit,31,68
+435,40,01-10-2012,Small Market,West,11,Beans,Espresso,Decaf Espresso,37,99,Utah,20,60,80,22,#REF!,#REF!,37%,11,19,20,3.363636364,Low Profit,40,99
+603,49,01-10-2012,Small Market,East,15,Beans,Coffee,Amaretto,33,120,New Hampshire,30,60,90,38,#REF!,#REF!,28%,15,30,19,2.2,Low Profit,49,120
+603,45,01-10-2012,Small Market,East,14,Beans,Coffee,Colombian,24,114,New Hampshire,30,50,90,45,#REF!,#REF!,21%,14,24,15,1.714285714,Low Profit,45,114
+603,45,01-10-2012,Small Market,East,41,Beans,Espresso,Caffe Mocha,-7,109,New Hampshire,30,30,90,71,#REF!,#REF!,-6%,41,19,15,-0.170731707,Low Profit,45,109
+318,60,01-10-2012,Small Market,South,54,Beans,Espresso,Caffe Latte,1,144,Louisiana,30,10,90,83,#REF!,#REF!,1%,54,54,30,0.018518519,Low Profit,60,144
+775,34,01-10-2012,Small Market,West,12,Beans,Coffee,Colombian,-2,77,Nevada,40,30,100,45,#REF!,#REF!,-3%,12,-23,-6,-0.166666667,Low Profit,34,77
+503,54,01-10-2012,Small Market,West,20,Beans,Espresso,Caffe Latte,12,120,Oregon,40,40,100,54,#REF!,#REF!,10%,20,20,14,0.6,Low Profit,54,120
+573,45,01-10-2012,Small Market,Central,41,Leaves,Herbal Tea,Chamomile,-6,109,Missouri,20,30,80,70,#REF!,#REF!,-6%,41,29,25,-0.146341463,Low Profit,45,109
+262,48,01-10-2012,Small Market,Central,13,Leaves,Herbal Tea,Lemon,45,118,Wisconsin,30,60,90,25,#REF!,#REF!,38%,13,28,18,3.461538462,Low Profit,48,118
+801,49,01-10-2012,Small Market,West,15,Leaves,Herbal Tea,Chamomile,33,120,Utah,30,60,90,38,#REF!,#REF!,28%,15,30,19,2.2,Low Profit,49,120
+425,48,01-10-2012,Small Market,West,13,Leaves,Herbal Tea,Lemon,47,119,Washington,30,60,90,24,#REF!,#REF!,39%,13,29,18,3.615384615,Low Profit,48,119
+860,40,01-10-2012,Small Market,East,11,Leaves,Tea,Darjeeling,36,99,Connecticut,40,50,100,23,#REF!,#REF!,36%,11,-1,0,3.272727273,Low Profit,40,99
+971,82,01-10-2012,Small Market,West,27,Leaves,Tea,Earl Grey,64,205,Oregon,30,50,90,59,#REF!,#REF!,31%,27,115,52,2.37037037,Low Profit,82,205
+971,91,01-10-2012,Small Market,West,28,Leaves,Tea,Green Tea,76,218,Oregon,40,50,100,51,#REF!,#REF!,35%,28,118,51,2.714285714,Low Profit,91,218
+915,40,01-11-2012,Major Market,South,13,Beans,Coffee,Decaf Irish Cream,26,92,Texas,40,40,100,26,#REF!,#REF!,28%,13,-8,0,2,Low Profit,40,92
+210,50,01-11-2012,Major Market,South,14,Beans,Espresso,Decaf Espresso,48,123,Texas,30,40,90,25,#REF!,#REF!,39%,14,33,20,3.428571429,Low Profit,50,123
+970,40,01-11-2012,Major Market,Central,13,Beans,Coffee,Colombian,27,92,Colorado,30,40,90,25,#REF!,#REF!,29%,13,2,10,2.076923077,Low Profit,40,92
+774,52,01-11-2012,Major Market,East,47,Beans,Espresso,Caffe Mocha,-8,120,Massachusetts,50,0,110,76,#REF!,#REF!,-7%,47,10,2,-0.170212766,Low Profit,52,120
+954,75,01-11-2012,Major Market,East,23,Leaves,Herbal Tea,Mint,44,164,Florida,50,30,110,45,#REF!,#REF!,27%,23,54,25,1.913043478,Low Profit,75,164
+936,46,01-11-2012,Major Market,South,14,Leaves,Herbal Tea,Lemon,31,114,Texas,40,30,100,37,#REF!,#REF!,27%,14,14,6,2.214285714,Low Profit,46,114
+719,55,01-11-2012,Major Market,Central,20,Leaves,Tea,Darjeeling,15,124,Colorado,40,20,100,54,#REF!,#REF!,12%,20,24,15,0.75,Low Profit,55,124
+847,50,01-11-2012,Major Market,Central,14,Leaves,Tea,Darjeeling,48,123,Illinois,40,40,100,25,#REF!,#REF!,39%,14,23,10,3.428571429,Low Profit,50,123
+719,57,01-11-2012,Major Market,Central,17,Leaves,Tea,Earl Grey,29,125,Colorado,40,30,100,39,#REF!,#REF!,23%,17,25,17,1.705882353,Low Profit,57,125
+339,36,01-11-2012,Major Market,East,10,Leaves,Tea,Darjeeling,31,88,Massachusetts,30,40,90,21,#REF!,#REF!,35%,10,-2,6,3.1,Low Profit,36,88
+314,33,01-11-2012,Small Market,Central,9,Beans,Espresso,Decaf Espresso,27,81,Missouri,40,50,100,21,#REF!,#REF!,33%,9,-19,-7,3,Low Profit,33,81
+504,31,01-11-2012,Small Market,South,8,Beans,Coffee,Decaf Irish Cream,28,78,Louisiana,30,50,90,19,#REF!,#REF!,36%,8,-12,1,3.5,Low Profit,31,78
+580,36,01-11-2012,Small Market,South,10,Beans,Coffee,Decaf Irish Cream,30,88,Oklahoma,40,40,100,22,#REF!,#REF!,34%,10,-12,-4,3,Low Profit,36,88
+225,49,01-11-2012,Small Market,South,15,Beans,Espresso,Decaf Espresso,34,120,Louisiana,30,30,90,37,#REF!,#REF!,28%,15,30,19,2.266666667,Low Profit,49,120
+262,54,01-11-2012,Small Market,Central,20,Beans,Coffee,Amaretto,14,121,Wisconsin,50,20,110,53,#REF!,#REF!,12%,20,11,4,0.7,Low Profit,54,121
+603,46,01-11-2012,Small Market,East,14,Beans,Coffee,Amaretto,30,113,New Hampshire,40,40,100,37,#REF!,#REF!,27%,14,13,6,2.142857143,Low Profit,46,113
+603,43,01-11-2012,Small Market,East,14,Beans,Coffee,Colombian,20,109,New Hampshire,30,30,90,46,#REF!,#REF!,18%,14,19,13,1.428571429,Low Profit,43,109
+603,44,01-11-2012,Small Market,East,40,Beans,Espresso,Caffe Mocha,-8,106,New Hampshire,40,10,100,70,#REF!,#REF!,-8%,40,6,4,-0.2,Low Profit,44,106
+225,53,01-11-2012,Small Market,South,16,Beans,Espresso,Caffe Mocha,49,141,Louisiana,40,30,100,39,#REF!,#REF!,35%,16,41,13,3.0625,Low Profit,53,141
+425,54,01-11-2012,Small Market,West,20,Beans,Espresso,Caffe Mocha,13,121,Washington,50,20,110,54,#REF!,#REF!,11%,20,11,4,0.65,Low Profit,54,121
+918,54,01-11-2012,Small Market,South,20,Leaves,Herbal Tea,Chamomile,13,121,Oklahoma,50,20,110,54,#REF!,#REF!,11%,20,11,4,0.65,Low Profit,54,121
+801,46,01-11-2012,Small Market,West,14,Leaves,Herbal Tea,Chamomile,30,113,Utah,40,30,100,37,#REF!,#REF!,27%,14,13,6,2.142857143,Low Profit,46,113
+435,43,01-11-2012,Small Market,West,14,Leaves,Herbal Tea,Lemon,20,109,Utah,40,30,100,46,#REF!,#REF!,18%,14,9,3,1.428571429,Low Profit,43,109
+509,47,01-11-2012,Small Market,West,13,Leaves,Herbal Tea,Lemon,44,115,Washington,40,40,100,24,#REF!,#REF!,38%,13,15,7,3.384615385,Low Profit,47,115
+203,36,01-11-2012,Small Market,East,10,Leaves,Tea,Green Tea,33,90,Connecticut,30,40,90,21,#REF!,#REF!,37%,10,0,6,3.3,Low Profit,36,90
+206,61,01-11-2012,Small Market,West,55,Leaves,Tea,Green Tea,1,147,Washington,40,0,100,85,#REF!,#REF!,1%,55,47,21,0.018181818,Low Profit,61,147
+682,43,01-12-2012,Major Market,South,14,Beans,Coffee,Decaf Irish Cream,30,99,Texas,50,40,110,26,#REF!,#REF!,30%,14,-11,-7,2.142857143,Low Profit,43,99
+214,54,01-12-2012,Major Market,South,15,Beans,Espresso,Decaf Espresso,52,133,Texas,40,40,100,27,#REF!,#REF!,39%,15,33,14,3.466666667,Low Profit,54,133
+970,47,01-12-2012,Major Market,Central,42,Leaves,Herbal Tea,Lemon,-6,112,Colorado,40,0,100,71,#REF!,#REF!,-5%,42,12,7,-0.142857143,Low Profit,47,112
+303,54,01-12-2012,Major Market,Central,17,Leaves,Herbal Tea,Mint,29,127,Colorado,50,30,110,44,#REF!,#REF!,23%,17,17,4,1.705882353,Low Profit,54,127
+954,65,01-12-2012,Major Market,East,24,Leaves,Herbal Tea,Lemon,23,145,Florida,40,20,100,57,#REF!,#REF!,16%,24,45,25,0.958333333,Low Profit,65,145
+561,80,01-12-2012,Major Market,East,24,Leaves,Herbal Tea,Mint,50,176,Florida,60,30,120,46,#REF!,#REF!,28%,24,56,20,2.083333333,Low Profit,80,176
+469,54,01-12-2012,Major Market,South,17,Leaves,Herbal Tea,Chamomile,28,127,Texas,50,30,110,45,#REF!,#REF!,22%,17,17,4,1.647058824,Low Profit,54,127
+214,41,01-12-2012,Major Market,South,13,Leaves,Herbal Tea,Lemon,24,101,Texas,30,30,90,36,#REF!,#REF!,24%,13,11,11,1.846153846,Low Profit,41,101
+619,54,01-12-2012,Major Market,West,15,Leaves,Tea,Earl Grey,53,133,California,30,50,90,26,#REF!,#REF!,40%,15,43,24,3.533333333,Low Profit,54,133
+314,31,01-12-2012,Small Market,Central,8,Beans,Espresso,Decaf Espresso,27,77,Missouri,30,50,90,19,#REF!,#REF!,35%,8,-13,1,3.375,Low Profit,31,77
+225,34,01-12-2012,Small Market,South,9,Beans,Coffee,Decaf Irish Cream,31,85,Louisiana,40,50,100,20,#REF!,#REF!,36%,9,-15,-6,3.444444444,Low Profit,34,85
+580,33,01-12-2012,Small Market,South,9,Beans,Coffee,Decaf Irish Cream,28,82,Oklahoma,30,50,90,21,#REF!,#REF!,34%,9,-8,3,3.111111111,Low Profit,33,82
+603,48,01-12-2012,Small Market,East,15,Beans,Coffee,Colombian,28,122,New Hampshire,40,30,100,46,#REF!,#REF!,23%,15,22,8,1.866666667,Low Profit,48,122
+985,55,01-12-2012,Small Market,South,49,Beans,Espresso,Caffe Latte,-3,131,Louisiana,40,0,100,79,#REF!,#REF!,-2%,49,31,15,-0.06122449,Low Profit,55,131
+505,49,01-12-2012,Small Market,South,44,Beans,Espresso,Caffe Mocha,-5,118,New Mexico,30,10,90,74,#REF!,#REF!,-4%,44,28,19,-0.113636364,Low Profit,49,118
+775,39,01-12-2012,Small Market,West,14,Beans,Coffee,Colombian,1,88,Nevada,40,20,100,48,#REF!,#REF!,1%,14,-12,-1,0.071428571,Low Profit,39,88
+417,49,01-12-2012,Small Market,Central,44,Leaves,Herbal Tea,Chamomile,-5,118,Missouri,40,0,100,74,#REF!,#REF!,-4%,44,18,9,-0.113636364,Low Profit,49,118
+920,41,01-12-2012,Small Market,Central,12,Leaves,Herbal Tea,Chamomile,30,107,Wisconsin,30,30,90,36,#REF!,#REF!,28%,12,17,11,2.5,Low Profit,41,107
+573,92,01-12-2012,Small Market,Central,28,Leaves,Herbal Tea,Lemon,16,160,Missouri,80,20,140,52,#REF!,#REF!,10%,28,20,12,0.571428571,Low Profit,92,160
+475,68,01-12-2012,Small Market,East,25,Leaves,Herbal Tea,Lemon,27,153,Connecticut,50,20,110,58,#REF!,#REF!,18%,25,43,18,1.08,Low Profit,68,153
+475,63,01-12-2012,Small Market,East,19,Leaves,Herbal Tea,Mint,36,139,Connecticut,40,40,100,40,#REF!,#REF!,26%,19,39,23,1.894736842,Low Profit,63,139
+435,92,01-12-2012,Small Market,West,28,Leaves,Herbal Tea,Mint,17,160,Utah,80,20,140,51,#REF!,#REF!,11%,28,20,12,0.607142857,Low Profit,92,160
+920,55,01-12-2012,Small Market,Central,49,Leaves,Tea,Earl Grey,-3,131,Wisconsin,40,0,100,79,#REF!,#REF!,-2%,49,31,15,-0.06122449,Low Profit,55,131
+720,51,01-10-2013,Major Market,Central,46,Leaves,Herbal Tea,Lemon,-7,130,Colorado,30,30,90,76,#REF!,#REF!,-5%,46,40,21,-0.152173913,Low Profit,51,130
+970,52,01-10-2013,Major Market,Central,17,Leaves,Herbal Tea,Mint,39,131,Colorado,30,50,90,45,#REF!,#REF!,30%,17,41,22,2.294117647,Low Profit,52,131
+430,43,01-10-2013,Major Market,South,13,Leaves,Herbal Tea,Lemon,42,114,Texas,30,50,90,36,#REF!,#REF!,37%,13,24,13,3.230769231,Low Profit,43,114
+561,38,01-10-2013,Major Market,East,10,Leaves,Tea,Darjeeling,52,100,Florida,40,50,100,21,#REF!,#REF!,52%,10,0,-2,5.2,Low Profit,38,100
+510,72,01-10-2013,Major Market,West,23,Leaves,Tea,Green Tea,83,194,California,20,50,80,54,#REF!,#REF!,43%,23,114,52,3.608695652,Low Profit,72,194
+563,0,01-10-2013,Small Market,Central,0,Beans,Espresso,Decaf Espresso,46,46,Iowa,0,60,60,12,#REF!,#REF!,100%,0,-14,0,#DIV/0!,Low Profit,0,46
+203,47,01-10-2013,Small Market,East,15,Beans,Espresso,Decaf Espresso,31,118,Connecticut,30,50,90,43,#REF!,#REF!,26%,15,28,17,2.066666667,Low Profit,47,118
+405,27,01-10-2013,Small Market,South,7,Beans,Coffee,Decaf Irish Cream,31,70,Oklahoma,30,60,90,18,#REF!,#REF!,44%,7,-20,-3,4.428571429,Low Profit,27,70
+775,31,01-10-2013,Small Market,West,9,Beans,Coffee,Decaf Irish Cream,10,72,Nevada,30,50,90,30,#REF!,#REF!,14%,9,-18,1,1.111111111,Low Profit,31,72
+435,40,01-10-2013,Small Market,West,11,Beans,Espresso,Decaf Espresso,55,106,Utah,20,60,80,22,#REF!,#REF!,52%,11,26,20,5,Low Profit,40,106
+603,49,01-10-2013,Small Market,East,15,Beans,Coffee,Amaretto,49,128,New Hampshire,30,60,90,38,#REF!,#REF!,38%,15,38,19,3.266666667,Low Profit,49,128
+603,45,01-10-2013,Small Market,East,14,Beans,Coffee,Colombian,36,121,New Hampshire,30,50,90,45,#REF!,#REF!,30%,14,31,15,2.571428571,Low Profit,45,121
+603,45,01-10-2013,Small Market,East,41,Beans,Espresso,Caffe Mocha,-10,116,New Hampshire,30,30,90,71,#REF!,#REF!,-9%,41,26,15,-0.243902439,Low Profit,45,116
+504,60,01-10-2013,Small Market,South,54,Beans,Espresso,Caffe Latte,1,153,Louisiana,30,10,90,83,#REF!,#REF!,1%,54,63,30,0.018518519,Low Profit,60,153
+702,34,01-10-2013,Small Market,West,12,Beans,Coffee,Colombian,-3,82,Nevada,40,30,100,45,#REF!,#REF!,-4%,12,-18,-6,-0.25,Low Profit,34,82
+971,54,01-10-2013,Small Market,West,20,Beans,Espresso,Caffe Latte,18,128,Oregon,40,40,100,54,#REF!,#REF!,14%,20,28,14,0.9,Low Profit,54,128
+573,45,01-10-2013,Small Market,Central,41,Leaves,Herbal Tea,Chamomile,-9,116,Missouri,20,30,80,70,#REF!,#REF!,-8%,41,36,25,-0.219512195,Low Profit,45,116
+262,48,01-10-2013,Small Market,Central,13,Leaves,Herbal Tea,Lemon,67,126,Wisconsin,30,60,90,25,#REF!,#REF!,53%,13,36,18,5.153846154,Low Profit,48,126
+801,49,01-10-2013,Small Market,West,15,Leaves,Herbal Tea,Chamomile,49,128,Utah,30,60,90,38,#REF!,#REF!,38%,15,38,19,3.266666667,Low Profit,49,128
+509,48,01-10-2013,Small Market,West,13,Leaves,Herbal Tea,Lemon,70,127,Washington,30,60,90,24,#REF!,#REF!,55%,13,37,18,5.384615385,Low Profit,48,127
+475,40,01-10-2013,Small Market,East,11,Leaves,Tea,Darjeeling,53,106,Connecticut,40,50,100,23,#REF!,#REF!,50%,11,6,0,4.818181818,Low Profit,40,106
+503,82,01-10-2013,Small Market,West,27,Leaves,Tea,Earl Grey,95,218,Oregon,30,50,90,59,#REF!,#REF!,44%,27,128,52,3.518518519,Low Profit,82,218
+541,91,01-10-2013,Small Market,West,28,Leaves,Tea,Green Tea,113,232,Oregon,40,50,100,51,#REF!,#REF!,49%,28,132,51,4.035714286,High Profit,91,232
+936,40,01-11-2013,Major Market,South,13,Beans,Coffee,Decaf Irish Cream,39,98,Texas,40,40,100,26,#REF!,#REF!,40%,13,-2,0,3,Low Profit,40,98
+254,50,01-11-2013,Major Market,South,14,Beans,Espresso,Decaf Espresso,71,131,Texas,30,40,90,25,#REF!,#REF!,54%,14,41,20,5.071428571,Low Profit,50,131
+719,40,01-11-2013,Major Market,Central,13,Beans,Coffee,Colombian,40,98,Colorado,30,40,90,25,#REF!,#REF!,41%,13,8,10,3.076923077,Low Profit,40,98
+339,52,01-11-2013,Major Market,East,47,Beans,Espresso,Caffe Mocha,-12,128,Massachusetts,50,0,110,76,#REF!,#REF!,-9%,47,18,2,-0.255319149,Low Profit,52,128
+561,75,01-11-2013,Major Market,East,23,Leaves,Herbal Tea,Mint,65,175,Florida,50,30,110,45,#REF!,#REF!,37%,23,65,25,2.826086957,Low Profit,75,175
+806,46,01-11-2013,Major Market,South,14,Leaves,Herbal Tea,Lemon,46,121,Texas,40,30,100,37,#REF!,#REF!,38%,14,21,6,3.285714286,Low Profit,46,121
+719,55,01-11-2013,Major Market,Central,20,Leaves,Tea,Darjeeling,22,132,Colorado,40,20,100,54,#REF!,#REF!,17%,20,32,15,1.1,Low Profit,55,132
+708,50,01-11-2013,Major Market,Central,14,Leaves,Tea,Darjeeling,71,131,Illinois,40,40,100,25,#REF!,#REF!,54%,14,31,10,5.071428571,Low Profit,50,131
+719,57,01-11-2013,Major Market,Central,17,Leaves,Tea,Earl Grey,43,133,Colorado,40,30,100,39,#REF!,#REF!,32%,17,33,17,2.529411765,Low Profit,57,133
+351,36,01-11-2013,Major Market,East,10,Leaves,Tea,Darjeeling,46,94,Massachusetts,30,40,90,21,#REF!,#REF!,49%,10,4,6,4.6,Low Profit,36,94
+636,33,01-11-2013,Small Market,Central,9,Beans,Espresso,Decaf Espresso,40,86,Missouri,40,50,100,21,#REF!,#REF!,47%,9,-14,-7,4.444444444,Low Profit,33,86
+504,31,01-11-2013,Small Market,South,8,Beans,Coffee,Decaf Irish Cream,42,83,Louisiana,30,50,90,19,#REF!,#REF!,51%,8,-7,1,5.25,Low Profit,31,83
+580,36,01-11-2013,Small Market,South,10,Beans,Coffee,Decaf Irish Cream,45,94,Oklahoma,40,40,100,22,#REF!,#REF!,48%,10,-6,-4,4.5,Low Profit,36,94
+337,49,01-11-2013,Small Market,South,15,Beans,Espresso,Decaf Espresso,50,128,Louisiana,30,30,90,37,#REF!,#REF!,39%,15,38,19,3.333333333,Low Profit,49,128
+262,54,01-11-2013,Small Market,Central,20,Beans,Coffee,Amaretto,21,129,Wisconsin,50,20,110,53,#REF!,#REF!,16%,20,19,4,1.05,Low Profit,54,129
+603,46,01-11-2013,Small Market,East,14,Beans,Coffee,Amaretto,45,120,New Hampshire,40,40,100,37,#REF!,#REF!,38%,14,20,6,3.214285714,Low Profit,46,120
+603,43,01-11-2013,Small Market,East,14,Beans,Coffee,Colombian,30,116,New Hampshire,30,30,90,46,#REF!,#REF!,26%,14,26,13,2.142857143,Low Profit,43,116
+603,44,01-11-2013,Small Market,East,40,Beans,Espresso,Caffe Mocha,-12,113,New Hampshire,40,10,100,70,#REF!,#REF!,-11%,40,13,4,-0.3,Low Profit,44,113
+318,53,01-11-2013,Small Market,South,16,Beans,Espresso,Caffe Mocha,73,150,Louisiana,40,30,100,39,#REF!,#REF!,49%,16,50,13,4.5625,Low Profit,53,150
+206,54,01-11-2013,Small Market,West,20,Beans,Espresso,Caffe Mocha,19,129,Washington,50,20,110,54,#REF!,#REF!,15%,20,19,4,0.95,Low Profit,54,129
+580,54,01-11-2013,Small Market,South,20,Leaves,Herbal Tea,Chamomile,19,129,Oklahoma,50,20,110,54,#REF!,#REF!,15%,20,19,4,0.95,Low Profit,54,129
+435,46,01-11-2013,Small Market,West,14,Leaves,Herbal Tea,Chamomile,45,120,Utah,40,30,100,37,#REF!,#REF!,38%,14,20,6,3.214285714,Low Profit,46,120
+435,43,01-11-2013,Small Market,West,14,Leaves,Herbal Tea,Lemon,30,116,Utah,40,30,100,46,#REF!,#REF!,26%,14,16,3,2.142857143,Low Profit,43,116
+253,47,01-11-2013,Small Market,West,13,Leaves,Herbal Tea,Lemon,65,123,Washington,40,40,100,24,#REF!,#REF!,53%,13,23,7,5,Low Profit,47,123
+203,36,01-11-2013,Small Market,East,10,Leaves,Tea,Green Tea,49,96,Connecticut,30,40,90,21,#REF!,#REF!,51%,10,6,6,4.9,Low Profit,36,96
+509,61,01-11-2013,Small Market,West,55,Leaves,Tea,Green Tea,1,157,Washington,40,0,100,85,#REF!,#REF!,1%,55,57,21,0.018181818,Low Profit,61,157
+956,43,01-12-2013,Major Market,South,14,Beans,Coffee,Decaf Irish Cream,45,106,Texas,50,40,110,26,#REF!,#REF!,42%,14,-4,-7,3.214285714,Low Profit,43,106
+430,54,01-12-2013,Major Market,South,15,Beans,Espresso,Decaf Espresso,77,142,Texas,40,40,100,27,#REF!,#REF!,54%,15,42,14,5.133333333,Low Profit,54,142
+719,47,01-12-2013,Major Market,Central,42,Leaves,Herbal Tea,Lemon,-9,119,Colorado,40,0,100,71,#REF!,#REF!,-8%,42,19,7,-0.214285714,Low Profit,47,119
+970,54,01-12-2013,Major Market,Central,17,Leaves,Herbal Tea,Mint,43,135,Colorado,50,30,110,44,#REF!,#REF!,32%,17,25,4,2.529411765,Low Profit,54,135
+305,65,01-12-2013,Major Market,East,24,Leaves,Herbal Tea,Lemon,34,155,Florida,40,20,100,57,#REF!,#REF!,22%,24,55,25,1.416666667,Low Profit,65,155
+407,80,01-12-2013,Major Market,East,24,Leaves,Herbal Tea,Mint,74,188,Florida,60,30,120,46,#REF!,#REF!,39%,24,68,20,3.083333333,Low Profit,80,188
+325,54,01-12-2013,Major Market,South,17,Leaves,Herbal Tea,Chamomile,42,135,Texas,50,30,110,45,#REF!,#REF!,31%,17,25,4,2.470588235,Low Profit,54,135
+430,41,01-12-2013,Major Market,South,13,Leaves,Herbal Tea,Lemon,36,108,Texas,30,30,90,36,#REF!,#REF!,33%,13,18,11,2.769230769,Low Profit,41,108
+408,54,01-12-2013,Major Market,West,15,Leaves,Tea,Earl Grey,79,142,California,30,50,90,26,#REF!,#REF!,56%,15,52,24,5.266666667,Low Profit,54,142
+816,31,01-12-2013,Small Market,Central,8,Beans,Espresso,Decaf Espresso,40,82,Missouri,30,50,90,19,#REF!,#REF!,49%,8,-8,1,5,Low Profit,31,82
+337,34,01-12-2013,Small Market,South,9,Beans,Coffee,Decaf Irish Cream,46,91,Louisiana,40,50,100,20,#REF!,#REF!,51%,9,-9,-6,5.111111111,Low Profit,34,91
+918,33,01-12-2013,Small Market,South,9,Beans,Coffee,Decaf Irish Cream,42,87,Oklahoma,30,50,90,21,#REF!,#REF!,48%,9,-3,3,4.666666667,Low Profit,33,87
+603,48,01-12-2013,Small Market,East,15,Beans,Coffee,Colombian,42,130,New Hampshire,40,30,100,46,#REF!,#REF!,32%,15,30,8,2.8,Low Profit,48,130
+225,55,01-12-2013,Small Market,South,49,Beans,Espresso,Caffe Latte,-4,140,Louisiana,40,0,100,79,#REF!,#REF!,-3%,49,40,15,-0.081632653,Low Profit,55,140
+505,49,01-12-2013,Small Market,South,44,Beans,Espresso,Caffe Mocha,-7,126,New Mexico,30,10,90,74,#REF!,#REF!,-6%,44,36,19,-0.159090909,Low Profit,49,126
+702,39,01-12-2013,Small Market,West,14,Beans,Coffee,Colombian,1,94,Nevada,40,20,100,48,#REF!,#REF!,1%,14,-6,-1,0.071428571,Low Profit,39,94
+314,49,01-12-2013,Small Market,Central,44,Leaves,Herbal Tea,Chamomile,-7,126,Missouri,40,0,100,74,#REF!,#REF!,-6%,44,26,9,-0.159090909,Low Profit,49,126
+920,41,01-12-2013,Small Market,Central,12,Leaves,Herbal Tea,Chamomile,45,114,Wisconsin,30,30,90,36,#REF!,#REF!,39%,12,24,11,3.75,Low Profit,41,114
+417,92,01-12-2013,Small Market,Central,28,Leaves,Herbal Tea,Lemon,24,171,Missouri,80,20,140,52,#REF!,#REF!,14%,28,31,12,0.857142857,Low Profit,92,171
+860,68,01-12-2013,Small Market,East,25,Leaves,Herbal Tea,Lemon,40,163,Connecticut,50,20,110,58,#REF!,#REF!,25%,25,53,18,1.6,Low Profit,68,163
+203,63,01-12-2013,Small Market,East,19,Leaves,Herbal Tea,Mint,53,148,Connecticut,40,40,100,40,#REF!,#REF!,36%,19,48,23,2.789473684,Low Profit,63,148
+435,92,01-12-2013,Small Market,West,28,Leaves,Herbal Tea,Mint,25,171,Utah,80,20,140,51,#REF!,#REF!,15%,28,31,12,0.892857143,Low Profit,92,171
+262,55,01-12-2013,Small Market,Central,49,Leaves,Tea,Earl Grey,-4,140,Wisconsin,40,0,100,79,#REF!,#REF!,-3%,49,40,15,-0.081632653,Low Profit,55,140
+719,39,01-10-2012,Major Market,Central,12,Beans,Coffee,Colombian,27,90,Colorado,30,50,80,24,#REF!,#REF!,30%,12,10,9,2.25,Low Profit,39,90
+305,80,01-10-2012,Major Market,East,24,Leaves,Herbal Tea,Mint,48,174,Florida,40,40,90,46,#REF!,#REF!,28%,24,84,40,2,Low Profit,80,174
+303,54,01-10-2012,Major Market,Central,20,Leaves,Tea,Darjeeling,13,120,Colorado,30,30,80,53,#REF!,#REF!,11%,20,40,24,0.65,Low Profit,54,120
+303,54,01-10-2012,Major Market,Central,16,Leaves,Tea,Earl Grey,27,118,Colorado,30,40,80,37,#REF!,#REF!,23%,16,38,24,1.6875,Low Profit,54,118
+508,27,01-10-2012,Major Market,East,7,Leaves,Tea,Darjeeling,20,66,Massachusetts,20,50,70,19,#REF!,#REF!,30%,7,-4,7,2.857142857,Low Profit,27,66
+209,76,01-10-2012,Major Market,West,21,Leaves,Tea,Earl Grey,79,187,California,30,50,80,32,#REF!,#REF!,42%,21,107,46,3.761904762,Low Profit,76,187
+715,22,01-10-2012,Small Market,Central,7,Beans,Espresso,Decaf Espresso,10,51,Wisconsin,20,50,70,19,#REF!,#REF!,20%,7,-19,2,1.428571429,Low Profit,22,51
+319,23,01-10-2012,Small Market,Central,6,Beans,Espresso,Caffe Mocha,18,58,Iowa,20,50,70,17,#REF!,#REF!,31%,6,-12,3,3,Low Profit,23,58
+959,79,01-10-2012,Small Market,East,30,Leaves,Herbal Tea,Lemon,34,177,Connecticut,40,30,90,64,#REF!,#REF!,19%,30,87,39,1.133333333,Low Profit,79,177
+860,65,01-10-2012,Small Market,East,20,Leaves,Herbal Tea,Mint,35,142,Connecticut,30,50,80,42,#REF!,#REF!,25%,20,62,35,1.75,Low Profit,65,142
+262,46,01-10-2012,Small Market,Central,14,Leaves,Tea,Darjeeling,30,113,Wisconsin,20,40,70,37,#REF!,#REF!,27%,14,43,26,2.142857143,Low Profit,46,113
+715,60,01-10-2012,Small Market,Central,54,Leaves,Tea,Earl Grey,0,144,Wisconsin,40,0,90,84,#REF!,#REF!,0%,54,54,20,0,Low Profit,60,144
+206,60,01-10-2012,Small Market,West,18,Leaves,Tea,Darjeeling,57,159,Washington,20,40,70,42,#REF!,#REF!,36%,18,89,40,3.166666667,Low Profit,60,159
+773,40,01-11-2012,Major Market,Central,13,Leaves,Herbal Tea,Lemon,27,92,Illinois,30,30,80,25,#REF!,#REF!,29%,13,12,10,2.076923077,Low Profit,40,92
+614,36,01-11-2012,Major Market,Central,10,Leaves,Herbal Tea,Lemon,30,88,Ohio,30,40,80,22,#REF!,#REF!,34%,10,8,6,3,Low Profit,36,88
+617,55,01-11-2012,Major Market,East,20,Leaves,Herbal Tea,Lemon,15,124,Massachusetts,40,20,90,54,#REF!,#REF!,12%,20,34,15,0.75,Low Profit,55,124
+707,40,01-11-2012,Major Market,West,13,Leaves,Herbal Tea,Mint,27,92,California,30,30,80,25,#REF!,#REF!,29%,13,12,10,2.076923077,Low Profit,40,92
+352,28,01-11-2012,Major Market,East,7,Leaves,Tea,Darjeeling,23,70,Florida,20,40,70,19,#REF!,#REF!,33%,7,0,8,3.285714286,Low Profit,28,70
+561,31,01-11-2012,Major Market,East,8,Leaves,Tea,Green Tea,28,78,Florida,30,40,80,19,#REF!,#REF!,36%,8,-2,1,3.5,Low Profit,31,78
+351,32,01-11-2012,Major Market,East,8,Leaves,Tea,Green Tea,29,80,Massachusetts,30,40,80,19,#REF!,#REF!,36%,8,0,2,3.625,Low Profit,32,80
+650,50,01-11-2012,Major Market,West,14,Leaves,Tea,Earl Grey,47,123,California,30,40,80,26,#REF!,#REF!,38%,14,43,20,3.357142857,Low Profit,50,123
+712,0,01-11-2012,Small Market,Central,0,Beans,Espresso,Decaf Espresso,31,43,Iowa,0,40,50,12,#REF!,#REF!,72%,0,-7,0,#DIV/0!,Low Profit,0,43
+505,82,01-11-2012,Small Market,South,25,Beans,Coffee,Decaf Irish Cream,-8,122,New Mexico,90,10,140,48,#REF!,#REF!,-7%,25,-18,-8,-0.32,Low Profit,82,122
+515,22,01-11-2012,Small Market,Central,6,Beans,Espresso,Caffe Mocha,16,56,Iowa,20,40,70,18,#REF!,#REF!,29%,6,-14,2,2.666666667,Low Profit,22,56
+505,44,01-11-2012,Small Market,South,40,Beans,Espresso,Caffe Mocha,-7,106,New Mexico,30,0,80,69,#REF!,#REF!,-7%,40,26,14,-0.175,Low Profit,44,106
+775,33,01-11-2012,Small Market,West,12,Beans,Coffee,Colombian,-4,74,Nevada,30,10,80,45,#REF!,#REF!,-5%,12,-6,3,-0.333333333,Low Profit,33,74
+573,44,01-11-2012,Small Market,Central,40,Leaves,Herbal Tea,Chamomile,-8,106,Missouri,40,0,90,70,#REF!,#REF!,-8%,40,16,4,-0.2,Low Profit,44,106
+262,31,01-11-2012,Small Market,Central,8,Leaves,Herbal Tea,Lemon,27,78,Wisconsin,20,40,70,20,#REF!,#REF!,35%,8,8,11,3.375,Low Profit,31,78
+475,69,01-11-2012,Small Market,East,21,Leaves,Herbal Tea,Mint,38,150,Connecticut,50,30,100,43,#REF!,#REF!,25%,21,50,19,1.80952381,Low Profit,69,150
+262,49,01-11-2012,Small Market,Central,15,Leaves,Tea,Darjeeling,33,120,Wisconsin,40,20,90,38,#REF!,#REF!,28%,15,30,9,2.2,Low Profit,49,120
+206,49,01-11-2012,Small Market,West,15,Leaves,Tea,Earl Grey,34,120,Washington,30,30,80,37,#REF!,#REF!,28%,15,40,19,2.266666667,Low Profit,49,120
+970,43,01-12-2012,Major Market,Central,14,Beans,Coffee,Colombian,29,99,Colorado,40,30,90,27,#REF!,#REF!,29%,14,9,3,2.071428571,Low Profit,43,99
+614,41,01-12-2012,Major Market,Central,13,Beans,Coffee,Colombian,24,101,Ohio,40,20,90,36,#REF!,#REF!,24%,13,11,1,1.846153846,Low Profit,41,101
+339,47,01-12-2012,Major Market,East,42,Beans,Espresso,Caffe Mocha,-20,99,Massachusetts,40,-10,90,72,#REF!,#REF!,-20%,42,9,7,-0.476190476,Low Profit,47,99
+773,43,01-12-2012,Major Market,Central,14,Leaves,Herbal Tea,Lemon,29,99,Illinois,40,30,90,27,#REF!,#REF!,29%,14,9,3,2.071428571,Low Profit,43,99
+805,43,01-12-2012,Major Market,West,14,Leaves,Herbal Tea,Mint,29,99,California,40,30,90,27,#REF!,#REF!,29%,14,9,3,2.071428571,Low Profit,43,99
+303,46,01-12-2012,Major Market,Central,17,Leaves,Tea,Darjeeling,6,103,Colorado,30,10,80,51,#REF!,#REF!,6%,17,23,16,0.352941176,Low Profit,46,103
+303,53,01-12-2012,Major Market,Central,16,Leaves,Tea,Earl Grey,26,116,Colorado,40,20,90,37,#REF!,#REF!,22%,16,26,13,1.625,Low Profit,53,116
+617,33,01-12-2012,Major Market,East,9,Leaves,Tea,Darjeeling,29,82,Massachusetts,30,40,80,20,#REF!,#REF!,35%,9,2,3,3.222222222,Low Profit,33,82
+863,34,01-12-2012,Major Market,East,9,Leaves,Tea,Green Tea,30,85,Florida,30,40,80,21,#REF!,#REF!,35%,9,5,4,3.333333333,Low Profit,34,85
+641,0,01-12-2012,Small Market,Central,0,Beans,Espresso,Decaf Espresso,32,43,Iowa,0,40,50,11,#REF!,#REF!,74%,0,-7,0,#DIV/0!,Low Profit,0,43
+225,43,01-12-2012,Small Market,South,13,Beans,Espresso,Decaf Espresso,27,106,Louisiana,30,20,80,36,#REF!,#REF!,25%,13,26,13,2.076923077,Low Profit,43,106
+702,31,01-12-2012,Small Market,West,9,Beans,Coffee,Decaf Irish Cream,8,69,Nevada,30,30,80,30,#REF!,#REF!,12%,9,-11,1,0.888888889,Low Profit,31,69
+515,23,01-12-2012,Small Market,Central,6,Beans,Espresso,Caffe Mocha,17,58,Iowa,20,40,70,18,#REF!,#REF!,29%,6,-12,3,2.833333333,Low Profit,23,58
+985,41,01-12-2012,Small Market,South,12,Beans,Espresso,Caffe Mocha,31,107,Louisiana,30,20,80,35,#REF!,#REF!,29%,12,27,11,2.583333333,Low Profit,41,107
+971,46,01-12-2012,Small Market,West,17,Beans,Espresso,Caffe Latte,6,103,Oregon,40,10,90,51,#REF!,#REF!,6%,17,13,6,0.352941176,Low Profit,46,103
+262,43,01-12-2012,Small Market,Central,13,Leaves,Tea,Darjeeling,28,106,Wisconsin,30,20,80,35,#REF!,#REF!,26%,13,26,13,2.153846154,Low Profit,43,106
+959,33,01-12-2012,Small Market,East,9,Leaves,Tea,Green Tea,28,82,Connecticut,30,40,80,21,#REF!,#REF!,34%,9,2,3,3.111111111,Low Profit,33,82
+435,49,01-12-2012,Small Market,West,44,Leaves,Tea,Darjeeling,-4,118,Utah,30,0,80,73,#REF!,#REF!,-3%,44,38,19,-0.090909091,Low Profit,49,118
+360,55,01-12-2012,Small Market,West,49,Leaves,Tea,Green Tea,-3,131,Washington,40,-10,90,79,#REF!,#REF!,-2%,49,41,15,-0.06122449,Low Profit,55,131
+303,39,01-10-2013,Major Market,Central,12,Beans,Coffee,Colombian,40,96,Colorado,30,50,80,24,#REF!,#REF!,42%,12,16,9,3.333333333,Low Profit,39,96
+904,80,01-10-2013,Major Market,East,24,Leaves,Herbal Tea,Mint,71,185,Florida,40,40,90,46,#REF!,#REF!,38%,24,95,40,2.958333333,Low Profit,80,185
+720,54,01-10-2013,Major Market,Central,20,Leaves,Tea,Darjeeling,19,128,Colorado,30,30,80,53,#REF!,#REF!,15%,20,48,24,0.95,Low Profit,54,128
+970,54,01-10-2013,Major Market,Central,16,Leaves,Tea,Earl Grey,40,126,Colorado,30,40,80,37,#REF!,#REF!,32%,16,46,24,2.5,Low Profit,54,126
+978,27,01-10-2013,Major Market,East,7,Leaves,Tea,Darjeeling,30,70,Massachusetts,20,50,70,19,#REF!,#REF!,43%,7,0,7,4.285714286,Low Profit,27,70
+626,76,01-10-2013,Major Market,West,21,Leaves,Tea,Earl Grey,117,199,California,30,50,80,32,#REF!,#REF!,59%,21,119,46,5.571428571,High Profit,76,199
+262,22,01-10-2013,Small Market,Central,7,Beans,Espresso,Decaf Espresso,15,54,Wisconsin,20,50,70,19,#REF!,#REF!,28%,7,-16,2,2.142857143,Low Profit,22,54
+641,23,01-10-2013,Small Market,Central,6,Beans,Espresso,Caffe Mocha,27,62,Iowa,20,50,70,17,#REF!,#REF!,44%,6,-8,3,4.5,Low Profit,23,62
+203,79,01-10-2013,Small Market,East,30,Leaves,Herbal Tea,Lemon,50,189,Connecticut,40,30,90,64,#REF!,#REF!,26%,30,99,39,1.666666667,Low Profit,79,189
+203,65,01-10-2013,Small Market,East,20,Leaves,Herbal Tea,Mint,52,151,Connecticut,30,50,80,42,#REF!,#REF!,34%,20,71,35,2.6,Low Profit,65,151
+262,46,01-10-2013,Small Market,Central,14,Leaves,Tea,Darjeeling,45,120,Wisconsin,20,40,70,37,#REF!,#REF!,38%,14,50,26,3.214285714,Low Profit,46,120
+262,60,01-10-2013,Small Market,Central,54,Leaves,Tea,Earl Grey,0,153,Wisconsin,40,0,90,84,#REF!,#REF!,0%,54,63,20,0,Low Profit,60,153
+425,60,01-10-2013,Small Market,West,18,Leaves,Tea,Darjeeling,85,169,Washington,20,40,70,42,#REF!,#REF!,50%,18,99,40,4.722222222,Low Profit,60,169
+312,40,01-11-2013,Major Market,Central,13,Leaves,Herbal Tea,Lemon,40,98,Illinois,30,30,80,25,#REF!,#REF!,41%,13,18,10,3.076923077,Low Profit,40,98
+419,36,01-11-2013,Major Market,Central,10,Leaves,Herbal Tea,Lemon,45,94,Ohio,30,40,80,22,#REF!,#REF!,48%,10,14,6,4.5,Low Profit,36,94
+857,55,01-11-2013,Major Market,East,20,Leaves,Herbal Tea,Lemon,22,132,Massachusetts,40,20,90,54,#REF!,#REF!,17%,20,42,15,1.1,Low Profit,55,132
+323,40,01-11-2013,Major Market,West,13,Leaves,Herbal Tea,Mint,40,98,California,30,30,80,25,#REF!,#REF!,41%,13,18,10,3.076923077,Low Profit,40,98
+352,28,01-11-2013,Major Market,East,7,Leaves,Tea,Darjeeling,34,75,Florida,20,40,70,19,#REF!,#REF!,45%,7,5,8,4.857142857,Low Profit,28,75
+904,31,01-11-2013,Major Market,East,8,Leaves,Tea,Green Tea,42,83,Florida,30,40,80,19,#REF!,#REF!,51%,8,3,1,5.25,Low Profit,31,83
+978,32,01-11-2013,Major Market,East,8,Leaves,Tea,Green Tea,43,85,Massachusetts,30,40,80,19,#REF!,#REF!,51%,8,5,2,5.375,Low Profit,32,85
+760,50,01-11-2013,Major Market,West,14,Leaves,Tea,Earl Grey,70,131,California,30,40,80,26,#REF!,#REF!,53%,14,51,20,5,Low Profit,50,131
+515,0,01-11-2013,Small Market,Central,0,Beans,Espresso,Decaf Espresso,46,46,Iowa,0,40,50,12,#REF!,#REF!,100%,0,-4,0,#DIV/0!,Low Profit,0,46
+505,82,01-11-2013,Small Market,South,25,Beans,Coffee,Decaf Irish Cream,-12,130,New Mexico,90,10,140,48,#REF!,#REF!,-9%,25,-10,-8,-0.48,Low Profit,82,130
+515,22,01-11-2013,Small Market,Central,6,Beans,Espresso,Caffe Mocha,24,60,Iowa,20,40,70,18,#REF!,#REF!,40%,6,-10,2,4,Low Profit,22,60
+505,44,01-11-2013,Small Market,South,40,Beans,Espresso,Caffe Mocha,-10,113,New Mexico,30,0,80,69,#REF!,#REF!,-9%,40,33,14,-0.25,Low Profit,44,113
+775,33,01-11-2013,Small Market,West,12,Beans,Coffee,Colombian,-6,79,Nevada,30,10,80,45,#REF!,#REF!,-8%,12,-1,3,-0.5,Low Profit,33,79
+314,44,01-11-2013,Small Market,Central,40,Leaves,Herbal Tea,Chamomile,-12,113,Missouri,40,0,90,70,#REF!,#REF!,-11%,40,23,4,-0.3,Low Profit,44,113
+715,31,01-11-2013,Small Market,Central,8,Leaves,Herbal Tea,Lemon,40,83,Wisconsin,20,40,70,20,#REF!,#REF!,48%,8,13,11,5,Low Profit,31,83
+959,69,01-11-2013,Small Market,East,21,Leaves,Herbal Tea,Mint,56,160,Connecticut,50,30,100,43,#REF!,#REF!,35%,21,60,19,2.666666667,Low Profit,69,160
+715,49,01-11-2013,Small Market,Central,15,Leaves,Tea,Darjeeling,49,128,Wisconsin,40,20,90,38,#REF!,#REF!,38%,15,38,9,3.266666667,Low Profit,49,128
+206,49,01-11-2013,Small Market,West,15,Leaves,Tea,Earl Grey,50,128,Washington,30,30,80,37,#REF!,#REF!,39%,15,48,19,3.333333333,Low Profit,49,128
+970,43,01-12-2013,Major Market,Central,14,Beans,Coffee,Colombian,43,106,Colorado,40,30,90,27,#REF!,#REF!,41%,14,16,3,3.071428571,Low Profit,43,106
+330,41,01-12-2013,Major Market,Central,13,Beans,Coffee,Colombian,36,108,Ohio,40,20,90,36,#REF!,#REF!,33%,13,18,1,2.769230769,Low Profit,41,108
+978,47,01-12-2013,Major Market,East,42,Beans,Espresso,Caffe Mocha,-30,106,Massachusetts,40,-10,90,72,#REF!,#REF!,-28%,42,16,7,-0.714285714,Low Profit,47,106
+312,43,01-12-2013,Major Market,Central,14,Leaves,Herbal Tea,Lemon,43,106,Illinois,40,30,90,27,#REF!,#REF!,41%,14,16,3,3.071428571,Low Profit,43,106
+323,43,01-12-2013,Major Market,West,14,Leaves,Herbal Tea,Mint,43,106,California,40,30,90,27,#REF!,#REF!,41%,14,16,3,3.071428571,Low Profit,43,106
+303,46,01-12-2013,Major Market,Central,17,Leaves,Tea,Darjeeling,9,110,Colorado,30,10,80,51,#REF!,#REF!,8%,17,30,16,0.529411765,Low Profit,46,110
+970,53,01-12-2013,Major Market,Central,16,Leaves,Tea,Earl Grey,39,124,Colorado,40,20,90,37,#REF!,#REF!,31%,16,34,13,2.4375,Low Profit,53,124
+978,33,01-12-2013,Major Market,East,9,Leaves,Tea,Darjeeling,43,87,Massachusetts,30,40,80,20,#REF!,#REF!,49%,9,7,3,4.777777778,Low Profit,33,87
+321,34,01-12-2013,Major Market,East,9,Leaves,Tea,Green Tea,45,91,Florida,30,40,80,21,#REF!,#REF!,49%,9,11,4,5,Low Profit,34,91
+563,0,01-12-2013,Small Market,Central,0,Beans,Espresso,Decaf Espresso,47,46,Iowa,0,40,50,11,#REF!,#REF!,102%,0,-4,0,#DIV/0!,Low Profit,0,46
+318,43,01-12-2013,Small Market,South,13,Beans,Espresso,Decaf Espresso,40,113,Louisiana,30,20,80,36,#REF!,#REF!,35%,13,33,13,3.076923077,Low Profit,43,113
+775,31,01-12-2013,Small Market,West,9,Beans,Coffee,Decaf Irish Cream,12,74,Nevada,30,30,80,30,#REF!,#REF!,16%,9,-6,1,1.333333333,Low Profit,31,74
+515,23,01-12-2013,Small Market,Central,6,Beans,Espresso,Caffe Mocha,25,62,Iowa,20,40,70,18,#REF!,#REF!,40%,6,-8,3,4.166666667,Low Profit,23,62
+225,41,01-12-2013,Small Market,South,12,Beans,Espresso,Caffe Mocha,46,114,Louisiana,30,20,80,35,#REF!,#REF!,40%,12,34,11,3.833333333,Low Profit,41,114
+971,46,01-12-2013,Small Market,West,17,Beans,Espresso,Caffe Latte,9,110,Oregon,40,10,90,51,#REF!,#REF!,8%,17,20,6,0.529411765,Low Profit,46,110
+262,43,01-12-2013,Small Market,Central,13,Leaves,Tea,Darjeeling,42,113,Wisconsin,30,20,80,35,#REF!,#REF!,37%,13,33,13,3.230769231,Low Profit,43,113
+959,33,01-12-2013,Small Market,East,9,Leaves,Tea,Green Tea,42,87,Connecticut,30,40,80,21,#REF!,#REF!,48%,9,7,3,4.666666667,Low Profit,33,87
+435,49,01-12-2013,Small Market,West,44,Leaves,Tea,Darjeeling,-6,126,Utah,30,0,80,73,#REF!,#REF!,-5%,44,46,19,-0.136363636,Low Profit,49,126
+509,55,01-12-2013,Small Market,West,49,Leaves,Tea,Green Tea,-4,140,Washington,40,-10,90,79,#REF!,#REF!,-3%,49,50,15,-0.081632653,Low Profit,55,140
+630,39,01-10-2012,Major Market,Central,12,Leaves,Herbal Tea,Lemon,27,90,Illinois,20,40,60,24,#REF!,#REF!,30%,12,30,19,2.25,Low Profit,39,90
+209,39,01-10-2012,Major Market,West,12,Leaves,Herbal Tea,Mint,26,90,California,20,40,60,25,#REF!,#REF!,29%,12,30,19,2.166666667,Low Profit,39,90
+505,86,01-10-2012,Small Market,South,26,Beans,Coffee,Decaf Irish Cream,-26,109,New Mexico,110,10,150,49,#REF!,#REF!,-24%,26,-41,-24,-1,Low Profit,86,109
+318,46,01-10-2012,Small Market,South,14,Beans,Espresso,Decaf Espresso,30,113,Louisiana,20,40,60,37,#REF!,#REF!,27%,14,53,26,2.142857143,Low Profit,46,113
+515,31,01-10-2012,Small Market,Central,9,Beans,Coffee,Colombian,7,68,Iowa,20,30,60,30,#REF!,#REF!,10%,9,8,11,0.777777778,Low Profit,31,68
+505,45,01-10-2012,Small Market,South,41,Beans,Espresso,Caffe Mocha,-6,109,New Mexico,20,10,60,70,#REF!,#REF!,-6%,41,49,25,-0.146341463,Low Profit,45,109
+801,32,01-10-2012,Small Market,West,8,Beans,Espresso,Caffe Latte,28,79,Utah,20,40,60,19,#REF!,#REF!,35%,8,19,12,3.5,Low Profit,32,79
+505,31,01-10-2012,Small Market,South,9,Leaves,Herbal Tea,Lemon,6,68,New Mexico,10,30,50,31,#REF!,#REF!,9%,9,18,21,0.666666667,Low Profit,31,68
+636,39,01-10-2012,Small Market,Central,12,Leaves,Tea,Darjeeling,13,92,Missouri,20,30,60,40,#REF!,#REF!,14%,12,32,19,1.083333333,Low Profit,39,92
+959,24,01-10-2012,Small Market,East,6,Leaves,Tea,Green Tea,18,60,Connecticut,20,40,60,18,#REF!,#REF!,30%,6,0,4,3,Low Profit,24,60
+603,0,01-10-2012,Small Market,East,0,Leaves,Tea,Green Tea,32,43,New Hampshire,0,40,40,11,#REF!,#REF!,74%,0,3,0,#DIV/0!,Low Profit,0,43
+801,45,01-10-2012,Small Market,West,41,Leaves,Tea,Darjeeling,-6,109,Utah,10,20,50,70,#REF!,#REF!,-6%,41,59,35,-0.146341463,Low Profit,45,109
+206,60,01-10-2012,Small Market,West,54,Leaves,Tea,Green Tea,0,144,Washington,20,10,60,84,#REF!,#REF!,0%,54,84,40,0,Low Profit,60,144
+937,32,01-11-2012,Major Market,Central,8,Leaves,Herbal Tea,Chamomile,29,80,Ohio,30,30,70,19,#REF!,#REF!,36%,8,10,2,3.625,Low Profit,32,80
+407,54,01-11-2012,Major Market,East,20,Leaves,Herbal Tea,Lemon,13,121,Florida,40,10,80,54,#REF!,#REF!,11%,20,41,14,0.65,Low Profit,54,121
+715,22,01-11-2012,Small Market,Central,7,Beans,Espresso,Decaf Espresso,11,52,Wisconsin,20,30,60,19,#REF!,#REF!,21%,7,-8,2,1.571428571,Low Profit,22,52
+505,35,01-11-2012,Small Market,South,11,Beans,Espresso,Decaf Espresso,8,82,New Mexico,20,20,60,39,#REF!,#REF!,10%,11,22,15,0.727272727,Low Profit,35,82
+775,29,01-11-2012,Small Market,West,8,Beans,Coffee,Decaf Irish Cream,5,64,Nevada,30,20,70,30,#REF!,#REF!,8%,8,-6,-1,0.625,Low Profit,29,64
+563,29,01-11-2012,Small Market,Central,8,Beans,Coffee,Colombian,5,64,Iowa,20,20,60,30,#REF!,#REF!,8%,8,4,9,0.625,Low Profit,29,64
+603,34,01-11-2012,Small Market,East,12,Beans,Espresso,Regular Espresso,-3,76,New Hampshire,30,0,70,45,#REF!,#REF!,-4%,12,6,4,-0.25,Low Profit,34,76
+918,32,01-11-2012,Small Market,South,8,Beans,Espresso,Caffe Mocha,29,80,Oklahoma,20,30,60,19,#REF!,#REF!,36%,8,20,12,3.625,Low Profit,32,80
+775,0,01-11-2012,Small Market,West,0,Beans,Espresso,Caffe Latte,31,43,Nevada,0,30,40,12,#REF!,#REF!,72%,0,3,0,#DIV/0!,Low Profit,0,43
+435,33,01-11-2012,Small Market,West,9,Beans,Espresso,Caffe Latte,27,81,Utah,30,30,70,21,#REF!,#REF!,33%,9,11,3,3,Low Profit,33,81
+573,82,01-11-2012,Small Market,Central,25,Leaves,Herbal Tea,Lemon,-9,122,Missouri,70,0,110,49,#REF!,#REF!,-7%,25,12,12,-0.36,Low Profit,82,122
+801,82,01-11-2012,Small Market,West,25,Leaves,Herbal Tea,Mint,-8,122,Utah,70,0,110,48,#REF!,#REF!,-7%,25,12,12,-0.32,Low Profit,82,122
+417,35,01-11-2012,Small Market,Central,11,Leaves,Tea,Darjeeling,9,82,Missouri,20,10,60,38,#REF!,#REF!,11%,11,22,15,0.818181818,Low Profit,35,82
+636,34,01-11-2012,Small Market,Central,12,Leaves,Tea,Earl Grey,-3,76,Missouri,20,0,60,45,#REF!,#REF!,-4%,12,16,14,-0.25,Low Profit,34,76
+314,33,01-11-2012,Small Market,Central,12,Leaves,Tea,Green Tea,-4,74,Missouri,20,0,60,45,#REF!,#REF!,-5%,12,14,13,-0.333333333,Low Profit,33,74
+603,0,01-11-2012,Small Market,East,0,Leaves,Tea,Green Tea,32,43,New Hampshire,0,30,40,11,#REF!,#REF!,74%,0,3,0,#DIV/0!,Low Profit,0,43
+435,44,01-11-2012,Small Market,West,40,Leaves,Tea,Darjeeling,-7,106,Utah,30,-10,70,69,#REF!,#REF!,-7%,40,36,14,-0.175,Low Profit,44,106
+937,29,01-12-2012,Major Market,Central,8,Leaves,Herbal Tea,Chamomile,25,73,Ohio,20,30,60,19,#REF!,#REF!,34%,8,13,9,3.125,Low Profit,29,73
+330,33,01-12-2012,Major Market,Central,9,Leaves,Herbal Tea,Lemon,29,82,Ohio,30,30,70,20,#REF!,#REF!,35%,9,12,3,3.222222222,Low Profit,33,82
+508,46,01-12-2012,Major Market,East,17,Leaves,Herbal Tea,Lemon,7,103,Massachusetts,30,10,70,50,#REF!,#REF!,7%,17,33,16,0.411764706,Low Profit,46,103
+813,30,01-12-2012,Major Market,East,8,Leaves,Tea,Darjeeling,26,75,Florida,30,30,70,19,#REF!,#REF!,35%,8,5,0,3.25,Low Profit,30,75
+857,29,01-12-2012,Major Market,East,8,Leaves,Tea,Green Tea,25,73,Massachusetts,30,30,70,19,#REF!,#REF!,34%,8,3,-1,3.125,Low Profit,29,73
+262,24,01-12-2012,Small Market,Central,7,Beans,Espresso,Decaf Espresso,13,56,Wisconsin,30,30,70,19,#REF!,#REF!,23%,7,-14,-6,1.857142857,Low Profit,24,56
+702,0,01-12-2012,Small Market,West,0,Beans,Espresso,Caffe Latte,31,43,Nevada,0,30,40,12,#REF!,#REF!,72%,0,3,0,#DIV/0!,Low Profit,0,43
+435,31,01-12-2012,Small Market,West,8,Beans,Espresso,Caffe Latte,26,77,Utah,30,30,70,20,#REF!,#REF!,34%,8,7,1,3.25,Low Profit,31,77
+715,34,01-12-2012,Small Market,Central,9,Leaves,Herbal Tea,Lemon,30,85,Wisconsin,30,30,70,21,#REF!,#REF!,35%,9,15,4,3.333333333,Low Profit,34,85
+603,39,01-12-2012,Small Market,East,14,Leaves,Herbal Tea,Lemon,2,88,New Hampshire,20,10,60,47,#REF!,#REF!,2%,14,28,19,0.142857143,Low Profit,39,88
+505,31,01-12-2012,Small Market,South,9,Leaves,Herbal Tea,Lemon,7,69,New Mexico,20,20,60,31,#REF!,#REF!,10%,9,9,11,0.777777778,Low Profit,31,69
+573,38,01-12-2012,Small Market,Central,12,Leaves,Tea,Darjeeling,11,89,Missouri,30,10,70,40,#REF!,#REF!,12%,12,19,8,0.916666667,Low Profit,38,89
+636,39,01-12-2012,Small Market,Central,14,Leaves,Tea,Green Tea,2,88,Missouri,30,0,70,47,#REF!,#REF!,2%,14,18,9,0.142857143,Low Profit,39,88
+603,0,01-12-2012,Small Market,East,0,Leaves,Tea,Green Tea,32,43,New Hampshire,0,30,40,11,#REF!,#REF!,74%,0,3,0,#DIV/0!,Low Profit,0,43
+509,41,01-12-2012,Small Market,West,12,Leaves,Tea,Darjeeling,30,107,Washington,30,20,70,36,#REF!,#REF!,28%,12,37,11,2.5,Low Profit,41,107
+801,38,01-12-2012,Small Market,West,12,Leaves,Tea,Earl Grey,12,89,Utah,20,10,60,39,#REF!,#REF!,13%,12,29,18,1,Low Profit,38,89
+509,43,01-12-2012,Small Market,West,13,Leaves,Tea,Earl Grey,28,106,Washington,30,20,70,35,#REF!,#REF!,26%,13,36,13,2.153846154,Low Profit,43,106
+312,39,01-10-2013,Major Market,Central,12,Leaves,Herbal Tea,Lemon,40,96,Illinois,20,40,60,24,#REF!,#REF!,42%,12,36,19,3.333333333,Low Profit,39,96
+530,39,01-10-2013,Major Market,West,12,Leaves,Herbal Tea,Mint,39,96,California,20,40,60,25,#REF!,#REF!,41%,12,36,19,3.25,Low Profit,39,96
+505,86,01-10-2013,Small Market,South,26,Beans,Coffee,Decaf Irish Cream,-39,116,New Mexico,110,10,150,49,#REF!,#REF!,-34%,26,-34,-24,-1.5,Low Profit,86,116
+318,46,01-10-2013,Small Market,South,14,Beans,Espresso,Decaf Espresso,45,120,Louisiana,20,40,60,37,#REF!,#REF!,38%,14,60,26,3.214285714,Low Profit,46,120
+515,31,01-10-2013,Small Market,Central,9,Beans,Coffee,Colombian,10,72,Iowa,20,30,60,30,#REF!,#REF!,14%,9,12,11,1.111111111,Low Profit,31,72
+505,45,01-10-2013,Small Market,South,41,Beans,Espresso,Caffe Mocha,-9,116,New Mexico,20,10,60,70,#REF!,#REF!,-8%,41,56,25,-0.219512195,Low Profit,45,116
+435,32,01-10-2013,Small Market,West,8,Beans,Espresso,Caffe Latte,42,84,Utah,20,40,60,19,#REF!,#REF!,50%,8,24,12,5.25,Low Profit,32,84
+505,31,01-10-2013,Small Market,South,9,Leaves,Herbal Tea,Lemon,9,72,New Mexico,10,30,50,31,#REF!,#REF!,13%,9,22,21,1,Low Profit,31,72
+314,39,01-10-2013,Small Market,Central,12,Leaves,Tea,Darjeeling,19,98,Missouri,20,30,60,40,#REF!,#REF!,19%,12,38,19,1.583333333,Low Profit,39,98
+203,24,01-10-2013,Small Market,East,6,Leaves,Tea,Green Tea,27,64,Connecticut,20,40,60,18,#REF!,#REF!,42%,6,4,4,4.5,Low Profit,24,64
+603,0,01-10-2013,Small Market,East,0,Leaves,Tea,Green Tea,47,46,New Hampshire,0,40,40,11,#REF!,#REF!,102%,0,6,0,#DIV/0!,Low Profit,0,46
+435,45,01-10-2013,Small Market,West,41,Leaves,Tea,Darjeeling,-9,116,Utah,10,20,50,70,#REF!,#REF!,-8%,41,66,35,-0.219512195,Low Profit,45,116
+206,60,01-10-2013,Small Market,West,54,Leaves,Tea,Green Tea,0,153,Washington,20,10,60,84,#REF!,#REF!,0%,54,93,40,0,Low Profit,60,153
+440,32,01-11-2013,Major Market,Central,8,Leaves,Herbal Tea,Chamomile,43,85,Ohio,30,30,70,19,#REF!,#REF!,51%,8,15,2,5.375,Low Profit,32,85
+561,54,01-11-2013,Major Market,East,20,Leaves,Herbal Tea,Lemon,19,129,Florida,40,10,80,54,#REF!,#REF!,15%,20,49,14,0.95,Low Profit,54,129
+920,22,01-11-2013,Small Market,Central,7,Beans,Espresso,Decaf Espresso,16,55,Wisconsin,20,30,60,19,#REF!,#REF!,29%,7,-5,2,2.285714286,Low Profit,22,55
+505,35,01-11-2013,Small Market,South,11,Beans,Espresso,Decaf Espresso,12,87,New Mexico,20,20,60,39,#REF!,#REF!,14%,11,27,15,1.090909091,Low Profit,35,87
+702,29,01-11-2013,Small Market,West,8,Beans,Coffee,Decaf Irish Cream,7,68,Nevada,30,20,70,30,#REF!,#REF!,10%,8,-2,-1,0.875,Low Profit,29,68
+515,29,01-11-2013,Small Market,Central,8,Beans,Coffee,Colombian,7,68,Iowa,20,20,60,30,#REF!,#REF!,10%,8,8,9,0.875,Low Profit,29,68
+603,34,01-11-2013,Small Market,East,12,Beans,Espresso,Regular Espresso,-4,81,New Hampshire,30,0,70,45,#REF!,#REF!,-5%,12,11,4,-0.333333333,Low Profit,34,81
+580,32,01-11-2013,Small Market,South,8,Beans,Espresso,Caffe Mocha,43,85,Oklahoma,20,30,60,19,#REF!,#REF!,51%,8,25,12,5.375,Low Profit,32,85
+775,0,01-11-2013,Small Market,West,0,Beans,Espresso,Caffe Latte,46,46,Nevada,0,30,40,12,#REF!,#REF!,100%,0,6,0,#DIV/0!,Low Profit,0,46
+435,33,01-11-2013,Small Market,West,9,Beans,Espresso,Caffe Latte,40,86,Utah,30,30,70,21,#REF!,#REF!,47%,9,16,3,4.444444444,Low Profit,33,86
+314,82,01-11-2013,Small Market,Central,25,Leaves,Herbal Tea,Lemon,-13,130,Missouri,70,0,110,49,#REF!,#REF!,-10%,25,20,12,-0.52,Low Profit,82,130
+435,82,01-11-2013,Small Market,West,25,Leaves,Herbal Tea,Mint,-12,130,Utah,70,0,110,48,#REF!,#REF!,-9%,25,20,12,-0.48,Low Profit,82,130
+636,35,01-11-2013,Small Market,Central,11,Leaves,Tea,Darjeeling,13,87,Missouri,20,10,60,38,#REF!,#REF!,15%,11,27,15,1.181818182,Low Profit,35,87
+573,34,01-11-2013,Small Market,Central,12,Leaves,Tea,Earl Grey,-4,81,Missouri,20,0,60,45,#REF!,#REF!,-5%,12,21,14,-0.333333333,Low Profit,34,81
+314,33,01-11-2013,Small Market,Central,12,Leaves,Tea,Green Tea,-6,79,Missouri,20,0,60,45,#REF!,#REF!,-8%,12,19,13,-0.5,Low Profit,33,79
+603,0,01-11-2013,Small Market,East,0,Leaves,Tea,Green Tea,47,46,New Hampshire,0,30,40,11,#REF!,#REF!,102%,0,6,0,#DIV/0!,Low Profit,0,46
+435,44,01-11-2013,Small Market,West,40,Leaves,Tea,Darjeeling,-10,113,Utah,30,-10,70,69,#REF!,#REF!,-9%,40,43,14,-0.25,Low Profit,44,113
+614,29,01-12-2013,Major Market,Central,8,Leaves,Herbal Tea,Chamomile,37,78,Ohio,20,30,60,19,#REF!,#REF!,47%,8,18,9,4.625,Low Profit,29,78
+440,33,01-12-2013,Major Market,Central,9,Leaves,Herbal Tea,Lemon,43,87,Ohio,30,30,70,20,#REF!,#REF!,49%,9,17,3,4.777777778,Low Profit,33,87
+774,46,01-12-2013,Major Market,East,17,Leaves,Herbal Tea,Lemon,10,110,Massachusetts,30,10,70,50,#REF!,#REF!,9%,17,40,16,0.588235294,Low Profit,46,110
+321,30,01-12-2013,Major Market,East,8,Leaves,Tea,Darjeeling,39,80,Florida,30,30,70,19,#REF!,#REF!,49%,8,10,0,4.875,Low Profit,30,80
+774,29,01-12-2013,Major Market,East,8,Leaves,Tea,Green Tea,37,78,Massachusetts,30,30,70,19,#REF!,#REF!,47%,8,8,-1,4.625,Low Profit,29,78
+608,24,01-12-2013,Small Market,Central,7,Beans,Espresso,Decaf Espresso,19,60,Wisconsin,30,30,70,19,#REF!,#REF!,32%,7,-10,-6,2.714285714,Low Profit,24,60
+775,0,01-12-2013,Small Market,West,0,Beans,Espresso,Caffe Latte,46,46,Nevada,0,30,40,12,#REF!,#REF!,100%,0,6,0,#DIV/0!,Low Profit,0,46
+435,31,01-12-2013,Small Market,West,8,Beans,Espresso,Caffe Latte,39,82,Utah,30,30,70,20,#REF!,#REF!,48%,8,12,1,4.875,Low Profit,31,82
+715,34,01-12-2013,Small Market,Central,9,Leaves,Herbal Tea,Lemon,45,91,Wisconsin,30,30,70,21,#REF!,#REF!,49%,9,21,4,5,Low Profit,34,91
+603,39,01-12-2013,Small Market,East,14,Leaves,Herbal Tea,Lemon,3,94,New Hampshire,20,10,60,47,#REF!,#REF!,3%,14,34,19,0.214285714,Low Profit,39,94
+505,31,01-12-2013,Small Market,South,9,Leaves,Herbal Tea,Lemon,10,74,New Mexico,20,20,60,31,#REF!,#REF!,14%,9,14,11,1.111111111,Low Profit,31,74
+314,38,01-12-2013,Small Market,Central,12,Leaves,Tea,Darjeeling,16,95,Missouri,30,10,70,40,#REF!,#REF!,17%,12,25,8,1.333333333,Low Profit,38,95
+660,39,01-12-2013,Small Market,Central,14,Leaves,Tea,Green Tea,3,94,Missouri,30,0,70,47,#REF!,#REF!,3%,14,24,9,0.214285714,Low Profit,39,94
+603,0,01-12-2013,Small Market,East,0,Leaves,Tea,Green Tea,47,46,New Hampshire,0,30,40,11,#REF!,#REF!,102%,0,6,0,#DIV/0!,Low Profit,0,46
+253,41,01-12-2013,Small Market,West,12,Leaves,Tea,Darjeeling,45,114,Washington,30,20,70,36,#REF!,#REF!,39%,12,44,11,3.75,Low Profit,41,114
+435,38,01-12-2013,Small Market,West,12,Leaves,Tea,Earl Grey,18,95,Utah,20,10,60,39,#REF!,#REF!,19%,12,35,18,1.5,Low Profit,38,95
+253,43,01-12-2013,Small Market,West,13,Leaves,Tea,Earl Grey,42,113,Washington,30,20,70,35,#REF!,#REF!,37%,13,43,13,3.230769231,Low Profit,43,113
+216,51,01-10-2012,Major Market,Central,46,Beans,Coffee,Decaf Irish Cream,-5,122,Ohio,40,30,110,76,#REF!,#REF!,-4%,46,12,11,-0.108695652,Low Profit,51,122
+440,52,01-10-2012,Major Market,Central,17,Beans,Coffee,Amaretto,26,123,Ohio,40,60,110,45,#REF!,#REF!,21%,17,13,12,1.529411765,Low Profit,52,123
+937,43,01-10-2012,Major Market,Central,13,Beans,Coffee,Colombian,28,107,Ohio,30,60,100,36,#REF!,#REF!,26%,13,7,13,2.153846154,Low Profit,43,107
+774,51,01-10-2012,Major Market,East,46,Beans,Espresso,Caffe Mocha,-11,116,Massachusetts,30,30,100,76,#REF!,#REF!,-9%,46,16,21,-0.239130435,Low Profit,51,116
+832,72,01-10-2012,Major Market,South,23,Beans,Espresso,Caffe Latte,55,182,Texas,40,50,110,55,#REF!,#REF!,30%,23,72,32,2.391304348,Low Profit,72,182
+863,48,01-10-2012,Major Market,East,13,Leaves,Tea,Green Tea,46,118,Florida,50,60,120,24,#REF!,#REF!,39%,13,-2,-2,3.538461538,Low Profit,48,118
+985,60,01-10-2012,Small Market,South,18,Beans,Espresso,Caffe Mocha,58,159,Louisiana,30,70,100,41,#REF!,#REF!,36%,18,59,30,3.222222222,Low Profit,60,159
+971,52,01-10-2012,Small Market,West,17,Beans,Espresso,Caffe Mocha,27,123,Oregon,30,60,100,44,#REF!,#REF!,22%,17,23,22,1.588235294,Low Profit,52,123
+253,56,01-10-2012,Small Market,West,21,Beans,Espresso,Caffe Mocha,16,126,Washington,40,50,110,54,#REF!,#REF!,13%,21,16,16,0.761904762,Low Profit,56,126
+405,56,01-10-2012,Small Market,South,21,Leaves,Herbal Tea,Chamomile,16,126,Oklahoma,40,50,110,54,#REF!,#REF!,13%,21,16,16,0.761904762,Low Profit,56,126
+435,45,01-10-2012,Small Market,West,14,Leaves,Herbal Tea,Lemon,23,114,Utah,20,60,90,46,#REF!,#REF!,20%,14,24,25,1.642857143,Low Profit,45,114
+567,52,01-11-2012,Major Market,Central,47,Beans,Coffee,Decaf Irish Cream,-3,125,Ohio,50,10,120,76,#REF!,#REF!,-2%,47,5,2,-0.063829787,Low Profit,52,125
+614,46,01-11-2012,Major Market,Central,14,Beans,Coffee,Colombian,32,114,Ohio,40,40,110,36,#REF!,#REF!,28%,14,4,6,2.285714286,Low Profit,46,114
+303,52,01-11-2012,Major Market,Central,47,Leaves,Herbal Tea,Lemon,-4,125,Colorado,40,10,110,77,#REF!,#REF!,-3%,47,15,12,-0.085106383,Low Profit,52,125
+720,59,01-11-2012,Major Market,Central,19,Leaves,Herbal Tea,Mint,32,138,Colorado,50,40,120,47,#REF!,#REF!,23%,19,18,9,1.684210526,Low Profit,59,138
+713,59,01-11-2012,Major Market,South,19,Leaves,Herbal Tea,Chamomile,32,138,Texas,50,40,120,47,#REF!,#REF!,23%,19,18,9,1.684210526,Low Profit,59,138
+718,50,01-11-2012,Major Market,East,14,Leaves,Tea,Green Tea,47,123,New York,50,50,120,26,#REF!,#REF!,38%,14,3,0,3.357142857,Low Profit,50,123
+860,53,01-11-2012,Small Market,East,17,Beans,Espresso,Decaf Espresso,26,124,Connecticut,50,40,120,45,#REF!,#REF!,21%,17,4,3,1.529411765,Low Profit,53,124
+435,54,01-11-2012,Small Market,West,15,Beans,Espresso,Decaf Espresso,52,132,Utah,50,50,120,26,#REF!,#REF!,39%,15,12,4,3.466666667,Low Profit,54,132
+505,43,01-11-2012,Small Market,South,14,Beans,Coffee,Colombian,20,109,New Mexico,50,30,120,46,#REF!,#REF!,18%,14,-11,-7,1.428571429,Low Profit,43,109
+504,61,01-11-2012,Small Market,South,55,Beans,Espresso,Caffe Latte,1,147,Louisiana,40,10,110,85,#REF!,#REF!,1%,55,37,21,0.018181818,Low Profit,61,147
+541,55,01-11-2012,Small Market,West,20,Beans,Espresso,Caffe Latte,16,124,Oregon,50,30,120,53,#REF!,#REF!,13%,20,4,5,0.8,Low Profit,55,124
+860,82,01-11-2012,Small Market,East,31,Leaves,Herbal Tea,Lemon,38,184,Connecticut,60,30,130,64,#REF!,#REF!,21%,31,54,22,1.225806452,Low Profit,82,184
+715,61,01-11-2012,Small Market,Central,55,Leaves,Tea,Earl Grey,2,147,Wisconsin,50,0,120,84,#REF!,#REF!,1%,55,27,11,0.036363636,Low Profit,61,147
+425,53,01-11-2012,Small Market,West,16,Leaves,Tea,Darjeeling,49,141,Washington,30,50,100,39,#REF!,#REF!,35%,16,41,23,3.0625,Low Profit,53,141
+419,47,01-12-2012,Major Market,Central,42,Beans,Coffee,Decaf Irish Cream,-6,112,Ohio,40,10,110,71,#REF!,#REF!,-5%,42,2,7,-0.142857143,Low Profit,47,112
+513,54,01-12-2012,Major Market,Central,17,Beans,Coffee,Amaretto,29,127,Ohio,50,40,120,44,#REF!,#REF!,23%,17,7,4,1.705882353,Low Profit,54,127
+512,67,01-12-2012,Major Market,South,22,Beans,Espresso,Caffe Latte,47,168,Texas,50,30,120,54,#REF!,#REF!,28%,22,48,17,2.136363636,Low Profit,67,168
+309,54,01-12-2012,Major Market,Central,15,Leaves,Tea,Darjeeling,53,133,Illinois,40,50,110,26,#REF!,#REF!,40%,15,23,14,3.533333333,Low Profit,54,133
+816,63,01-12-2012,Small Market,Central,19,Beans,Coffee,Decaf Irish Cream,36,139,Missouri,60,40,130,40,#REF!,#REF!,26%,19,9,3,1.894736842,Low Profit,63,139
+959,49,01-12-2012,Small Market,East,16,Beans,Espresso,Decaf Espresso,21,114,Connecticut,40,40,110,44,#REF!,#REF!,18%,16,4,9,1.3125,Low Profit,49,114
+435,50,01-12-2012,Small Market,West,14,Beans,Espresso,Decaf Espresso,47,123,Utah,40,50,110,26,#REF!,#REF!,38%,14,13,10,3.357142857,Low Profit,50,123
+603,52,01-12-2012,Small Market,East,16,Beans,Coffee,Amaretto,37,127,New Hampshire,40,50,110,38,#REF!,#REF!,29%,16,17,12,2.3125,Low Profit,52,127
+475,55,01-12-2012,Small Market,East,49,Beans,Espresso,Caffe Mocha,-2,131,Connecticut,50,10,120,78,#REF!,#REF!,-2%,49,11,5,-0.040816327,Low Profit,55,131
+603,49,01-12-2012,Small Market,East,44,Beans,Espresso,Caffe Mocha,-4,118,New Hampshire,40,10,110,73,#REF!,#REF!,-3%,44,8,9,-0.090909091,Low Profit,49,118
+503,41,01-12-2012,Small Market,West,13,Beans,Coffee,Colombian,1,98,Oregon,40,20,110,56,#REF!,#REF!,1%,13,-12,1,0.076923077,Low Profit,41,98
+503,54,01-12-2012,Small Market,West,17,Beans,Espresso,Caffe Mocha,28,127,Oregon,50,40,120,45,#REF!,#REF!,22%,17,7,4,1.647058824,Low Profit,54,127
+405,65,01-12-2012,Small Market,South,24,Leaves,Herbal Tea,Chamomile,22,145,Oklahoma,60,20,130,58,#REF!,#REF!,15%,24,15,5,0.916666667,Low Profit,65,145
+435,52,01-12-2012,Small Market,West,16,Leaves,Herbal Tea,Chamomile,36,127,Utah,40,40,110,39,#REF!,#REF!,28%,16,17,12,2.25,Low Profit,52,127
+801,48,01-12-2012,Small Market,West,15,Leaves,Herbal Tea,Lemon,28,122,Utah,40,40,110,46,#REF!,#REF!,23%,15,12,8,1.866666667,Low Profit,48,122
+425,49,01-12-2012,Small Market,West,13,Leaves,Herbal Tea,Lemon,46,120,Washington,40,50,110,25,#REF!,#REF!,38%,13,10,9,3.538461538,Low Profit,49,120
+860,50,01-12-2012,Small Market,East,14,Leaves,Tea,Darjeeling,47,123,Connecticut,50,50,120,26,#REF!,#REF!,38%,14,3,0,3.357142857,Low Profit,50,123
+234,51,01-10-2013,Major Market,Central,46,Beans,Coffee,Decaf Irish Cream,-7,130,Ohio,40,30,110,76,#REF!,#REF!,-5%,46,20,11,-0.152173913,Low Profit,51,130
+614,52,01-10-2013,Major Market,Central,17,Beans,Coffee,Amaretto,39,131,Ohio,40,60,110,45,#REF!,#REF!,30%,17,21,12,2.294117647,Low Profit,52,131
+937,43,01-10-2013,Major Market,Central,13,Beans,Coffee,Colombian,42,114,Ohio,30,60,100,36,#REF!,#REF!,37%,13,14,13,3.230769231,Low Profit,43,114
+774,51,01-10-2013,Major Market,East,46,Beans,Espresso,Caffe Mocha,-16,124,Massachusetts,30,30,100,76,#REF!,#REF!,-13%,46,24,21,-0.347826087,Low Profit,51,124
+682,72,01-10-2013,Major Market,South,23,Beans,Espresso,Caffe Latte,82,194,Texas,40,50,110,55,#REF!,#REF!,42%,23,84,32,3.565217391,Low Profit,72,194
+772,48,01-10-2013,Major Market,East,13,Leaves,Tea,Green Tea,68,126,Florida,50,60,120,24,#REF!,#REF!,54%,13,6,-2,5.230769231,Low Profit,48,126
+225,60,01-10-2013,Small Market,South,18,Beans,Espresso,Caffe Mocha,86,169,Louisiana,30,70,100,41,#REF!,#REF!,51%,18,69,30,4.777777778,Low Profit,60,169
+541,52,01-10-2013,Small Market,West,17,Beans,Espresso,Caffe Mocha,40,131,Oregon,30,60,100,44,#REF!,#REF!,31%,17,31,22,2.352941176,Low Profit,52,131
+425,56,01-10-2013,Small Market,West,21,Beans,Espresso,Caffe Mocha,24,134,Washington,40,50,110,54,#REF!,#REF!,18%,21,24,16,1.142857143,Low Profit,56,134
+580,56,01-10-2013,Small Market,South,21,Leaves,Herbal Tea,Chamomile,24,134,Oklahoma,40,50,110,54,#REF!,#REF!,18%,21,24,16,1.142857143,Low Profit,56,134
+435,45,01-10-2013,Small Market,West,14,Leaves,Herbal Tea,Lemon,34,121,Utah,20,60,90,46,#REF!,#REF!,28%,14,31,25,2.428571429,Low Profit,45,121
+614,52,01-11-2013,Major Market,Central,47,Beans,Coffee,Decaf Irish Cream,-4,133,Ohio,50,10,120,76,#REF!,#REF!,-3%,47,13,2,-0.085106383,Low Profit,52,133
+234,46,01-11-2013,Major Market,Central,14,Beans,Coffee,Colombian,47,121,Ohio,40,40,110,36,#REF!,#REF!,39%,14,11,6,3.357142857,Low Profit,46,121
+970,52,01-11-2013,Major Market,Central,47,Leaves,Herbal Tea,Lemon,-6,133,Colorado,40,10,110,77,#REF!,#REF!,-5%,47,23,12,-0.127659574,Low Profit,52,133
+970,59,01-11-2013,Major Market,Central,19,Leaves,Herbal Tea,Mint,47,147,Colorado,50,40,120,47,#REF!,#REF!,32%,19,27,9,2.473684211,Low Profit,59,147
+936,59,01-11-2013,Major Market,South,19,Leaves,Herbal Tea,Chamomile,47,147,Texas,50,40,120,47,#REF!,#REF!,32%,19,27,9,2.473684211,Low Profit,59,147
+914,50,01-11-2013,Major Market,East,14,Leaves,Tea,Green Tea,70,131,New York,50,50,120,26,#REF!,#REF!,53%,14,11,0,5,Low Profit,50,131
+203,53,01-11-2013,Small Market,East,17,Beans,Espresso,Decaf Espresso,39,132,Connecticut,50,40,120,45,#REF!,#REF!,30%,17,12,3,2.294117647,Low Profit,53,132
+435,54,01-11-2013,Small Market,West,15,Beans,Espresso,Decaf Espresso,77,141,Utah,50,50,120,26,#REF!,#REF!,55%,15,21,4,5.133333333,Low Profit,54,141
+505,43,01-11-2013,Small Market,South,14,Beans,Coffee,Colombian,30,116,New Mexico,50,30,120,46,#REF!,#REF!,26%,14,-4,-7,2.142857143,Low Profit,43,116
+318,61,01-11-2013,Small Market,South,55,Beans,Espresso,Caffe Latte,1,157,Louisiana,40,10,110,85,#REF!,#REF!,1%,55,47,21,0.018181818,Low Profit,61,157
+503,55,01-11-2013,Small Market,West,20,Beans,Espresso,Caffe Latte,24,132,Oregon,50,30,120,53,#REF!,#REF!,18%,20,12,5,1.2,Low Profit,55,132
+475,82,01-11-2013,Small Market,East,31,Leaves,Herbal Tea,Lemon,56,196,Connecticut,60,30,130,64,#REF!,#REF!,29%,31,66,22,1.806451613,Low Profit,82,196
+715,61,01-11-2013,Small Market,Central,55,Leaves,Tea,Earl Grey,3,157,Wisconsin,50,0,120,84,#REF!,#REF!,2%,55,37,11,0.054545455,Low Profit,61,157
+509,53,01-11-2013,Small Market,West,16,Leaves,Tea,Darjeeling,73,150,Washington,30,50,100,39,#REF!,#REF!,49%,16,50,23,4.5625,Low Profit,53,150
+513,47,01-12-2013,Major Market,Central,42,Beans,Coffee,Decaf Irish Cream,-9,119,Ohio,40,10,110,71,#REF!,#REF!,-8%,42,9,7,-0.214285714,Low Profit,47,119
+234,54,01-12-2013,Major Market,Central,17,Beans,Coffee,Amaretto,43,135,Ohio,50,40,120,44,#REF!,#REF!,32%,17,15,4,2.529411765,Low Profit,54,135
+361,67,01-12-2013,Major Market,South,22,Beans,Espresso,Caffe Latte,70,179,Texas,50,30,120,54,#REF!,#REF!,39%,22,59,17,3.181818182,Low Profit,67,179
+630,54,01-12-2013,Major Market,Central,15,Leaves,Tea,Darjeeling,79,142,Illinois,40,50,110,26,#REF!,#REF!,56%,15,32,14,5.266666667,Low Profit,54,142
+636,63,01-12-2013,Small Market,Central,19,Beans,Coffee,Decaf Irish Cream,53,148,Missouri,60,40,130,40,#REF!,#REF!,36%,19,18,3,2.789473684,Low Profit,63,148
+203,49,01-12-2013,Small Market,East,16,Beans,Espresso,Decaf Espresso,31,121,Connecticut,40,40,110,44,#REF!,#REF!,26%,16,11,9,1.9375,Low Profit,49,121
+435,50,01-12-2013,Small Market,West,14,Beans,Espresso,Decaf Espresso,70,131,Utah,40,50,110,26,#REF!,#REF!,53%,14,21,10,5,Low Profit,50,131
+603,52,01-12-2013,Small Market,East,16,Beans,Coffee,Amaretto,55,135,New Hampshire,40,50,110,38,#REF!,#REF!,41%,16,25,12,3.4375,Low Profit,52,135
+203,55,01-12-2013,Small Market,East,49,Beans,Espresso,Caffe Mocha,-3,140,Connecticut,50,10,120,78,#REF!,#REF!,-2%,49,20,5,-0.06122449,Low Profit,55,140
+603,49,01-12-2013,Small Market,East,44,Beans,Espresso,Caffe Mocha,-6,126,New Hampshire,40,10,110,73,#REF!,#REF!,-5%,44,16,9,-0.136363636,Low Profit,49,126
+541,41,01-12-2013,Small Market,West,13,Beans,Coffee,Colombian,1,104,Oregon,40,20,110,56,#REF!,#REF!,1%,13,-6,1,0.076923077,Low Profit,41,104
+503,54,01-12-2013,Small Market,West,17,Beans,Espresso,Caffe Mocha,42,135,Oregon,50,40,120,45,#REF!,#REF!,31%,17,15,4,2.470588235,Low Profit,54,135
+405,65,01-12-2013,Small Market,South,24,Leaves,Herbal Tea,Chamomile,33,155,Oklahoma,60,20,130,58,#REF!,#REF!,21%,24,25,5,1.375,Low Profit,65,155
+435,52,01-12-2013,Small Market,West,16,Leaves,Herbal Tea,Chamomile,53,135,Utah,40,40,110,39,#REF!,#REF!,39%,16,25,12,3.3125,Low Profit,52,135
+435,48,01-12-2013,Small Market,West,15,Leaves,Herbal Tea,Lemon,42,130,Utah,40,40,110,46,#REF!,#REF!,32%,15,20,8,2.8,Low Profit,48,130
+425,49,01-12-2013,Small Market,West,13,Leaves,Herbal Tea,Lemon,68,128,Washington,40,50,110,25,#REF!,#REF!,53%,13,18,9,5.230769231,Low Profit,49,128
+959,50,01-12-2013,Small Market,East,14,Leaves,Tea,Darjeeling,70,131,Connecticut,50,50,120,26,#REF!,#REF!,53%,14,11,0,5,Low Profit,50,131
+937,21,01-10-2012,Major Market,Central,5,Leaves,Herbal Tea,Chamomile,16,53,Ohio,0,30,30,16,#REF!,#REF!,30%,5,23,21,3.2,Low Profit,21,53
+513,27,01-10-2012,Major Market,Central,7,Leaves,Herbal Tea,Lemon,20,66,Ohio,10,30,40,19,#REF!,#REF!,30%,7,26,17,2.857142857,Low Profit,27,66
+850,56,01-10-2012,Major Market,East,21,Leaves,Herbal Tea,Lemon,16,126,Florida,30,20,60,54,#REF!,#REF!,13%,21,66,26,0.761904762,Low Profit,56,126
+781,54,01-10-2012,Major Market,East,20,Leaves,Herbal Tea,Lemon,13,120,Massachusetts,30,20,60,53,#REF!,#REF!,11%,20,60,24,0.65,Low Profit,54,120
+413,21,01-10-2012,Major Market,East,5,Leaves,Tea,Green Tea,15,53,Massachusetts,20,30,50,17,#REF!,#REF!,28%,5,3,1,3,Low Profit,21,53
+505,39,01-10-2012,Small Market,South,12,Beans,Espresso,Decaf Espresso,14,92,New Mexico,20,20,50,39,#REF!,#REF!,15%,12,42,19,1.166666667,Low Profit,39,92
+702,23,01-10-2012,Small Market,West,6,Beans,Espresso,Decaf Espresso,17,58,Nevada,10,30,40,18,#REF!,#REF!,29%,6,18,13,2.833333333,Low Profit,23,58
+563,21,01-10-2012,Small Market,Central,5,Beans,Coffee,Amaretto,15,52,Iowa,10,30,40,16,#REF!,#REF!,29%,5,12,11,3,Low Profit,21,52
+603,25,01-10-2012,Small Market,East,9,Beans,Espresso,Regular Espresso,-12,56,New Hampshire,10,10,40,43,#REF!,#REF!,-21%,9,16,15,-1.333333333,Low Profit,25,56
+405,21,01-10-2012,Small Market,South,5,Beans,Espresso,Caffe Mocha,15,53,Oklahoma,0,30,30,17,#REF!,#REF!,28%,5,23,21,3,Low Profit,21,53
+702,0,01-10-2012,Small Market,West,0,Beans,Espresso,Caffe Latte,32,43,Nevada,0,30,30,11,#REF!,#REF!,74%,0,13,0,#DIV/0!,Low Profit,0,43
+603,34,01-10-2012,Small Market,East,12,Leaves,Herbal Tea,Lemon,-3,77,New Hampshire,10,20,40,46,#REF!,#REF!,-4%,12,37,24,-0.25,Low Profit,34,77
+505,21,01-10-2012,Small Market,South,5,Leaves,Herbal Tea,Chamomile,14,52,New Mexico,10,30,40,17,#REF!,#REF!,27%,5,12,11,2.8,Low Profit,21,52
+971,25,01-10-2012,Small Market,West,7,Leaves,Herbal Tea,Chamomile,17,61,Oregon,10,30,40,19,#REF!,#REF!,28%,7,21,15,2.428571429,Low Profit,25,61
+314,34,01-10-2012,Small Market,Central,12,Leaves,Tea,Green Tea,-3,77,Missouri,10,10,40,46,#REF!,#REF!,-4%,12,37,24,-0.25,Low Profit,34,77
+603,21,01-10-2012,Small Market,East,5,Leaves,Tea,Darjeeling,14,52,New Hampshire,20,30,50,17,#REF!,#REF!,27%,5,2,1,2.8,Low Profit,21,52
+435,39,01-10-2012,Small Market,West,12,Leaves,Tea,Earl Grey,14,92,Utah,10,20,40,39,#REF!,#REF!,15%,12,52,29,1.166666667,Low Profit,39,92
+360,46,01-10-2012,Small Market,West,14,Leaves,Tea,Earl Grey,31,113,Washington,20,30,50,36,#REF!,#REF!,27%,14,63,26,2.214285714,Low Profit,46,113
+775,22,01-11-2012,Small Market,West,6,Beans,Espresso,Decaf Espresso,17,56,Nevada,20,20,50,17,#REF!,#REF!,30%,6,6,2,2.833333333,Low Profit,22,56
+505,34,01-11-2012,Small Market,South,12,Beans,Espresso,Caffe Latte,-4,76,New Mexico,20,-10,50,46,#REF!,#REF!,-5%,12,26,14,-0.333333333,Low Profit,34,76
+253,22,01-11-2012,Small Market,West,7,Beans,Espresso,Caffe Latte,11,52,Washington,20,20,50,19,#REF!,#REF!,21%,7,2,2,1.571428571,Low Profit,22,52
+603,33,01-11-2012,Small Market,East,12,Leaves,Herbal Tea,Lemon,-4,74,New Hampshire,20,0,50,45,#REF!,#REF!,-5%,12,24,13,-0.333333333,Low Profit,33,74
+505,29,01-11-2012,Small Market,South,8,Leaves,Herbal Tea,Lemon,5,64,New Mexico,20,10,50,30,#REF!,#REF!,8%,8,14,9,0.625,Low Profit,29,64
+503,25,01-11-2012,Small Market,West,7,Leaves,Herbal Tea,Chamomile,19,63,Oregon,20,20,50,19,#REF!,#REF!,30%,7,13,5,2.714285714,Low Profit,25,63
+603,15,01-11-2012,Small Market,East,4,Leaves,Tea,Darjeeling,8,39,New Hampshire,10,20,40,16,#REF!,#REF!,21%,4,-1,5,2,Low Profit,15,39
+541,32,01-11-2012,Small Market,West,8,Leaves,Tea,Darjeeling,28,80,Oregon,20,30,50,20,#REF!,#REF!,35%,8,30,12,3.5,Low Profit,32,80
+435,35,01-11-2012,Small Market,West,11,Leaves,Tea,Earl Grey,9,82,Utah,20,10,50,38,#REF!,#REF!,11%,11,32,15,0.818181818,Low Profit,35,82
+801,34,01-11-2012,Small Market,West,12,Leaves,Tea,Green Tea,-3,76,Utah,20,0,50,45,#REF!,#REF!,-4%,12,26,14,-0.25,Low Profit,34,76
+772,24,01-12-2012,Major Market,East,7,Leaves,Herbal Tea,Chamomile,12,56,Florida,10,20,40,20,#REF!,#REF!,21%,7,16,14,1.714285714,Low Profit,24,56
+505,38,01-12-2012,Small Market,South,12,Beans,Espresso,Decaf Espresso,12,89,New Mexico,30,0,60,39,#REF!,#REF!,13%,12,29,8,1,Low Profit,38,89
+702,23,01-12-2012,Small Market,West,6,Beans,Espresso,Decaf Espresso,17,58,Nevada,20,20,50,18,#REF!,#REF!,29%,6,8,3,2.833333333,Low Profit,23,58
+641,16,01-12-2012,Small Market,Central,4,Beans,Coffee,Amaretto,10,41,Iowa,10,20,40,15,#REF!,#REF!,24%,4,1,6,2.5,Low Profit,16,41
+563,31,01-12-2012,Small Market,Central,9,Beans,Coffee,Colombian,8,69,Iowa,30,10,60,30,#REF!,#REF!,12%,9,9,1,0.888888889,Low Profit,31,69
+603,20,01-12-2012,Small Market,East,7,Beans,Espresso,Regular Espresso,-16,45,New Hampshire,10,0,40,41,#REF!,#REF!,-36%,7,5,10,-2.285714286,Low Profit,20,45
+580,29,01-12-2012,Small Market,South,8,Beans,Espresso,Caffe Mocha,24,73,Oklahoma,20,20,50,20,#REF!,#REF!,33%,8,23,9,3,Low Profit,29,73
+253,24,01-12-2012,Small Market,West,7,Beans,Espresso,Caffe Latte,13,56,Washington,20,20,50,19,#REF!,#REF!,23%,7,6,4,1.857142857,Low Profit,24,56
+541,24,01-12-2012,Small Market,West,6,Leaves,Herbal Tea,Chamomile,19,60,Oregon,20,20,50,17,#REF!,#REF!,32%,6,10,4,3.166666667,Low Profit,24,60
+603,16,01-12-2012,Small Market,East,4,Leaves,Tea,Darjeeling,10,41,New Hampshire,10,20,40,15,#REF!,#REF!,24%,4,1,6,2.5,Low Profit,16,41
+971,29,01-12-2012,Small Market,West,8,Leaves,Tea,Darjeeling,25,73,Oregon,20,30,50,19,#REF!,#REF!,34%,8,23,9,3.125,Low Profit,29,73
+937,21,01-10-2013,Major Market,Central,5,Leaves,Herbal Tea,Chamomile,24,56,Ohio,0,30,30,16,#REF!,#REF!,43%,5,26,21,4.8,Low Profit,21,56
+937,27,01-10-2013,Major Market,Central,7,Leaves,Herbal Tea,Lemon,30,70,Ohio,10,30,40,19,#REF!,#REF!,43%,7,30,17,4.285714286,Low Profit,27,70
+786,56,01-10-2013,Major Market,East,21,Leaves,Herbal Tea,Lemon,24,134,Florida,30,20,60,54,#REF!,#REF!,18%,21,74,26,1.142857143,Low Profit,56,134
+339,54,01-10-2013,Major Market,East,20,Leaves,Herbal Tea,Lemon,19,128,Massachusetts,30,20,60,53,#REF!,#REF!,15%,20,68,24,0.95,Low Profit,54,128
+781,21,01-10-2013,Major Market,East,5,Leaves,Tea,Green Tea,22,56,Massachusetts,20,30,50,17,#REF!,#REF!,39%,5,6,1,4.4,Low Profit,21,56
+505,39,01-10-2013,Small Market,South,12,Beans,Espresso,Decaf Espresso,21,98,New Mexico,20,20,50,39,#REF!,#REF!,21%,12,48,19,1.75,Low Profit,39,98
+775,23,01-10-2013,Small Market,West,6,Beans,Espresso,Decaf Espresso,25,62,Nevada,10,30,40,18,#REF!,#REF!,40%,6,22,13,4.166666667,Low Profit,23,62
+515,21,01-10-2013,Small Market,Central,5,Beans,Coffee,Amaretto,22,55,Iowa,10,30,40,16,#REF!,#REF!,40%,5,15,11,4.4,Low Profit,21,55
+603,25,01-10-2013,Small Market,East,9,Beans,Espresso,Regular Espresso,-18,60,New Hampshire,10,10,40,43,#REF!,#REF!,-30%,9,20,15,-2,Low Profit,25,60
+580,21,01-10-2013,Small Market,South,5,Beans,Espresso,Caffe Mocha,22,56,Oklahoma,0,30,30,17,#REF!,#REF!,39%,5,26,21,4.4,Low Profit,21,56
+702,0,01-10-2013,Small Market,West,0,Beans,Espresso,Caffe Latte,47,46,Nevada,0,30,30,11,#REF!,#REF!,102%,0,16,0,#DIV/0!,Low Profit,0,46
+603,34,01-10-2013,Small Market,East,12,Leaves,Herbal Tea,Lemon,-4,82,New Hampshire,10,20,40,46,#REF!,#REF!,-5%,12,42,24,-0.333333333,Low Profit,34,82
+505,21,01-10-2013,Small Market,South,5,Leaves,Herbal Tea,Chamomile,21,55,New Mexico,10,30,40,17,#REF!,#REF!,38%,5,15,11,4.2,Low Profit,21,55
+971,25,01-10-2013,Small Market,West,7,Leaves,Herbal Tea,Chamomile,25,65,Oregon,10,30,40,19,#REF!,#REF!,38%,7,25,15,3.571428571,Low Profit,25,65
+314,34,01-10-2013,Small Market,Central,12,Leaves,Tea,Green Tea,-4,82,Missouri,10,10,40,46,#REF!,#REF!,-5%,12,42,24,-0.333333333,Low Profit,34,82
+603,21,01-10-2013,Small Market,East,5,Leaves,Tea,Darjeeling,21,55,New Hampshire,20,30,50,17,#REF!,#REF!,38%,5,5,1,4.2,Low Profit,21,55
+435,39,01-10-2013,Small Market,West,12,Leaves,Tea,Earl Grey,21,98,Utah,10,20,40,39,#REF!,#REF!,21%,12,58,29,1.75,Low Profit,39,98
+509,46,01-10-2013,Small Market,West,14,Leaves,Tea,Earl Grey,46,120,Washington,20,30,50,36,#REF!,#REF!,38%,14,70,26,3.285714286,Low Profit,46,120
+775,22,01-11-2013,Small Market,West,6,Beans,Espresso,Decaf Espresso,25,60,Nevada,20,20,50,17,#REF!,#REF!,42%,6,10,2,4.166666667,Low Profit,22,60
+505,34,01-11-2013,Small Market,South,12,Beans,Espresso,Caffe Latte,-6,81,New Mexico,20,-10,50,46,#REF!,#REF!,-7%,12,31,14,-0.5,Low Profit,34,81
+425,22,01-11-2013,Small Market,West,7,Beans,Espresso,Caffe Latte,16,55,Washington,20,20,50,19,#REF!,#REF!,29%,7,5,2,2.285714286,Low Profit,22,55
+603,33,01-11-2013,Small Market,East,12,Leaves,Herbal Tea,Lemon,-6,79,New Hampshire,20,0,50,45,#REF!,#REF!,-8%,12,29,13,-0.5,Low Profit,33,79
+505,29,01-11-2013,Small Market,South,8,Leaves,Herbal Tea,Lemon,7,68,New Mexico,20,10,50,30,#REF!,#REF!,10%,8,18,9,0.875,Low Profit,29,68
+541,25,01-11-2013,Small Market,West,7,Leaves,Herbal Tea,Chamomile,28,67,Oregon,20,20,50,19,#REF!,#REF!,42%,7,17,5,4,Low Profit,25,67
+603,15,01-11-2013,Small Market,East,4,Leaves,Tea,Darjeeling,12,42,New Hampshire,10,20,40,16,#REF!,#REF!,29%,4,2,5,3,Low Profit,15,42
+503,32,01-11-2013,Small Market,West,8,Leaves,Tea,Darjeeling,42,85,Oregon,20,30,50,20,#REF!,#REF!,49%,8,35,12,5.25,Low Profit,32,85
+435,35,01-11-2013,Small Market,West,11,Leaves,Tea,Earl Grey,13,87,Utah,20,10,50,38,#REF!,#REF!,15%,11,37,15,1.181818182,Low Profit,35,87
+435,34,01-11-2013,Small Market,West,12,Leaves,Tea,Green Tea,-4,81,Utah,20,0,50,45,#REF!,#REF!,-5%,12,31,14,-0.333333333,Low Profit,34,81
+904,24,01-12-2013,Major Market,East,7,Leaves,Herbal Tea,Chamomile,18,60,Florida,10,20,40,20,#REF!,#REF!,30%,7,20,14,2.571428571,Low Profit,24,60
+505,38,01-12-2013,Small Market,South,12,Beans,Espresso,Decaf Espresso,18,95,New Mexico,30,0,60,39,#REF!,#REF!,19%,12,35,8,1.5,Low Profit,38,95
+775,23,01-12-2013,Small Market,West,6,Beans,Espresso,Decaf Espresso,25,62,Nevada,20,20,50,18,#REF!,#REF!,40%,6,12,3,4.166666667,Low Profit,23,62
+563,16,01-12-2013,Small Market,Central,4,Beans,Coffee,Amaretto,15,44,Iowa,10,20,40,15,#REF!,#REF!,34%,4,4,6,3.75,Low Profit,16,44
+641,31,01-12-2013,Small Market,Central,9,Beans,Coffee,Colombian,12,74,Iowa,30,10,60,30,#REF!,#REF!,16%,9,14,1,1.333333333,Low Profit,31,74
+603,20,01-12-2013,Small Market,East,7,Beans,Espresso,Regular Espresso,-24,48,New Hampshire,10,0,40,41,#REF!,#REF!,-50%,7,8,10,-3.428571429,Low Profit,20,48
+580,29,01-12-2013,Small Market,South,8,Beans,Espresso,Caffe Mocha,36,78,Oklahoma,20,20,50,20,#REF!,#REF!,46%,8,28,9,4.5,Low Profit,29,78
+206,24,01-12-2013,Small Market,West,7,Beans,Espresso,Caffe Latte,19,60,Washington,20,20,50,19,#REF!,#REF!,32%,7,10,4,2.714285714,Low Profit,24,60
+503,24,01-12-2013,Small Market,West,6,Leaves,Herbal Tea,Chamomile,28,64,Oregon,20,20,50,17,#REF!,#REF!,44%,6,14,4,4.666666667,Low Profit,24,64
+603,16,01-12-2013,Small Market,East,4,Leaves,Tea,Darjeeling,15,44,New Hampshire,10,20,40,15,#REF!,#REF!,34%,4,4,6,3.75,Low Profit,16,44
+541,29,01-12-2013,Small Market,West,8,Leaves,Tea,Darjeeling,37,78,Oregon,20,30,50,19,#REF!,#REF!,47%,8,28,9,4.625,Low Profit,29,78
+915,76,01-10-2012,Major Market,South,21,Beans,Espresso,Decaf Espresso,78,187,Texas,40,80,120,33,#REF!,#REF!,42%,21,67,36,3.714285714,Low Profit,76,187
+713,52,01-10-2012,Major Market,South,17,Leaves,Herbal Tea,Chamomile,26,123,Texas,30,70,110,45,#REF!,#REF!,21%,17,13,22,1.529411765,Low Profit,52,123
+217,76,01-10-2012,Major Market,Central,21,Leaves,Tea,Darjeeling,78,187,Illinois,50,80,130,33,#REF!,#REF!,42%,21,57,26,3.714285714,Low Profit,76,187
+847,72,01-10-2012,Major Market,Central,23,Leaves,Tea,Earl Grey,55,182,Illinois,50,50,130,55,#REF!,#REF!,30%,23,52,22,2.391304348,Low Profit,72,182
+660,65,01-10-2012,Small Market,Central,20,Beans,Coffee,Decaf Irish Cream,35,142,Missouri,50,70,130,42,#REF!,#REF!,25%,20,12,15,1.75,Low Profit,65,142
+660,32,01-10-2012,Small Market,Central,8,Beans,Espresso,Decaf Espresso,28,79,Missouri,30,80,110,19,#REF!,#REF!,35%,8,-31,2,3.5,Low Profit,32,79
+405,82,01-10-2012,Small Market,South,27,Beans,Espresso,Decaf Espresso,65,205,Oklahoma,50,60,130,58,#REF!,#REF!,32%,27,75,32,2.407407407,Low Profit,82,205
+715,56,01-10-2012,Small Market,Central,21,Beans,Coffee,Amaretto,15,126,Wisconsin,40,50,120,55,#REF!,#REF!,12%,21,6,16,0.714285714,Low Profit,56,126
+405,91,01-10-2012,Small Market,South,28,Beans,Espresso,Caffe Latte,76,218,Oklahoma,50,70,130,51,#REF!,#REF!,35%,28,88,41,2.714285714,Low Profit,91,218
+414,60,01-10-2012,Small Market,Central,18,Leaves,Herbal Tea,Chamomile,57,159,Wisconsin,40,80,120,42,#REF!,#REF!,36%,18,39,20,3.166666667,Low Profit,60,159
+419,55,01-11-2012,Major Market,Central,20,Beans,Espresso,Decaf Espresso,16,124,Ohio,70,40,150,53,#REF!,#REF!,13%,20,-26,-15,0.8,Low Profit,55,124
+330,59,01-11-2012,Major Market,Central,19,Beans,Coffee,Amaretto,33,138,Ohio,50,50,130,46,#REF!,#REF!,24%,19,8,9,1.736842105,Low Profit,59,138
+650,75,01-11-2012,Major Market,West,24,Leaves,Tea,Green Tea,59,189,California,50,40,130,55,#REF!,#REF!,31%,24,59,25,2.458333333,Low Profit,75,189
+314,69,01-11-2012,Small Market,Central,21,Beans,Coffee,Decaf Irish Cream,38,150,Missouri,60,40,140,43,#REF!,#REF!,25%,21,10,9,1.80952381,Low Profit,69,150
+503,46,01-11-2012,Small Market,West,14,Beans,Coffee,Decaf Irish Cream,32,114,Oregon,50,50,130,36,#REF!,#REF!,28%,14,-16,-4,2.285714286,Low Profit,46,114
+206,75,01-11-2012,Small Market,West,23,Beans,Espresso,Decaf Espresso,45,164,Washington,70,40,150,44,#REF!,#REF!,27%,23,14,5,1.956521739,Low Profit,75,164
+203,61,01-11-2012,Small Market,East,55,Beans,Espresso,Caffe Mocha,2,147,Connecticut,60,10,140,84,#REF!,#REF!,1%,55,7,1,0.036363636,Low Profit,61,147
+225,47,01-11-2012,Small Market,South,13,Beans,Coffee,Colombian,44,115,Louisiana,50,60,130,24,#REF!,#REF!,38%,13,-15,-3,3.384615385,Low Profit,47,115
+541,52,01-11-2012,Small Market,West,47,Beans,Coffee,Amaretto,-4,125,Oregon,60,10,140,77,#REF!,#REF!,-3%,47,-15,-8,-0.085106383,Low Profit,52,125
+435,53,01-11-2012,Small Market,West,17,Beans,Coffee,Colombian,27,124,Utah,60,50,140,44,#REF!,#REF!,22%,17,-16,-7,1.588235294,Low Profit,53,124
+503,59,01-11-2012,Small Market,West,19,Beans,Espresso,Caffe Mocha,33,138,Oregon,50,50,130,46,#REF!,#REF!,24%,19,8,9,1.736842105,Low Profit,59,138
+920,53,01-11-2012,Small Market,Central,16,Leaves,Herbal Tea,Chamomile,48,141,Wisconsin,50,50,130,40,#REF!,#REF!,34%,16,11,3,3,Low Profit,53,141
+959,54,01-11-2012,Small Market,East,15,Leaves,Tea,Darjeeling,51,132,Connecticut,50,60,130,27,#REF!,#REF!,39%,15,2,4,3.4,Low Profit,54,132
+740,46,01-12-2012,Major Market,Central,17,Beans,Espresso,Decaf Espresso,6,103,Ohio,50,40,130,51,#REF!,#REF!,6%,17,-27,-4,0.352941176,Low Profit,46,103
+630,67,01-12-2012,Major Market,Central,22,Leaves,Tea,Earl Grey,47,168,Illinois,50,40,130,54,#REF!,#REF!,28%,22,38,17,2.136363636,Low Profit,67,168
+518,54,01-12-2012,Major Market,East,15,Leaves,Tea,Green Tea,52,133,New York,50,60,130,27,#REF!,#REF!,39%,15,3,4,3.466666667,Low Profit,54,133
+213,67,01-12-2012,Major Market,West,22,Leaves,Tea,Green Tea,47,168,California,40,50,120,54,#REF!,#REF!,28%,22,48,27,2.136363636,Low Profit,67,168
+503,41,01-12-2012,Small Market,West,13,Beans,Coffee,Decaf Irish Cream,25,101,Oregon,40,50,120,35,#REF!,#REF!,25%,13,-19,1,1.923076923,Low Profit,41,101
+715,65,01-12-2012,Small Market,Central,24,Beans,Coffee,Amaretto,22,145,Wisconsin,60,30,140,58,#REF!,#REF!,15%,24,5,5,0.916666667,Low Profit,65,145
+503,47,01-12-2012,Small Market,West,42,Beans,Coffee,Amaretto,-7,112,Oregon,50,20,130,72,#REF!,#REF!,-6%,42,-18,-3,-0.166666667,Low Profit,47,112
+801,49,01-12-2012,Small Market,West,16,Beans,Coffee,Colombian,21,114,Utah,50,50,130,44,#REF!,#REF!,18%,16,-16,-1,1.3125,Low Profit,49,114
+509,65,01-12-2012,Small Market,West,24,Beans,Espresso,Caffe Mocha,23,145,Washington,60,30,140,57,#REF!,#REF!,16%,24,5,5,0.958333333,Low Profit,65,145
+985,68,01-12-2012,Small Market,South,25,Leaves,Herbal Tea,Lemon,26,153,Louisiana,60,30,140,59,#REF!,#REF!,17%,25,13,8,1.04,Low Profit,68,153
+432,76,01-10-2013,Major Market,South,21,Beans,Espresso,Decaf Espresso,116,199,Texas,40,80,120,33,#REF!,#REF!,58%,21,79,36,5.523809524,High Profit,76,199
+325,52,01-10-2013,Major Market,South,17,Leaves,Herbal Tea,Chamomile,39,131,Texas,30,70,110,45,#REF!,#REF!,30%,17,21,22,2.294117647,Low Profit,52,131
+815,76,01-10-2013,Major Market,Central,21,Leaves,Tea,Darjeeling,116,199,Illinois,50,80,130,33,#REF!,#REF!,58%,21,69,26,5.523809524,High Profit,76,199
+815,72,01-10-2013,Major Market,Central,23,Leaves,Tea,Earl Grey,82,194,Illinois,50,50,130,55,#REF!,#REF!,42%,23,64,22,3.565217391,Low Profit,72,194
+636,65,01-10-2013,Small Market,Central,20,Beans,Coffee,Decaf Irish Cream,52,151,Missouri,50,70,130,42,#REF!,#REF!,34%,20,21,15,2.6,Low Profit,65,151
+417,32,01-10-2013,Small Market,Central,8,Beans,Espresso,Decaf Espresso,42,84,Missouri,30,80,110,19,#REF!,#REF!,50%,8,-26,2,5.25,Low Profit,32,84
+405,82,01-10-2013,Small Market,South,27,Beans,Espresso,Decaf Espresso,96,218,Oklahoma,50,60,130,58,#REF!,#REF!,44%,27,88,32,3.555555556,Low Profit,82,218
+414,56,01-10-2013,Small Market,Central,21,Beans,Coffee,Amaretto,22,134,Wisconsin,40,50,120,55,#REF!,#REF!,16%,21,14,16,1.047619048,Low Profit,56,134
+405,91,01-10-2013,Small Market,South,28,Beans,Espresso,Caffe Latte,113,232,Oklahoma,50,70,130,51,#REF!,#REF!,49%,28,102,41,4.035714286,High Profit,91,232
+715,60,01-10-2013,Small Market,Central,18,Leaves,Herbal Tea,Chamomile,85,169,Wisconsin,40,80,120,42,#REF!,#REF!,50%,18,49,20,4.722222222,Low Profit,60,169
+937,55,01-11-2013,Major Market,Central,20,Beans,Espresso,Decaf Espresso,24,132,Ohio,70,40,150,53,#REF!,#REF!,18%,20,-18,-15,1.2,Low Profit,55,132
+234,59,01-11-2013,Major Market,Central,19,Beans,Coffee,Amaretto,49,147,Ohio,50,50,130,46,#REF!,#REF!,33%,19,17,9,2.578947368,Low Profit,59,147
+209,75,01-11-2013,Major Market,West,24,Leaves,Tea,Green Tea,88,201,California,50,40,130,55,#REF!,#REF!,44%,24,71,25,3.666666667,Low Profit,75,201
+417,69,01-11-2013,Small Market,Central,21,Beans,Coffee,Decaf Irish Cream,56,160,Missouri,60,40,140,43,#REF!,#REF!,35%,21,20,9,2.666666667,Low Profit,69,160
+503,46,01-11-2013,Small Market,West,14,Beans,Coffee,Decaf Irish Cream,47,121,Oregon,50,50,130,36,#REF!,#REF!,39%,14,-9,-4,3.357142857,Low Profit,46,121
+425,75,01-11-2013,Small Market,West,23,Beans,Espresso,Decaf Espresso,67,175,Washington,70,40,150,44,#REF!,#REF!,38%,23,25,5,2.913043478,Low Profit,75,175
+475,61,01-11-2013,Small Market,East,55,Beans,Espresso,Caffe Mocha,3,157,Connecticut,60,10,140,84,#REF!,#REF!,2%,55,17,1,0.054545455,Low Profit,61,157
+318,47,01-11-2013,Small Market,South,13,Beans,Coffee,Colombian,65,123,Louisiana,50,60,130,24,#REF!,#REF!,53%,13,-7,-3,5,Low Profit,47,123
+971,52,01-11-2013,Small Market,West,47,Beans,Coffee,Amaretto,-6,133,Oregon,60,10,140,77,#REF!,#REF!,-5%,47,-7,-8,-0.127659574,Low Profit,52,133
+435,53,01-11-2013,Small Market,West,17,Beans,Coffee,Colombian,40,132,Utah,60,50,140,44,#REF!,#REF!,30%,17,-8,-7,2.352941176,Low Profit,53,132
+541,59,01-11-2013,Small Market,West,19,Beans,Espresso,Caffe Mocha,49,147,Oregon,50,50,130,46,#REF!,#REF!,33%,19,17,9,2.578947368,Low Profit,59,147
+262,53,01-11-2013,Small Market,Central,16,Leaves,Herbal Tea,Chamomile,71,150,Wisconsin,50,50,130,40,#REF!,#REF!,47%,16,20,3,4.4375,Low Profit,53,150
+860,54,01-11-2013,Small Market,East,15,Leaves,Tea,Darjeeling,76,141,Connecticut,50,60,130,27,#REF!,#REF!,54%,15,11,4,5.066666667,Low Profit,54,141
+419,46,01-12-2013,Major Market,Central,17,Beans,Espresso,Decaf Espresso,9,110,Ohio,50,40,130,51,#REF!,#REF!,8%,17,-20,-4,0.529411765,Low Profit,46,110
+708,67,01-12-2013,Major Market,Central,22,Leaves,Tea,Earl Grey,70,179,Illinois,50,40,130,54,#REF!,#REF!,39%,22,49,17,3.181818182,Low Profit,67,179
+585,54,01-12-2013,Major Market,East,15,Leaves,Tea,Green Tea,77,142,New York,50,60,130,27,#REF!,#REF!,54%,15,12,4,5.133333333,Low Profit,54,142
+510,67,01-12-2013,Major Market,West,22,Leaves,Tea,Green Tea,70,179,California,40,50,120,54,#REF!,#REF!,39%,22,59,27,3.181818182,Low Profit,67,179
+541,41,01-12-2013,Small Market,West,13,Beans,Coffee,Decaf Irish Cream,37,108,Oregon,40,50,120,35,#REF!,#REF!,34%,13,-12,1,2.846153846,Low Profit,41,108
+920,65,01-12-2013,Small Market,Central,24,Beans,Coffee,Amaretto,33,155,Wisconsin,60,30,140,58,#REF!,#REF!,21%,24,15,5,1.375,Low Profit,65,155
+541,47,01-12-2013,Small Market,West,42,Beans,Coffee,Amaretto,-10,119,Oregon,50,20,130,72,#REF!,#REF!,-8%,42,-11,-3,-0.238095238,Low Profit,47,119
+435,49,01-12-2013,Small Market,West,16,Beans,Coffee,Colombian,31,121,Utah,50,50,130,44,#REF!,#REF!,26%,16,-9,-1,1.9375,Low Profit,49,121
+509,65,01-12-2013,Small Market,West,24,Beans,Espresso,Caffe Mocha,34,155,Washington,60,30,140,57,#REF!,#REF!,22%,24,15,5,1.416666667,Low Profit,65,155
+318,68,01-12-2013,Small Market,South,25,Leaves,Herbal Tea,Lemon,39,163,Louisiana,60,30,140,59,#REF!,#REF!,24%,25,23,8,1.56,Low Profit,68,163
+214,39,01-10-2012,Major Market,South,12,Beans,Coffee,Decaf Irish Cream,26,90,Texas,40,80,130,25,#REF!,#REF!,29%,12,-40,-1,2.166666667,Low Profit,39,90
+936,239,01-10-2012,Major Market,South,74,Beans,Coffee,Colombian,185,520,Texas,350,340,770,96,#REF!,#REF!,36%,74,-250,-111,2.5,High Profit,239,520
+210,123,01-10-2012,Major Market,South,34,Beans,Espresso,Caffe Mocha,133,302,Texas,70,100,190,46,#REF!,#REF!,44%,34,112,53,3.911764706,High Profit,123,302
+225,48,01-10-2012,Small Market,South,13,Beans,Coffee,Decaf Irish Cream,45,118,Louisiana,70,80,160,25,#REF!,#REF!,38%,13,-42,-22,3.461538462,Low Profit,48,118
+225,48,01-10-2012,Small Market,South,13,Beans,Coffee,Colombian,47,119,Louisiana,70,80,160,24,#REF!,#REF!,39%,13,-41,-22,3.615384615,Low Profit,48,119
+505,45,01-10-2012,Small Market,South,14,Beans,Coffee,Colombian,23,114,New Mexico,50,80,160,46,#REF!,#REF!,20%,14,-46,-5,1.642857143,Low Profit,45,114
+918,90,01-10-2012,Small Market,South,29,Beans,Coffee,Colombian,74,205,Oklahoma,130,140,290,41,#REF!,#REF!,36%,29,-85,-40,2.551724138,Low Profit,90,205
+505,25,01-10-2012,Small Market,South,9,Beans,Espresso,Caffe Latte,-12,56,New Mexico,10,10,30,43,#REF!,#REF!,-21%,9,26,15,-1.333333333,Low Profit,25,56
+225,103,01-10-2012,Small Market,South,33,Leaves,Herbal Tea,Chamomile,87,236,Louisiana,80,110,210,46,#REF!,#REF!,37%,33,26,23,2.636363636,Low Profit,103,236
+504,79,01-10-2012,Small Market,South,30,Leaves,Herbal Tea,Lemon,34,177,Louisiana,60,60,150,64,#REF!,#REF!,19%,30,27,19,1.133333333,Low Profit,79,177
+405,96,01-10-2012,Small Market,South,87,Leaves,Herbal Tea,Lemon,17,230,Oklahoma,80,40,200,117,#REF!,#REF!,7%,87,30,16,0.195402299,Low Profit,96,230
+956,225,01-11-2012,Major Market,South,69,Beans,Coffee,Colombian,174,490,Texas,260,230,580,91,#REF!,#REF!,36%,69,-90,-35,2.52173913,High Profit,225,490
+817,75,01-11-2012,Major Market,South,24,Beans,Espresso,Caffe Latte,59,189,Texas,50,40,140,55,#REF!,#REF!,31%,24,49,25,2.458333333,Low Profit,75,189
+409,118,01-11-2012,Major Market,South,33,Beans,Espresso,Caffe Mocha,127,290,Texas,90,100,220,45,#REF!,#REF!,44%,33,70,28,3.848484848,High Profit,118,290
+918,78,01-11-2012,Small Market,South,25,Beans,Espresso,Decaf Espresso,62,197,Oklahoma,60,40,150,57,#REF!,#REF!,31%,25,47,18,2.48,Low Profit,78,197
+918,88,01-11-2012,Small Market,South,29,Beans,Coffee,Colombian,71,200,Oklahoma,100,90,230,41,#REF!,#REF!,36%,29,-30,-12,2.448275862,Low Profit,88,200
+918,102,01-11-2012,Small Market,South,31,Beans,Espresso,Caffe Latte,89,245,Oklahoma,80,60,180,54,#REF!,#REF!,36%,31,65,22,2.870967742,Low Profit,102,245
+337,101,01-11-2012,Small Market,South,33,Leaves,Herbal Tea,Chamomile,85,231,Louisiana,90,80,210,45,#REF!,#REF!,37%,33,21,11,2.575757576,Low Profit,101,231
+505,15,01-11-2012,Small Market,South,4,Leaves,Herbal Tea,Chamomile,9,39,New Mexico,10,10,30,15,#REF!,#REF!,23%,4,9,5,2.25,Low Profit,15,39
+337,82,01-11-2012,Small Market,South,31,Leaves,Herbal Tea,Lemon,38,184,Louisiana,70,40,170,64,#REF!,#REF!,21%,31,14,12,1.225806452,Low Profit,82,184
+580,94,01-11-2012,Small Market,South,85,Leaves,Herbal Tea,Lemon,15,224,Oklahoma,80,20,200,115,#REF!,#REF!,7%,85,24,14,0.176470588,Low Profit,94,224
+972,241,01-12-2012,Major Market,South,74,Beans,Coffee,Colombian,188,525,Texas,280,240,620,96,#REF!,#REF!,36%,74,-95,-39,2.540540541,High Profit,241,525
+972,123,01-12-2012,Major Market,South,34,Beans,Espresso,Caffe Mocha,133,302,Texas,90,110,230,46,#REF!,#REF!,44%,34,72,33,3.911764706,High Profit,123,302
+505,92,01-12-2012,Small Market,South,28,Beans,Coffee,Decaf Irish Cream,16,160,New Mexico,100,40,190,52,#REF!,#REF!,10%,28,-30,-8,0.571428571,Low Profit,92,160
+405,88,01-12-2012,Small Market,South,29,Beans,Espresso,Decaf Espresso,72,221,Oklahoma,60,60,170,61,#REF!,#REF!,33%,29,51,28,2.482758621,Low Profit,88,221
+318,49,01-12-2012,Small Market,South,13,Beans,Coffee,Colombian,46,120,Louisiana,50,70,140,25,#REF!,#REF!,38%,13,-20,-1,3.538461538,Low Profit,49,120
+505,48,01-12-2012,Small Market,South,15,Beans,Coffee,Colombian,27,122,New Mexico,50,50,140,47,#REF!,#REF!,22%,15,-18,-2,1.8,Low Profit,48,122
+405,81,01-12-2012,Small Market,South,26,Beans,Coffee,Colombian,66,185,Oklahoma,90,100,220,38,#REF!,#REF!,36%,26,-35,-9,2.538461538,Low Profit,81,185
+505,20,01-12-2012,Small Market,South,7,Beans,Espresso,Caffe Latte,-15,45,New Mexico,10,-10,30,40,#REF!,#REF!,-33%,7,15,10,-2.142857143,Low Profit,20,45
+918,134,01-12-2012,Small Market,South,41,Beans,Espresso,Caffe Latte,121,320,Oklahoma,100,90,240,65,#REF!,#REF!,38%,41,80,34,2.951219512,High Profit,134,320
+225,94,01-12-2012,Small Market,South,31,Leaves,Herbal Tea,Chamomile,77,214,Louisiana,80,70,190,43,#REF!,#REF!,36%,31,24,14,2.483870968,Low Profit,94,214
+505,16,01-12-2012,Small Market,South,4,Leaves,Herbal Tea,Chamomile,9,41,New Mexico,10,10,30,16,#REF!,#REF!,22%,4,11,6,2.25,Low Profit,16,41
+580,105,01-12-2012,Small Market,South,95,Leaves,Herbal Tea,Lemon,20,250,Oklahoma,90,30,230,125,#REF!,#REF!,8%,95,20,15,0.210526316,Low Profit,105,250
+281,39,01-10-2013,Major Market,South,12,Beans,Coffee,Decaf Irish Cream,39,96,Texas,40,80,130,25,#REF!,#REF!,41%,12,-34,-1,3.25,Low Profit,39,96
+432,239,01-10-2013,Major Market,South,74,Beans,Coffee,Colombian,275,554,Texas,350,340,770,96,#REF!,#REF!,50%,74,-216,-111,3.716216216,High Profit,239,554
+817,123,01-10-2013,Major Market,South,34,Beans,Espresso,Caffe Mocha,197,322,Texas,70,100,190,46,#REF!,#REF!,61%,34,132,53,5.794117647,High Profit,123,322
+985,48,01-10-2013,Small Market,South,13,Beans,Coffee,Decaf Irish Cream,67,126,Louisiana,70,80,160,25,#REF!,#REF!,53%,13,-34,-22,5.153846154,Low Profit,48,126
+337,48,01-10-2013,Small Market,South,13,Beans,Coffee,Colombian,70,127,Louisiana,70,80,160,24,#REF!,#REF!,55%,13,-33,-22,5.384615385,Low Profit,48,127
+505,45,01-10-2013,Small Market,South,14,Beans,Coffee,Colombian,34,121,New Mexico,50,80,160,46,#REF!,#REF!,28%,14,-39,-5,2.428571429,Low Profit,45,121
+918,90,01-10-2013,Small Market,South,29,Beans,Coffee,Colombian,110,218,Oklahoma,130,140,290,41,#REF!,#REF!,50%,29,-72,-40,3.793103448,High Profit,90,218
+505,25,01-10-2013,Small Market,South,9,Beans,Espresso,Caffe Latte,-18,60,New Mexico,10,10,30,43,#REF!,#REF!,-30%,9,30,15,-2,Low Profit,25,60
+318,103,01-10-2013,Small Market,South,33,Leaves,Herbal Tea,Chamomile,129,251,Louisiana,80,110,210,46,#REF!,#REF!,51%,33,41,23,3.909090909,High Profit,103,251
+225,79,01-10-2013,Small Market,South,30,Leaves,Herbal Tea,Lemon,50,189,Louisiana,60,60,150,64,#REF!,#REF!,26%,30,39,19,1.666666667,Low Profit,79,189
+918,96,01-10-2013,Small Market,South,87,Leaves,Herbal Tea,Lemon,25,245,Oklahoma,80,40,200,117,#REF!,#REF!,10%,87,45,16,0.287356322,Low Profit,96,245
+432,225,01-11-2013,Major Market,South,69,Beans,Coffee,Colombian,258,522,Texas,260,230,580,91,#REF!,#REF!,49%,69,-58,-35,3.739130435,High Profit,225,522
+806,75,01-11-2013,Major Market,South,24,Beans,Espresso,Caffe Latte,88,201,Texas,50,40,140,55,#REF!,#REF!,44%,24,61,25,3.666666667,Low Profit,75,201
+915,118,01-11-2013,Major Market,South,33,Beans,Espresso,Caffe Mocha,188,309,Texas,90,100,220,45,#REF!,#REF!,61%,33,89,28,5.696969697,High Profit,118,309
+580,78,01-11-2013,Small Market,South,25,Beans,Espresso,Decaf Espresso,92,210,Oklahoma,60,40,150,57,#REF!,#REF!,44%,25,60,18,3.68,Low Profit,78,210
+918,88,01-11-2013,Small Market,South,29,Beans,Coffee,Colombian,105,213,Oklahoma,100,90,230,41,#REF!,#REF!,49%,29,-17,-12,3.620689655,High Profit,88,213
+405,102,01-11-2013,Small Market,South,31,Beans,Espresso,Caffe Latte,132,261,Oklahoma,80,60,180,54,#REF!,#REF!,51%,31,81,22,4.258064516,High Profit,102,261
+985,101,01-11-2013,Small Market,South,33,Leaves,Herbal Tea,Chamomile,126,246,Louisiana,90,80,210,45,#REF!,#REF!,51%,33,36,11,3.818181818,High Profit,101,246
+505,15,01-11-2013,Small Market,South,4,Leaves,Herbal Tea,Chamomile,13,42,New Mexico,10,10,30,15,#REF!,#REF!,31%,4,12,5,3.25,Low Profit,15,42
+337,82,01-11-2013,Small Market,South,31,Leaves,Herbal Tea,Lemon,56,196,Louisiana,70,40,170,64,#REF!,#REF!,29%,31,26,12,1.806451613,Low Profit,82,196
+405,94,01-11-2013,Small Market,South,85,Leaves,Herbal Tea,Lemon,22,239,Oklahoma,80,20,200,115,#REF!,#REF!,9%,85,39,14,0.258823529,Low Profit,94,239
+409,241,01-12-2013,Major Market,South,74,Beans,Coffee,Colombian,279,559,Texas,280,240,620,96,#REF!,#REF!,50%,74,-61,-39,3.77027027,High Profit,241,559
+254,123,01-12-2013,Major Market,South,34,Beans,Espresso,Caffe Mocha,197,322,Texas,90,110,230,46,#REF!,#REF!,61%,34,92,33,5.794117647,High Profit,123,322
+505,92,01-12-2013,Small Market,South,28,Beans,Coffee,Decaf Irish Cream,24,171,New Mexico,100,40,190,52,#REF!,#REF!,14%,28,-19,-8,0.857142857,Low Profit,92,171
+918,88,01-12-2013,Small Market,South,29,Beans,Espresso,Decaf Espresso,107,236,Oklahoma,60,60,170,61,#REF!,#REF!,45%,29,66,28,3.689655172,High Profit,88,236
+985,49,01-12-2013,Small Market,South,13,Beans,Coffee,Colombian,68,128,Louisiana,50,70,140,25,#REF!,#REF!,53%,13,-12,-1,5.230769231,Low Profit,49,128
+505,48,01-12-2013,Small Market,South,15,Beans,Coffee,Colombian,40,130,New Mexico,50,50,140,47,#REF!,#REF!,31%,15,-10,-2,2.666666667,Low Profit,48,130
+580,81,01-12-2013,Small Market,South,26,Beans,Coffee,Colombian,98,197,Oklahoma,90,100,220,38,#REF!,#REF!,50%,26,-23,-9,3.769230769,Low Profit,81,197
+505,20,01-12-2013,Small Market,South,7,Beans,Espresso,Caffe Latte,-22,48,New Mexico,10,-10,30,40,#REF!,#REF!,-46%,7,18,10,-3.142857143,Low Profit,20,48
+918,134,01-12-2013,Small Market,South,41,Beans,Espresso,Caffe Latte,180,341,Oklahoma,100,90,240,65,#REF!,#REF!,53%,41,101,34,4.390243902,High Profit,134,341
+985,94,01-12-2013,Small Market,South,31,Leaves,Herbal Tea,Chamomile,114,228,Louisiana,80,70,190,43,#REF!,#REF!,50%,31,38,14,3.677419355,High Profit,94,228
+505,16,01-12-2013,Small Market,South,4,Leaves,Herbal Tea,Chamomile,13,44,New Mexico,10,10,30,16,#REF!,#REF!,30%,4,14,6,3.25,Low Profit,16,44
+580,105,01-12-2013,Small Market,South,95,Leaves,Herbal Tea,Lemon,30,266,Oklahoma,90,30,230,125,#REF!,#REF!,11%,95,36,15,0.315789474,Low Profit,105,266
+860,125,01-10-2012,Small Market,East,41,Beans,Coffee,Colombian,115,313,Connecticut,100,130,260,73,#REF!,#REF!,37%,41,53,25,2.804878049,High Profit,125,313
+203,60,01-10-2012,Small Market,East,54,Beans,Espresso,Caffe Mocha,1,144,Connecticut,40,40,130,83,#REF!,#REF!,1%,54,14,20,0.018518519,Low Profit,60,144
+203,130,01-11-2012,Small Market,East,42,Beans,Coffee,Colombian,122,325,Connecticut,110,130,290,73,#REF!,#REF!,38%,42,35,20,2.904761905,High Profit,130,325
+203,115,01-12-2012,Small Market,East,37,Beans,Coffee,Colombian,105,289,Connecticut,100,110,260,69,#REF!,#REF!,36%,37,29,15,2.837837838,High Profit,115,289
+203,125,01-10-2013,Small Market,East,41,Beans,Coffee,Colombian,171,334,Connecticut,100,130,260,73,#REF!,#REF!,51%,41,74,25,4.170731707,High Profit,125,334
+959,60,01-10-2013,Small Market,East,54,Beans,Espresso,Caffe Mocha,1,153,Connecticut,40,40,130,83,#REF!,#REF!,1%,54,23,20,0.018518519,Low Profit,60,153
+203,130,01-11-2013,Small Market,East,42,Beans,Coffee,Colombian,181,346,Connecticut,110,130,290,73,#REF!,#REF!,52%,42,56,20,4.30952381,High Profit,130,346
+959,115,01-12-2013,Small Market,East,37,Beans,Coffee,Colombian,156,308,Connecticut,100,110,260,69,#REF!,#REF!,51%,37,48,15,4.216216216,High Profit,115,308
+561,91,01-10-2012,Major Market,East,28,Beans,Coffee,Decaf Irish Cream,76,218,Florida,70,90,180,51,#REF!,#REF!,35%,28,38,21,2.714285714,Low Profit,91,218
+239,86,01-10-2012,Major Market,East,28,Beans,Espresso,Decaf Espresso,60,202,Florida,70,90,180,56,#REF!,#REF!,30%,28,22,16,2.142857143,Low Profit,86,202
+407,82,01-10-2012,Major Market,East,27,Beans,Coffee,Colombian,64,205,Florida,60,90,170,59,#REF!,#REF!,31%,27,35,22,2.37037037,Low Profit,82,205
+857,72,01-10-2012,Major Market,East,23,Beans,Coffee,Colombian,348,474,Massachusetts,50,330,400,54,#REF!,#REF!,73%,23,74,22,15.13043478,High Profit,72,474
+315,260,01-10-2012,Major Market,East,91,Beans,Coffee,Colombian,247,650,New York,210,230,540,143,#REF!,#REF!,38%,91,110,50,2.714285714,High Profit,260,650
+239,96,01-10-2012,Major Market,East,87,Beans,Espresso,Caffe Mocha,18,230,Florida,80,50,210,116,#REF!,#REF!,8%,87,20,16,0.206896552,Low Profit,96,230
+845,125,01-10-2012,Major Market,East,113,Beans,Espresso,Caffe Mocha,-202,69,New York,110,-170,50,146,#REF!,#REF!,-293%,113,19,15,-1.787610619,Low Profit,125,69
+781,161,01-10-2012,Major Market,East,45,Beans,Espresso,Regular Espresso,92,322,Massachusetts,140,120,300,69,#REF!,#REF!,29%,45,22,21,2.044444444,Low Profit,161,322
+718,239,01-10-2012,Major Market,East,66,Beans,Espresso,Regular Espresso,435,765,New York,210,450,720,91,#REF!,#REF!,57%,66,45,29,6.590909091,High Profit,239,765
+386,22,01-10-2012,Major Market,East,7,Leaves,Herbal Tea,Chamomile,10,51,Florida,0,20,20,19,#REF!,#REF!,20%,7,31,22,1.428571429,Low Profit,22,51
+845,255,01-10-2012,Major Market,East,96,Leaves,Herbal Tea,Lemon,129,513,New York,140,70,290,129,#REF!,#REF!,25%,96,223,115,1.34375,High Profit,255,513
+315,239,01-10-2012,Major Market,East,74,Leaves,Herbal Tea,Mint,-170,164,New York,130,-100,80,95,#REF!,#REF!,-104%,74,84,109,-2.297297297,Low Profit,239,164
+516,108,01-10-2012,Major Market,East,30,Leaves,Tea,Darjeeling,115,265,New York,110,140,280,42,#REF!,#REF!,43%,30,-15,-2,3.833333333,High Profit,108,265
+716,123,01-10-2012,Major Market,East,34,Leaves,Tea,Earl Grey,134,302,New York,130,160,320,45,#REF!,#REF!,44%,34,-18,-7,3.941176471,High Profit,123,302
+518,76,01-10-2012,Major Market,East,21,Leaves,Tea,Green Tea,78,187,New York,80,100,200,33,#REF!,#REF!,42%,21,-13,-4,3.714285714,Low Profit,76,187
+772,102,01-11-2012,Major Market,East,31,Beans,Coffee,Decaf Irish Cream,89,245,Florida,90,90,220,54,#REF!,#REF!,36%,31,25,12,2.870967742,Low Profit,102,245
+561,77,01-11-2012,Major Market,East,25,Beans,Espresso,Decaf Espresso,51,180,Florida,70,60,170,52,#REF!,#REF!,28%,25,10,7,2.04,Low Profit,77,180
+754,78,01-11-2012,Major Market,East,25,Beans,Coffee,Colombian,63,197,Florida,70,60,170,56,#REF!,#REF!,32%,25,27,8,2.52,Low Profit,78,197
+978,75,01-11-2012,Major Market,East,24,Beans,Coffee,Colombian,324,454,Massachusetts,60,300,400,55,#REF!,#REF!,71%,24,54,15,13.5,High Profit,75,454
+347,249,01-11-2012,Major Market,East,87,Beans,Coffee,Colombian,236,623,New York,220,230,560,138,#REF!,#REF!,38%,87,63,29,2.712643678,High Profit,249,623
+754,94,01-11-2012,Major Market,East,85,Beans,Espresso,Caffe Mocha,15,224,Florida,90,20,210,115,#REF!,#REF!,7%,85,14,4,0.176470588,Low Profit,94,224
+347,121,01-11-2012,Major Market,East,109,Beans,Espresso,Caffe Mocha,-202,61,New York,110,-190,50,142,#REF!,#REF!,-331%,109,11,11,-1.853211009,Low Profit,121,61
+508,181,01-11-2012,Major Market,East,50,Beans,Espresso,Regular Espresso,108,363,Massachusetts,170,120,350,74,#REF!,#REF!,30%,50,13,11,2.16,High Profit,181,363
+646,211,01-11-2012,Major Market,East,59,Beans,Espresso,Regular Espresso,381,675,New York,200,390,660,83,#REF!,#REF!,56%,59,15,11,6.457627119,High Profit,211,675
+561,22,01-11-2012,Major Market,East,7,Leaves,Herbal Tea,Chamomile,11,52,Florida,10,10,30,19,#REF!,#REF!,21%,7,22,12,1.571428571,Low Profit,22,52
+631,245,01-11-2012,Major Market,East,93,Leaves,Herbal Tea,Lemon,204,576,New York,180,140,420,127,#REF!,#REF!,35%,93,156,65,2.193548387,High Profit,245,576
+914,225,01-11-2012,Major Market,East,69,Leaves,Herbal Tea,Mint,-156,160,New York,160,-120,110,91,#REF!,#REF!,-98%,69,50,65,-2.260869565,Low Profit,225,160
+518,81,01-11-2012,Major Market,East,22,Leaves,Tea,Darjeeling,84,198,New York,80,90,200,33,#REF!,#REF!,42%,22,-2,1,3.818181818,Low Profit,81,198
+315,118,01-11-2012,Major Market,East,33,Leaves,Tea,Earl Grey,127,290,New York,120,130,290,45,#REF!,#REF!,44%,33,0,-2,3.848484848,High Profit,118,290
+813,134,01-12-2012,Major Market,East,41,Beans,Coffee,Decaf Irish Cream,122,320,Florida,120,110,280,64,#REF!,#REF!,38%,41,40,14,2.975609756,High Profit,134,320
+407,83,01-12-2012,Major Market,East,27,Beans,Espresso,Decaf Espresso,58,195,Florida,80,70,190,54,#REF!,#REF!,30%,27,5,3,2.148148148,Low Profit,83,195
+754,88,01-12-2012,Major Market,East,29,Beans,Coffee,Colombian,73,221,Florida,70,80,190,60,#REF!,#REF!,33%,29,31,18,2.517241379,Low Profit,88,221
+351,67,01-12-2012,Major Market,East,22,Beans,Coffee,Colombian,390,510,Massachusetts,60,360,450,53,#REF!,#REF!,76%,22,60,7,17.72727273,High Profit,67,510
+845,279,01-12-2012,Major Market,East,97,Beans,Coffee,Colombian,271,699,New York,250,250,620,149,#REF!,#REF!,39%,97,79,29,2.793814433,High Profit,279,699
+305,105,01-12-2012,Major Market,East,95,Beans,Espresso,Caffe Mocha,21,250,Florida,100,30,240,124,#REF!,#REF!,8%,95,10,5,0.221052632,Low Profit,105,250
+212,135,01-12-2012,Major Market,East,122,Beans,Espresso,Caffe Mocha,-224,66,New York,130,-210,60,155,#REF!,#REF!,-339%,122,6,5,-1.836065574,Low Profit,135,66
+351,153,01-12-2012,Major Market,East,42,Beans,Espresso,Regular Espresso,87,306,Massachusetts,150,80,290,66,#REF!,#REF!,28%,42,16,3,2.071428571,Low Profit,153,306
+718,250,01-12-2012,Major Market,East,70,Beans,Espresso,Regular Espresso,312,657,New York,240,320,640,95,#REF!,#REF!,47%,70,17,10,4.457142857,High Profit,250,657
+607,294,01-12-2012,Major Market,East,111,Leaves,Herbal Tea,Lemon,309,747,New York,220,210,540,144,#REF!,#REF!,41%,111,207,74,2.783783784,High Profit,294,747
+716,241,01-12-2012,Major Market,East,74,Leaves,Herbal Tea,Mint,-189,148,New York,180,-150,100,96,#REF!,#REF!,-128%,74,48,61,-2.554054054,Low Profit,241,148
+716,86,01-12-2012,Major Market,East,24,Leaves,Tea,Darjeeling,89,210,New York,90,90,210,35,#REF!,#REF!,42%,24,0,-4,3.708333333,Low Profit,86,210
+718,123,01-12-2012,Major Market,East,34,Leaves,Tea,Earl Grey,133,302,New York,120,150,310,46,#REF!,#REF!,44%,34,-8,3,3.911764706,High Profit,123,302
+772,91,01-10-2013,Major Market,East,28,Beans,Coffee,Decaf Irish Cream,113,232,Florida,70,90,180,51,#REF!,#REF!,49%,28,52,21,4.035714286,High Profit,91,232
+321,86,01-10-2013,Major Market,East,28,Beans,Espresso,Decaf Espresso,89,215,Florida,70,90,180,56,#REF!,#REF!,41%,28,35,16,3.178571429,Low Profit,86,215
+954,82,01-10-2013,Major Market,East,27,Beans,Coffee,Colombian,95,218,Florida,60,90,170,59,#REF!,#REF!,44%,27,48,22,3.518518519,Low Profit,82,218
+857,72,01-10-2013,Major Market,East,23,Beans,Coffee,Colombian,516,505,Massachusetts,50,330,400,54,#REF!,#REF!,102%,23,105,22,22.43478261,High Profit,72,505
+716,260,01-10-2013,Major Market,East,91,Beans,Coffee,Colombian,367,693,New York,210,230,540,143,#REF!,#REF!,53%,91,153,50,4.032967033,High Profit,260,693
+727,96,01-10-2013,Major Market,East,87,Beans,Espresso,Caffe Mocha,27,245,Florida,80,50,210,116,#REF!,#REF!,11%,87,35,16,0.310344828,Low Profit,96,245
+914,125,01-10-2013,Major Market,East,113,Beans,Espresso,Caffe Mocha,-300,74,New York,110,-170,50,146,#REF!,#REF!,-405%,113,24,15,-2.654867257,Low Profit,125,74
+508,161,01-10-2013,Major Market,East,45,Beans,Espresso,Regular Espresso,137,343,Massachusetts,140,120,300,69,#REF!,#REF!,40%,45,43,21,3.044444444,High Profit,161,343
+212,239,01-10-2013,Major Market,East,66,Beans,Espresso,Regular Espresso,646,815,New York,210,450,720,91,#REF!,#REF!,79%,66,95,29,9.787878788,High Profit,239,815
+904,22,01-10-2013,Major Market,East,7,Leaves,Herbal Tea,Chamomile,15,54,Florida,0,20,20,19,#REF!,#REF!,28%,7,34,22,2.142857143,Low Profit,22,54
+585,255,01-10-2013,Major Market,East,96,Leaves,Herbal Tea,Lemon,191,547,New York,140,70,290,129,#REF!,#REF!,35%,96,257,115,1.989583333,High Profit,255,547
+631,239,01-10-2013,Major Market,East,74,Leaves,Herbal Tea,Mint,-252,175,New York,130,-100,80,95,#REF!,#REF!,-144%,74,95,109,-3.405405405,Low Profit,239,175
+585,108,01-10-2013,Major Market,East,30,Leaves,Tea,Darjeeling,171,282,New York,110,140,280,42,#REF!,#REF!,61%,30,2,-2,5.7,High Profit,108,282
+718,123,01-10-2013,Major Market,East,34,Leaves,Tea,Earl Grey,199,322,New York,130,160,320,45,#REF!,#REF!,62%,34,2,-7,5.852941176,High Profit,123,322
+607,76,01-10-2013,Major Market,East,21,Leaves,Tea,Green Tea,116,199,New York,80,100,200,33,#REF!,#REF!,58%,21,-1,-4,5.523809524,High Profit,76,199
+904,102,01-11-2013,Major Market,East,31,Beans,Coffee,Decaf Irish Cream,132,261,Florida,90,90,220,54,#REF!,#REF!,51%,31,41,12,4.258064516,High Profit,102,261
+772,77,01-11-2013,Major Market,East,25,Beans,Espresso,Decaf Espresso,76,192,Florida,70,60,170,52,#REF!,#REF!,40%,25,22,7,3.04,Low Profit,77,192
+786,78,01-11-2013,Major Market,East,25,Beans,Coffee,Colombian,93,210,Florida,70,60,170,56,#REF!,#REF!,44%,25,40,8,3.72,Low Profit,78,210
+857,75,01-11-2013,Major Market,East,24,Beans,Coffee,Colombian,481,484,Massachusetts,60,300,400,55,#REF!,#REF!,99%,24,84,15,20.04166667,High Profit,75,484
+607,249,01-11-2013,Major Market,East,87,Beans,Coffee,Colombian,350,664,New York,220,230,560,138,#REF!,#REF!,53%,87,104,29,4.022988506,High Profit,249,664
+813,94,01-11-2013,Major Market,East,85,Beans,Espresso,Caffe Mocha,22,239,Florida,90,20,210,115,#REF!,#REF!,9%,85,29,4,0.258823529,Low Profit,94,239
+914,121,01-11-2013,Major Market,East,109,Beans,Espresso,Caffe Mocha,-300,65,New York,110,-190,50,142,#REF!,#REF!,-462%,109,15,11,-2.752293578,Low Profit,121,65
+617,181,01-11-2013,Major Market,East,50,Beans,Espresso,Regular Espresso,160,387,Massachusetts,170,120,350,74,#REF!,#REF!,41%,50,37,11,3.2,High Profit,181,387
+917,211,01-11-2013,Major Market,East,59,Beans,Espresso,Regular Espresso,565,719,New York,200,390,660,83,#REF!,#REF!,79%,59,59,11,9.576271186,High Profit,211,719
+727,22,01-11-2013,Major Market,East,7,Leaves,Herbal Tea,Chamomile,16,55,Florida,10,10,30,19,#REF!,#REF!,29%,7,25,12,2.285714286,Low Profit,22,55
+585,245,01-11-2013,Major Market,East,93,Leaves,Herbal Tea,Lemon,303,614,New York,180,140,420,127,#REF!,#REF!,49%,93,194,65,3.258064516,High Profit,245,614
+518,225,01-11-2013,Major Market,East,69,Leaves,Herbal Tea,Mint,-232,171,New York,160,-120,110,91,#REF!,#REF!,-136%,69,61,65,-3.362318841,Low Profit,225,171
+516,81,01-11-2013,Major Market,East,22,Leaves,Tea,Darjeeling,125,211,New York,80,90,200,33,#REF!,#REF!,59%,22,11,1,5.681818182,High Profit,81,211
+914,118,01-11-2013,Major Market,East,33,Leaves,Tea,Earl Grey,188,309,New York,120,130,290,45,#REF!,#REF!,61%,33,19,-2,5.696969697,High Profit,118,309
+727,134,01-12-2013,Major Market,East,41,Beans,Coffee,Decaf Irish Cream,181,341,Florida,120,110,280,64,#REF!,#REF!,53%,41,61,14,4.414634146,High Profit,134,341
+386,83,01-12-2013,Major Market,East,27,Beans,Espresso,Decaf Espresso,86,208,Florida,80,70,190,54,#REF!,#REF!,41%,27,18,3,3.185185185,Low Profit,83,208
+407,88,01-12-2013,Major Market,East,29,Beans,Coffee,Colombian,108,236,Florida,70,80,190,60,#REF!,#REF!,46%,29,46,18,3.724137931,High Profit,88,236
+351,67,01-12-2013,Major Market,East,22,Beans,Coffee,Colombian,579,543,Massachusetts,60,360,450,53,#REF!,#REF!,107%,22,93,7,26.31818182,High Profit,67,543
+315,279,01-12-2013,Major Market,East,97,Beans,Coffee,Colombian,402,745,New York,250,250,620,149,#REF!,#REF!,54%,97,125,29,4.144329897,High Profit,279,745
+305,105,01-12-2013,Major Market,East,95,Beans,Espresso,Caffe Mocha,31,266,Florida,100,30,240,124,#REF!,#REF!,12%,95,26,5,0.326315789,Low Profit,105,266
+845,135,01-12-2013,Major Market,East,122,Beans,Espresso,Caffe Mocha,-332,70,New York,130,-210,60,155,#REF!,#REF!,-474%,122,10,5,-2.721311475,Low Profit,135,70
+857,153,01-12-2013,Major Market,East,42,Beans,Espresso,Regular Espresso,129,326,Massachusetts,150,80,290,66,#REF!,#REF!,40%,42,36,3,3.071428571,High Profit,153,326
+518,250,01-12-2013,Major Market,East,70,Beans,Espresso,Regular Espresso,463,700,New York,240,320,640,95,#REF!,#REF!,66%,70,60,10,6.614285714,High Profit,250,700
+631,294,01-12-2013,Major Market,East,111,Leaves,Herbal Tea,Lemon,459,796,New York,220,210,540,144,#REF!,#REF!,58%,111,256,74,4.135135135,High Profit,294,796
+716,241,01-12-2013,Major Market,East,74,Leaves,Herbal Tea,Mint,-280,158,New York,180,-150,100,96,#REF!,#REF!,-177%,74,58,61,-3.783783784,Low Profit,241,158
+718,86,01-12-2013,Major Market,East,24,Leaves,Tea,Darjeeling,132,224,New York,90,90,210,35,#REF!,#REF!,59%,24,14,-4,5.5,High Profit,86,224
+518,123,01-12-2013,Major Market,East,34,Leaves,Tea,Earl Grey,197,322,New York,120,150,310,46,#REF!,#REF!,61%,34,12,3,5.794117647,High Profit,123,322
+719,108,01-10-2012,Major Market,Central,30,Beans,Coffee,Decaf Irish Cream,116,265,Colorado,100,150,260,41,#REF!,#REF!,44%,30,5,8,3.866666667,High Profit,108,265
+815,122,01-10-2012,Major Market,Central,39,Beans,Coffee,Decaf Irish Cream,115,298,Illinois,110,160,300,61,#REF!,#REF!,39%,39,-2,12,2.948717949,High Profit,122,298
+303,72,01-10-2012,Major Market,Central,23,Beans,Espresso,Decaf Espresso,56,182,Colorado,100,130,260,54,#REF!,#REF!,31%,23,-78,-28,2.434782609,Low Profit,72,182
+312,239,01-10-2012,Major Market,Central,66,Beans,Espresso,Decaf Espresso,149,478,Illinois,340,300,710,90,#REF!,#REF!,31%,66,-232,-101,2.257575758,High Profit,239,478
+614,54,01-10-2012,Major Market,Central,20,Beans,Espresso,Decaf Espresso,12,120,Ohio,70,70,170,54,#REF!,#REF!,10%,20,-50,-16,0.6,Low Profit,54,120
+970,123,01-10-2012,Major Market,Central,34,Beans,Coffee,Amaretto,133,302,Colorado,120,160,300,46,#REF!,#REF!,44%,34,2,3,3.911764706,High Profit,123,302
+815,154,01-10-2012,Major Market,Central,50,Beans,Coffee,Colombian,120,367,Illinois,150,160,370,93,#REF!,#REF!,33%,50,-3,4,2.4,High Profit,154,367
+303,76,01-10-2012,Major Market,Central,21,Beans,Espresso,Caffe Mocha,79,187,Colorado,100,170,280,32,#REF!,#REF!,42%,21,-93,-24,3.761904762,Low Profit,76,187
+815,257,01-10-2012,Major Market,Central,84,Beans,Espresso,Caffe Mocha,224,598,Illinois,370,420,890,117,#REF!,#REF!,37%,84,-292,-113,2.666666667,High Profit,257,598
+567,161,01-10-2012,Major Market,Central,45,Beans,Espresso,Caffe Mocha,92,322,Ohio,230,190,470,69,#REF!,#REF!,29%,45,-148,-69,2.044444444,Low Profit,161,322
+719,161,01-10-2012,Major Market,Central,45,Leaves,Herbal Tea,Chamomile,92,322,Colorado,120,110,260,69,#REF!,#REF!,29%,45,62,41,2.044444444,Low Profit,161,322
+708,123,01-10-2012,Major Market,Central,34,Leaves,Herbal Tea,Chamomile,133,302,Illinois,90,140,240,46,#REF!,#REF!,44%,34,62,33,3.911764706,High Profit,123,302
+815,108,01-10-2012,Major Market,Central,30,Leaves,Herbal Tea,Mint,116,265,Illinois,80,120,210,41,#REF!,#REF!,44%,30,55,28,3.866666667,High Profit,108,265
+234,82,01-10-2012,Major Market,Central,27,Leaves,Tea,Darjeeling,65,205,Ohio,50,60,140,58,#REF!,#REF!,32%,27,65,32,2.407407407,Low Profit,82,205
+614,91,01-10-2012,Major Market,Central,28,Leaves,Tea,Earl Grey,76,218,Ohio,50,80,150,51,#REF!,#REF!,35%,28,68,41,2.714285714,Low Profit,91,218
+720,90,01-10-2012,Major Market,Central,29,Leaves,Tea,Green Tea,74,205,Colorado,50,80,140,41,#REF!,#REF!,36%,29,65,40,2.551724138,Low Profit,90,205
+641,10,01-10-2012,Small Market,Central,3,Beans,Coffee,Decaf Irish Cream,-2,23,Iowa,0,10,10,15,#REF!,#REF!,-9%,3,13,10,-0.666666667,Low Profit,10,23
+715,86,01-10-2012,Small Market,Central,28,Beans,Coffee,Decaf Irish Cream,61,202,Wisconsin,80,100,200,55,#REF!,#REF!,30%,28,2,6,2.178571429,Low Profit,86,202
+816,79,01-10-2012,Small Market,Central,30,Beans,Coffee,Colombian,35,177,Missouri,70,70,170,63,#REF!,#REF!,20%,30,7,9,1.166666667,Low Profit,79,177
+715,96,01-10-2012,Small Market,Central,87,Beans,Coffee,Colombian,18,230,Wisconsin,90,60,230,116,#REF!,#REF!,8%,87,0,6,0.206896552,Low Profit,96,230
+314,40,01-10-2012,Small Market,Central,11,Beans,Espresso,Caffe Mocha,36,99,Missouri,50,90,140,23,#REF!,#REF!,36%,11,-41,-10,3.272727273,Low Profit,40,99
+608,80,01-10-2012,Small Market,Central,24,Beans,Espresso,Caffe Mocha,48,174,Wisconsin,110,120,250,46,#REF!,#REF!,28%,24,-76,-30,2,Low Profit,80,174
+712,257,01-10-2012,Small Market,Central,84,Leaves,Herbal Tea,Chamomile,224,598,Iowa,200,210,480,117,#REF!,#REF!,37%,84,118,57,2.666666667,High Profit,257,598
+641,122,01-10-2012,Small Market,Central,39,Leaves,Herbal Tea,Lemon,114,298,Iowa,90,130,240,62,#REF!,#REF!,38%,39,58,32,2.923076923,High Profit,122,298
+573,86,01-10-2012,Small Market,Central,26,Leaves,Herbal Tea,Lemon,-26,109,Missouri,60,10,80,49,#REF!,#REF!,-24%,26,29,26,-1,Low Profit,86,109
+563,239,01-10-2012,Small Market,Central,66,Leaves,Tea,Darjeeling,149,478,Iowa,170,110,340,90,#REF!,#REF!,31%,66,138,69,2.257575758,High Profit,239,478
+563,255,01-10-2012,Small Market,Central,96,Leaves,Tea,Earl Grey,183,567,Iowa,170,130,400,129,#REF!,#REF!,32%,96,167,85,1.90625,High Profit,255,567
+417,25,01-10-2012,Small Market,Central,9,Leaves,Tea,Earl Grey,-11,56,Missouri,10,0,30,42,#REF!,#REF!,-20%,9,26,15,-1.222222222,Low Profit,25,56
+970,81,01-11-2012,Major Market,Central,22,Beans,Coffee,Decaf Irish Cream,84,198,Colorado,80,80,190,33,#REF!,#REF!,42%,22,8,1,3.818181818,Low Profit,81,198
+815,113,01-11-2012,Major Market,Central,36,Beans,Coffee,Decaf Irish Cream,106,278,Illinois,110,110,270,59,#REF!,#REF!,38%,36,8,3,2.944444444,High Profit,113,278
+303,75,01-11-2012,Major Market,Central,24,Beans,Espresso,Decaf Espresso,58,189,Colorado,90,100,240,56,#REF!,#REF!,31%,24,-51,-15,2.416666667,Low Profit,75,189
+847,211,01-11-2012,Major Market,Central,59,Beans,Espresso,Decaf Espresso,129,423,Illinois,270,200,540,83,#REF!,#REF!,30%,59,-117,-59,2.186440678,High Profit,211,423
+970,118,01-11-2012,Major Market,Central,33,Beans,Coffee,Amaretto,128,290,Colorado,110,130,280,44,#REF!,#REF!,44%,33,10,8,3.878787879,High Profit,118,290
+815,173,01-11-2012,Major Market,Central,57,Beans,Coffee,Colombian,139,412,Illinois,170,140,400,100,#REF!,#REF!,34%,57,12,3,2.438596491,High Profit,173,412
+303,50,01-11-2012,Major Market,Central,14,Beans,Espresso,Caffe Mocha,48,123,Colorado,60,70,150,25,#REF!,#REF!,39%,14,-27,-10,3.428571429,Low Profit,50,123
+224,228,01-11-2012,Major Market,Central,75,Beans,Espresso,Caffe Mocha,196,532,Illinois,290,290,680,108,#REF!,#REF!,37%,75,-148,-62,2.613333333,High Profit,228,532
+440,181,01-11-2012,Major Market,Central,50,Beans,Espresso,Caffe Mocha,107,363,Ohio,230,170,460,75,#REF!,#REF!,29%,50,-97,-49,2.14,High Profit,181,363
+970,181,01-11-2012,Major Market,Central,50,Leaves,Herbal Tea,Chamomile,107,363,Colorado,170,100,330,75,#REF!,#REF!,29%,50,33,11,2.14,High Profit,181,363
+312,118,01-11-2012,Major Market,Central,33,Leaves,Herbal Tea,Chamomile,127,290,Illinois,110,110,260,45,#REF!,#REF!,44%,33,30,8,3.848484848,High Profit,118,290
+630,81,01-11-2012,Major Market,Central,22,Leaves,Herbal Tea,Mint,84,198,Illinois,70,80,180,33,#REF!,#REF!,42%,22,18,11,3.818181818,Low Profit,81,198
+330,78,01-11-2012,Major Market,Central,25,Leaves,Tea,Darjeeling,62,197,Ohio,60,60,160,57,#REF!,#REF!,31%,25,37,18,2.48,Low Profit,78,197
+630,75,01-11-2012,Major Market,Central,24,Leaves,Tea,Earl Grey,59,189,Illinois,60,50,150,55,#REF!,#REF!,31%,24,39,15,2.458333333,Low Profit,75,189
+419,102,01-11-2012,Major Market,Central,31,Leaves,Tea,Earl Grey,89,245,Ohio,80,70,200,54,#REF!,#REF!,36%,31,45,22,2.870967742,Low Profit,102,245
+719,88,01-11-2012,Major Market,Central,29,Leaves,Tea,Green Tea,70,200,Colorado,70,60,160,42,#REF!,#REF!,35%,29,40,18,2.413793103,Low Profit,88,200
+641,10,01-11-2012,Small Market,Central,3,Beans,Coffee,Decaf Irish Cream,-3,23,Iowa,0,10,20,16,#REF!,#REF!,-13%,3,3,10,-1,Low Profit,10,23
+262,77,01-11-2012,Small Market,Central,25,Beans,Coffee,Decaf Irish Cream,51,180,Wisconsin,70,60,170,52,#REF!,#REF!,28%,25,10,7,2.04,Low Profit,77,180
+563,15,01-11-2012,Small Market,Central,4,Beans,Coffee,Amaretto,8,39,Iowa,10,10,30,16,#REF!,#REF!,21%,4,9,5,2,Low Profit,15,39
+573,82,01-11-2012,Small Market,Central,31,Beans,Coffee,Colombian,38,184,Missouri,80,40,180,64,#REF!,#REF!,21%,31,4,2,1.225806452,Low Profit,82,184
+262,94,01-11-2012,Small Market,Central,85,Beans,Coffee,Colombian,16,224,Wisconsin,90,30,220,114,#REF!,#REF!,7%,85,4,4,0.188235294,Low Profit,94,224
+314,54,01-11-2012,Small Market,Central,15,Beans,Espresso,Caffe Mocha,51,132,Missouri,60,80,160,27,#REF!,#REF!,39%,15,-28,-6,3.4,Low Profit,54,132
+920,75,01-11-2012,Small Market,Central,23,Beans,Espresso,Caffe Mocha,45,164,Wisconsin,90,70,200,44,#REF!,#REF!,27%,23,-36,-15,1.956521739,Low Profit,75,164
+712,228,01-11-2012,Small Market,Central,75,Leaves,Herbal Tea,Chamomile,196,532,Iowa,210,180,490,108,#REF!,#REF!,37%,75,42,18,2.613333333,High Profit,228,532
+712,113,01-11-2012,Small Market,Central,36,Leaves,Herbal Tea,Lemon,107,278,Iowa,100,100,250,58,#REF!,#REF!,38%,36,28,13,2.972222222,High Profit,113,278
+712,211,01-11-2012,Small Market,Central,59,Leaves,Tea,Darjeeling,129,423,Iowa,170,110,350,83,#REF!,#REF!,30%,59,73,41,2.186440678,High Profit,211,423
+319,245,01-11-2012,Small Market,Central,93,Leaves,Tea,Earl Grey,173,545,Iowa,200,130,450,127,#REF!,#REF!,32%,93,95,45,1.860215054,High Profit,245,545
+720,86,01-12-2012,Major Market,Central,24,Beans,Coffee,Decaf Irish Cream,88,210,Colorado,80,90,200,36,#REF!,#REF!,42%,24,10,6,3.666666667,Low Profit,86,210
+630,127,01-12-2012,Major Market,Central,40,Beans,Coffee,Decaf Irish Cream,122,312,Illinois,120,130,300,63,#REF!,#REF!,39%,40,12,7,3.05,High Profit,127,312
+970,67,01-12-2012,Major Market,Central,22,Beans,Espresso,Decaf Espresso,47,168,Colorado,80,80,210,54,#REF!,#REF!,28%,22,-42,-13,2.136363636,Low Profit,67,168
+630,250,01-12-2012,Major Market,Central,70,Beans,Espresso,Decaf Espresso,157,501,Illinois,320,240,640,94,#REF!,#REF!,31%,70,-139,-70,2.242857143,High Profit,250,501
+719,123,01-12-2012,Major Market,Central,34,Beans,Coffee,Amaretto,134,302,Colorado,120,130,290,45,#REF!,#REF!,44%,34,12,3,3.941176471,High Profit,123,302
+847,224,01-12-2012,Major Market,Central,73,Beans,Coffee,Colombian,194,534,Illinois,220,190,520,116,#REF!,#REF!,36%,73,14,4,2.657534247,High Profit,224,534
+970,54,01-12-2012,Major Market,Central,15,Beans,Espresso,Caffe Mocha,53,133,Colorado,60,90,170,26,#REF!,#REF!,40%,15,-37,-6,3.533333333,Low Profit,54,133
+815,247,01-12-2012,Major Market,Central,81,Beans,Espresso,Caffe Mocha,216,576,Illinois,310,320,730,113,#REF!,#REF!,38%,81,-154,-63,2.666666667,High Profit,247,576
+740,153,01-12-2012,Major Market,Central,42,Beans,Espresso,Caffe Mocha,87,306,Ohio,190,140,390,66,#REF!,#REF!,28%,42,-84,-37,2.071428571,Low Profit,153,306
+303,153,01-12-2012,Major Market,Central,42,Leaves,Herbal Tea,Chamomile,87,306,Colorado,140,80,280,66,#REF!,#REF!,28%,42,26,13,2.071428571,Low Profit,153,306
+309,123,01-12-2012,Major Market,Central,34,Leaves,Herbal Tea,Chamomile,133,302,Illinois,110,130,280,46,#REF!,#REF!,44%,34,22,13,3.911764706,High Profit,123,302
+630,86,01-12-2012,Major Market,Central,24,Leaves,Herbal Tea,Mint,88,210,Illinois,80,80,190,36,#REF!,#REF!,42%,24,20,6,3.666666667,Low Profit,86,210
+513,88,01-12-2012,Major Market,Central,29,Leaves,Tea,Darjeeling,72,221,Ohio,70,70,180,61,#REF!,#REF!,33%,29,41,18,2.482758621,Low Profit,88,221
+740,134,01-12-2012,Major Market,Central,41,Leaves,Tea,Earl Grey,121,320,Ohio,110,90,260,65,#REF!,#REF!,38%,41,60,24,2.951219512,High Profit,134,320
+719,81,01-12-2012,Major Market,Central,26,Leaves,Tea,Green Tea,66,185,Colorado,60,60,150,38,#REF!,#REF!,36%,26,35,21,2.538461538,Low Profit,81,185
+319,10,01-12-2012,Small Market,Central,3,Beans,Coffee,Decaf Irish Cream,-1,24,Iowa,0,10,20,15,#REF!,#REF!,-4%,3,4,10,-0.333333333,Low Profit,10,24
+715,83,01-12-2012,Small Market,Central,27,Beans,Coffee,Decaf Irish Cream,57,195,Wisconsin,80,70,190,55,#REF!,#REF!,29%,27,5,3,2.111111111,Low Profit,83,195
+573,68,01-12-2012,Small Market,Central,25,Beans,Coffee,Colombian,26,153,Missouri,60,40,150,59,#REF!,#REF!,17%,25,3,8,1.04,Low Profit,68,153
+715,105,01-12-2012,Small Market,Central,95,Beans,Coffee,Colombian,20,250,Wisconsin,100,30,240,125,#REF!,#REF!,8%,95,10,5,0.210526316,Low Profit,105,250
+314,50,01-12-2012,Small Market,Central,14,Beans,Espresso,Caffe Mocha,48,123,Missouri,60,70,150,25,#REF!,#REF!,39%,14,-27,-10,3.428571429,Low Profit,50,123
+715,80,01-12-2012,Small Market,Central,24,Beans,Espresso,Caffe Mocha,50,176,Wisconsin,100,80,220,46,#REF!,#REF!,28%,24,-44,-20,2.083333333,Low Profit,80,176
+641,247,01-12-2012,Small Market,Central,81,Leaves,Herbal Tea,Chamomile,216,576,Iowa,230,200,530,113,#REF!,#REF!,38%,81,46,17,2.666666667,High Profit,247,576
+319,127,01-12-2012,Small Market,Central,40,Leaves,Herbal Tea,Lemon,123,312,Iowa,120,120,290,62,#REF!,#REF!,39%,40,22,7,3.075,High Profit,127,312
+641,250,01-12-2012,Small Market,Central,70,Leaves,Tea,Darjeeling,156,501,Iowa,210,120,410,95,#REF!,#REF!,31%,70,91,40,2.228571429,High Profit,250,501
+641,294,01-12-2012,Small Market,Central,111,Leaves,Tea,Earl Grey,216,654,Iowa,240,170,540,144,#REF!,#REF!,33%,111,114,54,1.945945946,High Profit,294,654
+573,20,01-12-2012,Small Market,Central,7,Leaves,Tea,Earl Grey,-16,45,Missouri,10,-10,30,41,#REF!,#REF!,-36%,7,15,10,-2.285714286,Low Profit,20,45
+719,108,01-10-2013,Major Market,Central,30,Beans,Coffee,Decaf Irish Cream,172,282,Colorado,100,150,260,41,#REF!,#REF!,61%,30,22,8,5.733333333,High Profit,108,282
+815,122,01-10-2013,Major Market,Central,39,Beans,Coffee,Decaf Irish Cream,171,318,Illinois,110,160,300,61,#REF!,#REF!,54%,39,18,12,4.384615385,High Profit,122,318
+970,72,01-10-2013,Major Market,Central,23,Beans,Espresso,Decaf Espresso,83,194,Colorado,100,130,260,54,#REF!,#REF!,43%,23,-66,-28,3.608695652,Low Profit,72,194
+773,239,01-10-2013,Major Market,Central,66,Beans,Espresso,Decaf Espresso,221,509,Illinois,340,300,710,90,#REF!,#REF!,43%,66,-201,-101,3.348484848,High Profit,239,509
+419,54,01-10-2013,Major Market,Central,20,Beans,Espresso,Decaf Espresso,18,128,Ohio,70,70,170,54,#REF!,#REF!,14%,20,-42,-16,0.9,Low Profit,54,128
+719,123,01-10-2013,Major Market,Central,34,Beans,Coffee,Amaretto,197,322,Colorado,120,160,300,46,#REF!,#REF!,61%,34,22,3,5.794117647,High Profit,123,322
+815,154,01-10-2013,Major Market,Central,50,Beans,Coffee,Colombian,178,391,Illinois,150,160,370,93,#REF!,#REF!,46%,50,21,4,3.56,High Profit,154,391
+970,76,01-10-2013,Major Market,Central,21,Beans,Espresso,Caffe Mocha,117,199,Colorado,100,170,280,32,#REF!,#REF!,59%,21,-81,-24,5.571428571,High Profit,76,199
+312,257,01-10-2013,Major Market,Central,84,Beans,Espresso,Caffe Mocha,332,637,Illinois,370,420,890,117,#REF!,#REF!,52%,84,-253,-113,3.952380952,High Profit,257,637
+513,161,01-10-2013,Major Market,Central,45,Beans,Espresso,Caffe Mocha,137,343,Ohio,230,190,470,69,#REF!,#REF!,40%,45,-127,-69,3.044444444,High Profit,161,343
+720,161,01-10-2013,Major Market,Central,45,Leaves,Herbal Tea,Chamomile,137,343,Colorado,120,110,260,69,#REF!,#REF!,40%,45,83,41,3.044444444,High Profit,161,343
+708,123,01-10-2013,Major Market,Central,34,Leaves,Herbal Tea,Chamomile,197,322,Illinois,90,140,240,46,#REF!,#REF!,61%,34,82,33,5.794117647,High Profit,123,322
+815,108,01-10-2013,Major Market,Central,30,Leaves,Herbal Tea,Mint,172,282,Illinois,80,120,210,41,#REF!,#REF!,61%,30,72,28,5.733333333,High Profit,108,282
+419,82,01-10-2013,Major Market,Central,27,Leaves,Tea,Darjeeling,96,218,Ohio,50,60,140,58,#REF!,#REF!,44%,27,78,32,3.555555556,Low Profit,82,218
+419,91,01-10-2013,Major Market,Central,28,Leaves,Tea,Earl Grey,113,232,Ohio,50,80,150,51,#REF!,#REF!,49%,28,82,41,4.035714286,High Profit,91,232
+970,90,01-10-2013,Major Market,Central,29,Leaves,Tea,Green Tea,110,218,Colorado,50,80,140,41,#REF!,#REF!,50%,29,78,40,3.793103448,High Profit,90,218
+641,10,01-10-2013,Small Market,Central,3,Beans,Coffee,Decaf Irish Cream,-3,25,Iowa,0,10,10,15,#REF!,#REF!,-12%,3,15,10,-1,Low Profit,10,25
+920,86,01-10-2013,Small Market,Central,28,Beans,Coffee,Decaf Irish Cream,91,215,Wisconsin,80,100,200,55,#REF!,#REF!,42%,28,15,6,3.25,Low Profit,86,215
+573,79,01-10-2013,Small Market,Central,30,Beans,Coffee,Colombian,52,189,Missouri,70,70,170,63,#REF!,#REF!,28%,30,19,9,1.733333333,Low Profit,79,189
+414,96,01-10-2013,Small Market,Central,87,Beans,Coffee,Colombian,27,245,Wisconsin,90,60,230,116,#REF!,#REF!,11%,87,15,6,0.310344828,Low Profit,96,245
+573,40,01-10-2013,Small Market,Central,11,Beans,Espresso,Caffe Mocha,53,106,Missouri,50,90,140,23,#REF!,#REF!,50%,11,-34,-10,4.818181818,Low Profit,40,106
+262,80,01-10-2013,Small Market,Central,24,Beans,Espresso,Caffe Mocha,71,185,Wisconsin,110,120,250,46,#REF!,#REF!,38%,24,-65,-30,2.958333333,Low Profit,80,185
+319,257,01-10-2013,Small Market,Central,84,Leaves,Herbal Tea,Chamomile,332,637,Iowa,200,210,480,117,#REF!,#REF!,52%,84,157,57,3.952380952,High Profit,257,637
+515,122,01-10-2013,Small Market,Central,39,Leaves,Herbal Tea,Lemon,169,318,Iowa,90,130,240,62,#REF!,#REF!,53%,39,78,32,4.333333333,High Profit,122,318
+417,86,01-10-2013,Small Market,Central,26,Leaves,Herbal Tea,Lemon,-39,116,Missouri,60,10,80,49,#REF!,#REF!,-34%,26,36,26,-1.5,Low Profit,86,116
+515,239,01-10-2013,Small Market,Central,66,Leaves,Tea,Darjeeling,221,509,Iowa,170,110,340,90,#REF!,#REF!,43%,66,169,69,3.348484848,High Profit,239,509
+515,255,01-10-2013,Small Market,Central,96,Leaves,Tea,Earl Grey,272,604,Iowa,170,130,400,129,#REF!,#REF!,45%,96,204,85,2.833333333,High Profit,255,604
+573,25,01-10-2013,Small Market,Central,9,Leaves,Tea,Earl Grey,-16,60,Missouri,10,0,30,42,#REF!,#REF!,-27%,9,30,15,-1.777777778,Low Profit,25,60
+720,81,01-11-2013,Major Market,Central,22,Beans,Coffee,Decaf Irish Cream,125,211,Colorado,80,80,190,33,#REF!,#REF!,59%,22,21,1,5.681818182,High Profit,81,211
+847,113,01-11-2013,Major Market,Central,36,Beans,Coffee,Decaf Irish Cream,157,296,Illinois,110,110,270,59,#REF!,#REF!,53%,36,26,3,4.361111111,High Profit,113,296
+970,75,01-11-2013,Major Market,Central,24,Beans,Espresso,Decaf Espresso,86,201,Colorado,90,100,240,56,#REF!,#REF!,43%,24,-39,-15,3.583333333,Low Profit,75,201
+847,211,01-11-2013,Major Market,Central,59,Beans,Espresso,Decaf Espresso,191,451,Illinois,270,200,540,83,#REF!,#REF!,42%,59,-89,-59,3.237288136,High Profit,211,451
+719,118,01-11-2013,Major Market,Central,33,Beans,Coffee,Amaretto,190,309,Colorado,110,130,280,44,#REF!,#REF!,61%,33,29,8,5.757575758,High Profit,118,309
+815,173,01-11-2013,Major Market,Central,57,Beans,Coffee,Colombian,206,439,Illinois,170,140,400,100,#REF!,#REF!,47%,57,39,3,3.614035088,High Profit,173,439
+303,50,01-11-2013,Major Market,Central,14,Beans,Espresso,Caffe Mocha,71,131,Colorado,60,70,150,25,#REF!,#REF!,54%,14,-19,-10,5.071428571,Low Profit,50,131
+630,228,01-11-2013,Major Market,Central,75,Beans,Espresso,Caffe Mocha,291,567,Illinois,290,290,680,108,#REF!,#REF!,51%,75,-113,-62,3.88,High Profit,228,567
+234,181,01-11-2013,Major Market,Central,50,Beans,Espresso,Caffe Mocha,159,387,Ohio,230,170,460,75,#REF!,#REF!,41%,50,-73,-49,3.18,High Profit,181,387
+970,181,01-11-2013,Major Market,Central,50,Leaves,Herbal Tea,Chamomile,159,387,Colorado,170,100,330,75,#REF!,#REF!,41%,50,57,11,3.18,High Profit,181,387
+708,118,01-11-2013,Major Market,Central,33,Leaves,Herbal Tea,Chamomile,188,309,Illinois,110,110,260,45,#REF!,#REF!,61%,33,49,8,5.696969697,High Profit,118,309
+708,81,01-11-2013,Major Market,Central,22,Leaves,Herbal Tea,Mint,125,211,Illinois,70,80,180,33,#REF!,#REF!,59%,22,31,11,5.681818182,High Profit,81,211
+614,78,01-11-2013,Major Market,Central,25,Leaves,Tea,Darjeeling,92,210,Ohio,60,60,160,57,#REF!,#REF!,44%,25,50,18,3.68,Low Profit,78,210
+309,75,01-11-2013,Major Market,Central,24,Leaves,Tea,Earl Grey,88,201,Illinois,60,50,150,55,#REF!,#REF!,44%,24,51,15,3.666666667,Low Profit,75,201
+740,102,01-11-2013,Major Market,Central,31,Leaves,Tea,Earl Grey,132,261,Ohio,80,70,200,54,#REF!,#REF!,51%,31,61,22,4.258064516,High Profit,102,261
+970,88,01-11-2013,Major Market,Central,29,Leaves,Tea,Green Tea,104,213,Colorado,70,60,160,42,#REF!,#REF!,49%,29,53,18,3.586206897,High Profit,88,213
+319,10,01-11-2013,Small Market,Central,3,Beans,Coffee,Decaf Irish Cream,-4,25,Iowa,0,10,20,16,#REF!,#REF!,-16%,3,5,10,-1.333333333,Low Profit,10,25
+920,77,01-11-2013,Small Market,Central,25,Beans,Coffee,Decaf Irish Cream,76,192,Wisconsin,70,60,170,52,#REF!,#REF!,40%,25,22,7,3.04,Low Profit,77,192
+712,15,01-11-2013,Small Market,Central,4,Beans,Coffee,Amaretto,12,42,Iowa,10,10,30,16,#REF!,#REF!,29%,4,12,5,3,Low Profit,15,42
+573,82,01-11-2013,Small Market,Central,31,Beans,Coffee,Colombian,56,196,Missouri,80,40,180,64,#REF!,#REF!,29%,31,16,2,1.806451613,Low Profit,82,196
+608,94,01-11-2013,Small Market,Central,85,Beans,Coffee,Colombian,24,239,Wisconsin,90,30,220,114,#REF!,#REF!,10%,85,19,4,0.282352941,Low Profit,94,239
+573,54,01-11-2013,Small Market,Central,15,Beans,Espresso,Caffe Mocha,76,141,Missouri,60,80,160,27,#REF!,#REF!,54%,15,-19,-6,5.066666667,Low Profit,54,141
+715,75,01-11-2013,Small Market,Central,23,Beans,Espresso,Caffe Mocha,67,175,Wisconsin,90,70,200,44,#REF!,#REF!,38%,23,-25,-15,2.913043478,Low Profit,75,175
+641,228,01-11-2013,Small Market,Central,75,Leaves,Herbal Tea,Chamomile,291,567,Iowa,210,180,490,108,#REF!,#REF!,51%,75,77,18,3.88,High Profit,228,567
+641,113,01-11-2013,Small Market,Central,36,Leaves,Herbal Tea,Lemon,159,296,Iowa,100,100,250,58,#REF!,#REF!,54%,36,46,13,4.416666667,High Profit,113,296
+563,211,01-11-2013,Small Market,Central,59,Leaves,Tea,Darjeeling,191,451,Iowa,170,110,350,83,#REF!,#REF!,42%,59,101,41,3.237288136,High Profit,211,451
+641,245,01-11-2013,Small Market,Central,93,Leaves,Tea,Earl Grey,257,581,Iowa,200,130,450,127,#REF!,#REF!,44%,93,131,45,2.76344086,High Profit,245,581
+720,86,01-12-2013,Major Market,Central,24,Beans,Coffee,Decaf Irish Cream,131,224,Colorado,80,90,200,36,#REF!,#REF!,58%,24,24,6,5.458333333,High Profit,86,224
+312,127,01-12-2013,Major Market,Central,40,Beans,Coffee,Decaf Irish Cream,181,332,Illinois,120,130,300,63,#REF!,#REF!,55%,40,32,7,4.525,High Profit,127,332
+720,67,01-12-2013,Major Market,Central,22,Beans,Espresso,Decaf Espresso,70,179,Colorado,80,80,210,54,#REF!,#REF!,39%,22,-31,-13,3.181818182,Low Profit,67,179
+773,250,01-12-2013,Major Market,Central,70,Beans,Espresso,Decaf Espresso,233,534,Illinois,320,240,640,94,#REF!,#REF!,44%,70,-106,-70,3.328571429,High Profit,250,534
+303,123,01-12-2013,Major Market,Central,34,Beans,Coffee,Amaretto,199,322,Colorado,120,130,290,45,#REF!,#REF!,62%,34,32,3,5.852941176,High Profit,123,322
+312,224,01-12-2013,Major Market,Central,73,Beans,Coffee,Colombian,288,569,Illinois,220,190,520,116,#REF!,#REF!,51%,73,49,4,3.945205479,High Profit,224,569
+970,54,01-12-2013,Major Market,Central,15,Beans,Espresso,Caffe Mocha,79,142,Colorado,60,90,170,26,#REF!,#REF!,56%,15,-28,-6,5.266666667,Low Profit,54,142
+708,247,01-12-2013,Major Market,Central,81,Beans,Espresso,Caffe Mocha,321,614,Illinois,310,320,730,113,#REF!,#REF!,52%,81,-116,-63,3.962962963,High Profit,247,614
+937,153,01-12-2013,Major Market,Central,42,Beans,Espresso,Caffe Mocha,129,326,Ohio,190,140,390,66,#REF!,#REF!,40%,42,-64,-37,3.071428571,High Profit,153,326
+970,153,01-12-2013,Major Market,Central,42,Leaves,Herbal Tea,Chamomile,129,326,Colorado,140,80,280,66,#REF!,#REF!,40%,42,46,13,3.071428571,High Profit,153,326
+618,123,01-12-2013,Major Market,Central,34,Leaves,Herbal Tea,Chamomile,197,322,Illinois,110,130,280,46,#REF!,#REF!,61%,34,42,13,5.794117647,High Profit,123,322
+312,86,01-12-2013,Major Market,Central,24,Leaves,Herbal Tea,Mint,131,224,Illinois,80,80,190,36,#REF!,#REF!,58%,24,34,6,5.458333333,High Profit,86,224
+513,88,01-12-2013,Major Market,Central,29,Leaves,Tea,Darjeeling,107,236,Ohio,70,70,180,61,#REF!,#REF!,45%,29,56,18,3.689655172,High Profit,88,236
+513,134,01-12-2013,Major Market,Central,41,Leaves,Tea,Earl Grey,180,341,Ohio,110,90,260,65,#REF!,#REF!,53%,41,81,24,4.390243902,High Profit,134,341
+719,81,01-12-2013,Major Market,Central,26,Leaves,Tea,Green Tea,98,197,Colorado,60,60,150,38,#REF!,#REF!,50%,26,47,21,3.769230769,Low Profit,81,197
+712,10,01-12-2013,Small Market,Central,3,Beans,Coffee,Decaf Irish Cream,-1,26,Iowa,0,10,20,15,#REF!,#REF!,-4%,3,6,10,-0.333333333,Low Profit,10,26
+414,83,01-12-2013,Small Market,Central,27,Beans,Coffee,Decaf Irish Cream,85,208,Wisconsin,80,70,190,55,#REF!,#REF!,41%,27,18,3,3.148148148,Low Profit,83,208
+573,68,01-12-2013,Small Market,Central,25,Beans,Coffee,Colombian,39,163,Missouri,60,40,150,59,#REF!,#REF!,24%,25,13,8,1.56,Low Profit,68,163
+262,105,01-12-2013,Small Market,Central,95,Beans,Coffee,Colombian,30,266,Wisconsin,100,30,240,125,#REF!,#REF!,11%,95,26,5,0.315789474,Low Profit,105,266
+573,50,01-12-2013,Small Market,Central,14,Beans,Espresso,Caffe Mocha,71,131,Missouri,60,70,150,25,#REF!,#REF!,54%,14,-19,-10,5.071428571,Low Profit,50,131
+262,80,01-12-2013,Small Market,Central,24,Beans,Espresso,Caffe Mocha,74,188,Wisconsin,100,80,220,46,#REF!,#REF!,39%,24,-32,-20,3.083333333,Low Profit,80,188
+515,247,01-12-2013,Small Market,Central,81,Leaves,Herbal Tea,Chamomile,321,614,Iowa,230,200,530,113,#REF!,#REF!,52%,81,84,17,3.962962963,High Profit,247,614
+515,127,01-12-2013,Small Market,Central,40,Leaves,Herbal Tea,Lemon,183,332,Iowa,120,120,290,62,#REF!,#REF!,55%,40,42,7,4.575,High Profit,127,332
+641,250,01-12-2013,Small Market,Central,70,Leaves,Tea,Darjeeling,232,534,Iowa,210,120,410,95,#REF!,#REF!,43%,70,124,40,3.314285714,High Profit,250,534
+563,294,01-12-2013,Small Market,Central,111,Leaves,Tea,Earl Grey,321,697,Iowa,240,170,540,144,#REF!,#REF!,46%,111,157,54,2.891891892,High Profit,294,697
+816,20,01-12-2013,Small Market,Central,7,Leaves,Tea,Earl Grey,-24,48,Missouri,10,-10,30,41,#REF!,#REF!,-50%,7,18,10,-3.428571429,Low Profit,20,48
+951,154,01-10-2012,Major Market,West,50,Beans,Coffee,Decaf Irish Cream,-117,130,California,220,-100,190,93,#REF!,#REF!,-90%,50,-60,-66,-2.34,Low Profit,154,130
+714,257,01-10-2012,Major Market,West,84,Beans,Espresso,Decaf Espresso,225,598,California,230,240,550,116,#REF!,#REF!,38%,84,48,27,2.678571429,High Profit,257,598
+818,122,01-10-2012,Major Market,West,39,Beans,Coffee,Amaretto,-74,109,California,170,-60,150,61,#REF!,#REF!,-68%,39,-41,-48,-1.897435897,Low Profit,122,109
+626,260,01-10-2012,Major Market,West,91,Beans,Coffee,Colombian,247,650,California,380,470,960,143,#REF!,#REF!,38%,91,-310,-120,2.714285714,High Profit,260,650
+562,239,01-10-2012,Major Market,West,66,Beans,Espresso,Caffe Latte,149,478,California,210,160,430,90,#REF!,#REF!,31%,66,48,29,2.257575758,High Profit,239,478
+562,125,01-10-2012,Major Market,West,113,Beans,Espresso,Caffe Mocha,27,298,California,110,50,270,146,#REF!,#REF!,9%,113,28,15,0.238938053,Low Profit,125,298
+661,108,01-10-2012,Major Market,West,30,Leaves,Herbal Tea,Chamomile,115,265,California,80,120,210,42,#REF!,#REF!,43%,30,55,28,3.833333333,High Profit,108,265
+562,239,01-10-2012,Major Market,West,74,Leaves,Herbal Tea,Lemon,186,520,California,190,170,410,95,#REF!,#REF!,36%,74,110,49,2.513513514,High Profit,239,520
+562,123,01-10-2012,Major Market,West,34,Leaves,Tea,Darjeeling,134,302,California,50,80,140,45,#REF!,#REF!,44%,34,162,73,3.941176471,High Profit,123,302
+971,43,01-10-2012,Small Market,West,13,Beans,Coffee,Decaf Irish Cream,29,107,Oregon,50,80,150,35,#REF!,#REF!,27%,13,-43,-7,2.230769231,Low Profit,43,107
+435,79,01-10-2012,Small Market,West,30,Beans,Coffee,Decaf Irish Cream,34,177,Utah,100,120,260,64,#REF!,#REF!,19%,30,-83,-21,1.133333333,Low Profit,79,177
+425,96,01-10-2012,Small Market,West,87,Beans,Coffee,Decaf Irish Cream,17,230,Washington,140,100,330,117,#REF!,#REF!,7%,87,-100,-44,0.195402299,Low Profit,96,230
+503,161,01-10-2012,Small Market,West,45,Beans,Espresso,Decaf Espresso,91,322,Oregon,140,110,290,70,#REF!,#REF!,28%,45,32,21,2.022222222,Low Profit,161,322
+253,80,01-10-2012,Small Market,West,24,Beans,Espresso,Decaf Espresso,48,174,Washington,60,80,150,46,#REF!,#REF!,28%,24,24,20,2,Low Profit,80,174
+971,51,01-10-2012,Small Market,West,46,Beans,Coffee,Amaretto,-5,122,Oregon,70,50,170,76,#REF!,#REF!,-4%,46,-48,-19,-0.108695652,Low Profit,51,122
+435,65,01-10-2012,Small Market,West,20,Beans,Coffee,Amaretto,36,142,Utah,90,90,200,41,#REF!,#REF!,25%,20,-58,-25,1.8,Low Profit,65,142
+971,60,01-10-2012,Small Market,West,19,Beans,Coffee,Colombian,21,144,Oregon,80,90,210,63,#REF!,#REF!,15%,19,-66,-20,1.105263158,Low Profit,60,144
+435,47,01-10-2012,Small Market,West,15,Beans,Coffee,Colombian,22,111,Utah,50,80,150,42,#REF!,#REF!,20%,15,-39,-3,1.466666667,Low Profit,47,111
+206,68,01-10-2012,Small Market,West,21,Beans,Coffee,Colombian,56,167,Washington,90,110,230,43,#REF!,#REF!,34%,21,-63,-22,2.666666667,Low Profit,68,167
+206,22,01-10-2012,Small Market,West,7,Beans,Espresso,Caffe Latte,10,51,Washington,10,20,30,19,#REF!,#REF!,20%,7,21,12,1.428571429,Low Profit,22,51
+702,21,01-10-2012,Small Market,West,5,Beans,Espresso,Caffe Mocha,14,52,Nevada,10,20,30,17,#REF!,#REF!,27%,5,22,11,2.8,Low Profit,21,52
+801,103,01-10-2012,Small Market,West,33,Beans,Espresso,Caffe Mocha,87,236,Utah,80,110,210,46,#REF!,#REF!,37%,33,26,23,2.636363636,Low Profit,103,236
+775,125,01-10-2012,Small Market,West,113,Leaves,Herbal Tea,Chamomile,26,298,Nevada,90,60,240,147,#REF!,#REF!,9%,113,58,35,0.230088496,Low Profit,125,298
+206,125,01-10-2012,Small Market,West,41,Leaves,Herbal Tea,Chamomile,115,313,Washington,90,130,250,73,#REF!,#REF!,37%,41,63,35,2.804878049,High Profit,125,313
+702,154,01-10-2012,Small Market,West,50,Leaves,Herbal Tea,Lemon,120,367,Nevada,120,120,290,93,#REF!,#REF!,33%,50,77,34,2.4,High Profit,154,367
+971,90,01-10-2012,Small Market,West,29,Leaves,Herbal Tea,Lemon,73,205,Oregon,60,90,160,42,#REF!,#REF!,36%,29,45,30,2.517241379,Low Profit,90,205
+702,122,01-10-2012,Small Market,West,39,Leaves,Herbal Tea,Mint,114,298,Nevada,90,130,240,62,#REF!,#REF!,38%,39,58,32,2.923076923,High Profit,122,298
+435,86,01-10-2012,Small Market,West,26,Leaves,Herbal Tea,Mint,-27,109,Utah,60,0,80,50,#REF!,#REF!,-25%,26,29,26,-1.038461538,Low Profit,86,109
+702,257,01-10-2012,Small Market,West,84,Leaves,Tea,Darjeeling,224,598,Nevada,110,130,290,117,#REF!,#REF!,37%,84,308,147,2.666666667,High Profit,257,598
+541,21,01-10-2012,Small Market,West,5,Leaves,Tea,Darjeeling,16,53,Oregon,0,20,20,16,#REF!,#REF!,30%,5,33,21,3.2,Low Profit,21,53
+775,239,01-10-2012,Small Market,West,66,Leaves,Tea,Earl Grey,149,478,Nevada,110,80,230,90,#REF!,#REF!,31%,66,248,129,2.257575758,High Profit,239,478
+702,255,01-10-2012,Small Market,West,96,Leaves,Tea,Green Tea,-363,21,Nevada,110,-170,0,129,#REF!,#REF!,-1729%,96,21,145,-3.78125,Low Profit,255,21
+435,25,01-10-2012,Small Market,West,9,Leaves,Tea,Green Tea,-12,56,Utah,0,10,20,43,#REF!,#REF!,-21%,9,36,25,-1.333333333,Low Profit,25,56
+909,173,01-11-2012,Major Market,West,57,Beans,Coffee,Decaf Irish Cream,-127,146,California,200,-130,170,100,#REF!,#REF!,-87%,57,-24,-27,-2.228070175,Low Profit,173,146
+707,228,01-11-2012,Major Market,West,75,Beans,Espresso,Decaf Espresso,197,532,California,220,190,510,107,#REF!,#REF!,37%,75,22,8,2.626666667,High Profit,228,532
+619,113,01-11-2012,Major Market,West,36,Beans,Coffee,Amaretto,-56,116,California,130,-50,130,59,#REF!,#REF!,-48%,36,-14,-17,-1.555555556,Low Profit,113,116
+951,249,01-11-2012,Major Market,West,87,Beans,Coffee,Colombian,235,623,California,290,310,740,139,#REF!,#REF!,38%,87,-117,-41,2.701149425,High Profit,249,623
+559,211,01-11-2012,Major Market,West,59,Beans,Espresso,Caffe Latte,129,423,California,200,140,410,83,#REF!,#REF!,30%,59,13,11,2.186440678,High Profit,211,423
+818,121,01-11-2012,Major Market,West,109,Beans,Espresso,Caffe Mocha,26,289,California,110,40,280,142,#REF!,#REF!,9%,109,9,11,0.23853211,Low Profit,121,289
+213,81,01-11-2012,Major Market,West,22,Leaves,Herbal Tea,Chamomile,84,198,California,70,80,180,33,#REF!,#REF!,42%,22,18,11,3.818181818,Low Profit,81,198
+213,225,01-11-2012,Major Market,West,69,Leaves,Herbal Tea,Lemon,174,490,California,210,160,450,91,#REF!,#REF!,36%,69,40,15,2.52173913,High Profit,225,490
+213,118,01-11-2012,Major Market,West,33,Leaves,Tea,Darjeeling,128,290,California,80,110,210,44,#REF!,#REF!,44%,33,80,38,3.878787879,High Profit,118,290
+801,82,01-11-2012,Small Market,West,31,Beans,Coffee,Decaf Irish Cream,38,184,Utah,90,60,210,64,#REF!,#REF!,21%,31,-26,-8,1.225806452,Low Profit,82,184
+253,94,01-11-2012,Small Market,West,85,Beans,Coffee,Decaf Irish Cream,16,224,Washington,110,40,260,114,#REF!,#REF!,7%,85,-36,-16,0.188235294,Low Profit,94,224
+503,181,01-11-2012,Small Market,West,50,Beans,Espresso,Decaf Espresso,108,363,Oregon,170,120,350,74,#REF!,#REF!,30%,50,13,11,2.16,High Profit,181,363
+801,69,01-11-2012,Small Market,West,21,Beans,Coffee,Amaretto,39,150,Utah,80,50,170,42,#REF!,#REF!,26%,21,-20,-11,1.857142857,Low Profit,69,150
+971,53,01-11-2012,Small Market,West,17,Beans,Coffee,Colombian,14,128,Oregon,60,40,150,61,#REF!,#REF!,11%,17,-22,-7,0.823529412,Low Profit,53,128
+425,63,01-11-2012,Small Market,West,20,Beans,Coffee,Colombian,50,156,Washington,70,70,180,43,#REF!,#REF!,32%,20,-24,-7,2.5,Low Profit,63,156
+775,15,01-11-2012,Small Market,West,4,Beans,Espresso,Caffe Mocha,9,39,Nevada,10,10,30,15,#REF!,#REF!,23%,4,9,5,2.25,Low Profit,15,39
+435,101,01-11-2012,Small Market,West,33,Beans,Espresso,Caffe Mocha,85,231,Utah,90,90,220,45,#REF!,#REF!,37%,33,11,11,2.575757576,Low Profit,101,231
+775,121,01-11-2012,Small Market,West,109,Leaves,Herbal Tea,Chamomile,26,289,Nevada,110,20,260,142,#REF!,#REF!,9%,109,29,11,0.23853211,Low Profit,121,289
+206,130,01-11-2012,Small Market,West,42,Leaves,Herbal Tea,Chamomile,122,325,Washington,120,120,300,73,#REF!,#REF!,38%,42,25,10,2.904761905,High Profit,130,325
+702,173,01-11-2012,Small Market,West,57,Leaves,Herbal Tea,Lemon,138,412,Nevada,160,130,380,101,#REF!,#REF!,33%,57,32,13,2.421052632,High Profit,173,412
+971,88,01-11-2012,Small Market,West,29,Leaves,Herbal Tea,Lemon,70,200,Oregon,80,70,180,42,#REF!,#REF!,35%,29,20,8,2.413793103,Low Profit,88,200
+702,113,01-11-2012,Small Market,West,36,Leaves,Herbal Tea,Mint,107,278,Nevada,100,100,250,58,#REF!,#REF!,38%,36,28,13,2.972222222,High Profit,113,278
+702,228,01-11-2012,Small Market,West,75,Leaves,Tea,Darjeeling,196,532,Nevada,160,140,380,108,#REF!,#REF!,37%,75,152,68,2.613333333,High Profit,228,532
+702,211,01-11-2012,Small Market,West,59,Leaves,Tea,Earl Grey,128,423,Nevada,150,80,300,84,#REF!,#REF!,30%,59,123,61,2.169491525,High Profit,211,423
+971,78,01-11-2012,Small Market,West,25,Leaves,Tea,Earl Grey,62,197,Oregon,50,50,140,57,#REF!,#REF!,31%,25,57,28,2.48,Low Profit,78,197
+702,245,01-11-2012,Small Market,West,93,Leaves,Tea,Green Tea,-340,32,Nevada,180,-280,0,127,#REF!,#REF!,-1063%,93,32,65,-3.655913978,Low Profit,245,32
+971,102,01-11-2012,Small Market,West,31,Leaves,Tea,Green Tea,89,245,Oregon,70,70,170,54,#REF!,#REF!,36%,31,75,32,2.870967742,Low Profit,102,245
+714,224,01-12-2012,Major Market,West,73,Beans,Coffee,Decaf Irish Cream,-149,192,California,260,-150,220,117,#REF!,#REF!,-78%,73,-28,-36,-2.04109589,Low Profit,224,192
+209,247,01-12-2012,Major Market,West,81,Beans,Espresso,Decaf Espresso,216,576,California,240,210,550,113,#REF!,#REF!,38%,81,26,7,2.666666667,High Profit,247,576
+951,127,01-12-2012,Major Market,West,40,Beans,Coffee,Amaretto,-88,102,California,150,-90,120,63,#REF!,#REF!,-86%,40,-18,-23,-2.2,Low Profit,127,102
+707,279,01-12-2012,Major Market,West,97,Beans,Coffee,Colombian,271,699,California,330,350,830,149,#REF!,#REF!,39%,97,-131,-51,2.793814433,High Profit,279,699
+916,250,01-12-2012,Major Market,West,70,Beans,Espresso,Caffe Latte,157,501,California,240,160,480,94,#REF!,#REF!,31%,70,21,10,2.242857143,High Profit,250,501
+530,135,01-12-2012,Major Market,West,122,Beans,Espresso,Caffe Mocha,31,322,California,130,40,310,156,#REF!,#REF!,10%,122,12,5,0.254098361,Low Profit,135,322
+626,86,01-12-2012,Major Market,West,24,Leaves,Herbal Tea,Chamomile,89,210,California,80,80,190,35,#REF!,#REF!,42%,24,20,6,3.708333333,Low Profit,86,210
+415,241,01-12-2012,Major Market,West,74,Leaves,Herbal Tea,Lemon,188,525,California,220,170,480,96,#REF!,#REF!,36%,74,45,21,2.540540541,High Profit,241,525
+916,123,01-12-2012,Major Market,West,34,Leaves,Tea,Darjeeling,134,302,California,90,110,220,45,#REF!,#REF!,44%,34,82,33,3.941176471,High Profit,123,302
+435,68,01-12-2012,Small Market,West,25,Beans,Coffee,Decaf Irish Cream,26,153,Utah,80,50,180,59,#REF!,#REF!,17%,25,-27,-12,1.04,Low Profit,68,153
+509,105,01-12-2012,Small Market,West,95,Beans,Coffee,Decaf Irish Cream,20,250,Washington,120,50,290,125,#REF!,#REF!,8%,95,-40,-15,0.210526316,Low Profit,105,250
+971,153,01-12-2012,Small Market,West,42,Beans,Espresso,Decaf Espresso,87,306,Oregon,150,80,290,66,#REF!,#REF!,28%,42,16,3,2.071428571,Low Profit,153,306
+253,80,01-12-2012,Small Market,West,24,Beans,Espresso,Decaf Espresso,51,176,Washington,70,60,170,45,#REF!,#REF!,29%,24,6,10,2.125,Low Profit,80,176
+435,63,01-12-2012,Small Market,West,19,Beans,Coffee,Amaretto,36,139,Utah,70,50,160,40,#REF!,#REF!,26%,19,-21,-7,1.894736842,Low Profit,63,139
+253,72,01-12-2012,Small Market,West,23,Beans,Coffee,Colombian,58,176,Washington,80,80,200,46,#REF!,#REF!,33%,23,-24,-8,2.52173913,Low Profit,72,176
+775,16,01-12-2012,Small Market,West,4,Beans,Espresso,Caffe Mocha,10,41,Nevada,10,10,30,15,#REF!,#REF!,24%,4,11,6,2.5,Low Profit,16,41
+435,94,01-12-2012,Small Market,West,31,Beans,Espresso,Caffe Mocha,77,214,Utah,90,70,200,43,#REF!,#REF!,36%,31,14,4,2.483870968,Low Profit,94,214
+702,135,01-12-2012,Small Market,West,122,Leaves,Herbal Tea,Chamomile,32,322,Nevada,120,30,290,155,#REF!,#REF!,10%,122,32,15,0.262295082,Low Profit,135,322
+509,115,01-12-2012,Small Market,West,37,Leaves,Herbal Tea,Chamomile,105,289,Washington,100,110,260,69,#REF!,#REF!,36%,37,29,15,2.837837838,High Profit,115,289
+775,224,01-12-2012,Small Market,West,73,Leaves,Herbal Tea,Lemon,194,534,Nevada,210,170,490,116,#REF!,#REF!,36%,73,44,14,2.657534247,High Profit,224,534
+541,81,01-12-2012,Small Market,West,26,Leaves,Herbal Tea,Lemon,66,185,Oregon,70,70,170,38,#REF!,#REF!,36%,26,15,11,2.538461538,Low Profit,81,185
+775,127,01-12-2012,Small Market,West,40,Leaves,Herbal Tea,Mint,122,312,Nevada,120,120,290,63,#REF!,#REF!,39%,40,22,7,3.05,High Profit,127,312
+702,247,01-12-2012,Small Market,West,81,Leaves,Tea,Darjeeling,215,576,Nevada,180,150,420,114,#REF!,#REF!,37%,81,156,67,2.654320988,High Profit,247,576
+702,250,01-12-2012,Small Market,West,70,Leaves,Tea,Earl Grey,157,501,Nevada,180,100,360,94,#REF!,#REF!,31%,70,141,70,2.242857143,High Profit,250,501
+971,88,01-12-2012,Small Market,West,29,Leaves,Tea,Earl Grey,73,221,Oregon,60,60,160,60,#REF!,#REF!,33%,29,61,28,2.517241379,Low Profit,88,221
+775,294,01-12-2012,Small Market,West,111,Leaves,Tea,Green Tea,-408,31,Nevada,210,-320,0,145,#REF!,#REF!,-1316%,111,31,84,-3.675675676,Low Profit,294,31
+503,134,01-12-2012,Small Market,West,41,Leaves,Tea,Green Tea,121,320,Oregon,90,100,230,65,#REF!,#REF!,38%,41,90,44,2.951219512,High Profit,134,320
+435,20,01-12-2012,Small Market,West,7,Leaves,Tea,Green Tea,-15,45,Utah,10,0,30,40,#REF!,#REF!,-33%,7,15,10,-2.142857143,Low Profit,20,45
+650,154,01-10-2013,Major Market,West,50,Beans,Coffee,Decaf Irish Cream,-174,139,California,220,-100,190,93,#REF!,#REF!,-125%,50,-51,-66,-3.48,Low Profit,154,139
+415,257,01-10-2013,Major Market,West,84,Beans,Espresso,Decaf Espresso,334,637,California,230,240,550,116,#REF!,#REF!,52%,84,87,27,3.976190476,High Profit,257,637
+909,122,01-10-2013,Major Market,West,39,Beans,Coffee,Amaretto,-110,116,California,170,-60,150,61,#REF!,#REF!,-95%,39,-34,-48,-2.820512821,Low Profit,122,116
+818,260,01-10-2013,Major Market,West,91,Beans,Coffee,Colombian,367,693,California,380,470,960,143,#REF!,#REF!,53%,91,-267,-120,4.032967033,High Profit,260,693
+714,239,01-10-2013,Major Market,West,66,Beans,Espresso,Caffe Latte,221,509,California,210,160,430,90,#REF!,#REF!,43%,66,79,29,3.348484848,High Profit,239,509
+805,125,01-10-2013,Major Market,West,113,Beans,Espresso,Caffe Mocha,40,318,California,110,50,270,146,#REF!,#REF!,13%,113,48,15,0.353982301,Low Profit,125,318
+925,108,01-10-2013,Major Market,West,30,Leaves,Herbal Tea,Chamomile,171,282,California,80,120,210,42,#REF!,#REF!,61%,30,72,28,5.7,High Profit,108,282
+951,239,01-10-2013,Major Market,West,74,Leaves,Herbal Tea,Lemon,276,554,California,190,170,410,95,#REF!,#REF!,50%,74,144,49,3.72972973,High Profit,239,554
+831,123,01-10-2013,Major Market,West,34,Leaves,Tea,Darjeeling,199,322,California,50,80,140,45,#REF!,#REF!,62%,34,182,73,5.852941176,High Profit,123,322
+971,43,01-10-2013,Small Market,West,13,Beans,Coffee,Decaf Irish Cream,43,114,Oregon,50,80,150,35,#REF!,#REF!,38%,13,-36,-7,3.307692308,Low Profit,43,114
+435,79,01-10-2013,Small Market,West,30,Beans,Coffee,Decaf Irish Cream,50,189,Utah,100,120,260,64,#REF!,#REF!,26%,30,-71,-21,1.666666667,Low Profit,79,189
+206,96,01-10-2013,Small Market,West,87,Beans,Coffee,Decaf Irish Cream,25,245,Washington,140,100,330,117,#REF!,#REF!,10%,87,-85,-44,0.287356322,Low Profit,96,245
+503,161,01-10-2013,Small Market,West,45,Beans,Espresso,Decaf Espresso,135,343,Oregon,140,110,290,70,#REF!,#REF!,39%,45,53,21,3,High Profit,161,343
+360,80,01-10-2013,Small Market,West,24,Beans,Espresso,Decaf Espresso,71,185,Washington,60,80,150,46,#REF!,#REF!,38%,24,35,20,2.958333333,Low Profit,80,185
+503,51,01-10-2013,Small Market,West,46,Beans,Coffee,Amaretto,-7,130,Oregon,70,50,170,76,#REF!,#REF!,-5%,46,-40,-19,-0.152173913,Low Profit,51,130
+435,65,01-10-2013,Small Market,West,20,Beans,Coffee,Amaretto,53,151,Utah,90,90,200,41,#REF!,#REF!,35%,20,-49,-25,2.65,Low Profit,65,151
+503,60,01-10-2013,Small Market,West,19,Beans,Coffee,Colombian,31,153,Oregon,80,90,210,63,#REF!,#REF!,20%,19,-57,-20,1.631578947,Low Profit,60,153
+435,47,01-10-2013,Small Market,West,15,Beans,Coffee,Colombian,33,118,Utah,50,80,150,42,#REF!,#REF!,28%,15,-32,-3,2.2,Low Profit,47,118
+360,68,01-10-2013,Small Market,West,21,Beans,Coffee,Colombian,83,178,Washington,90,110,230,43,#REF!,#REF!,47%,21,-52,-22,3.952380952,Low Profit,68,178
+206,22,01-10-2013,Small Market,West,7,Beans,Espresso,Caffe Latte,15,54,Washington,10,20,30,19,#REF!,#REF!,28%,7,24,12,2.142857143,Low Profit,22,54
+775,21,01-10-2013,Small Market,West,5,Beans,Espresso,Caffe Mocha,21,55,Nevada,10,20,30,17,#REF!,#REF!,38%,5,25,11,4.2,Low Profit,21,55
+435,103,01-10-2013,Small Market,West,33,Beans,Espresso,Caffe Mocha,129,251,Utah,80,110,210,46,#REF!,#REF!,51%,33,41,23,3.909090909,High Profit,103,251
+702,125,01-10-2013,Small Market,West,113,Leaves,Herbal Tea,Chamomile,39,318,Nevada,90,60,240,147,#REF!,#REF!,12%,113,78,35,0.345132743,Low Profit,125,318
+360,125,01-10-2013,Small Market,West,41,Leaves,Herbal Tea,Chamomile,171,334,Washington,90,130,250,73,#REF!,#REF!,51%,41,84,35,4.170731707,High Profit,125,334
+775,154,01-10-2013,Small Market,West,50,Leaves,Herbal Tea,Lemon,178,391,Nevada,120,120,290,93,#REF!,#REF!,46%,50,101,34,3.56,High Profit,154,391
+541,90,01-10-2013,Small Market,West,29,Leaves,Herbal Tea,Lemon,108,218,Oregon,60,90,160,42,#REF!,#REF!,50%,29,58,30,3.724137931,High Profit,90,218
+775,122,01-10-2013,Small Market,West,39,Leaves,Herbal Tea,Mint,169,318,Nevada,90,130,240,62,#REF!,#REF!,53%,39,78,32,4.333333333,High Profit,122,318
+435,86,01-10-2013,Small Market,West,26,Leaves,Herbal Tea,Mint,-40,116,Utah,60,0,80,50,#REF!,#REF!,-34%,26,36,26,-1.538461538,Low Profit,86,116
+775,257,01-10-2013,Small Market,West,84,Leaves,Tea,Darjeeling,332,637,Nevada,110,130,290,117,#REF!,#REF!,52%,84,347,147,3.952380952,High Profit,257,637
+971,21,01-10-2013,Small Market,West,5,Leaves,Tea,Darjeeling,24,56,Oregon,0,20,20,16,#REF!,#REF!,43%,5,36,21,4.8,Low Profit,21,56
+775,239,01-10-2013,Small Market,West,66,Leaves,Tea,Earl Grey,221,509,Nevada,110,80,230,90,#REF!,#REF!,43%,66,279,129,3.348484848,High Profit,239,509
+702,255,01-10-2013,Small Market,West,96,Leaves,Tea,Green Tea,-539,22,Nevada,110,-170,0,129,#REF!,#REF!,-2450%,96,22,145,-5.614583333,Low Profit,255,22
+435,25,01-10-2013,Small Market,West,9,Leaves,Tea,Green Tea,-18,60,Utah,0,10,20,43,#REF!,#REF!,-30%,9,40,25,-2,Low Profit,25,60
+626,173,01-11-2013,Major Market,West,57,Beans,Coffee,Decaf Irish Cream,-188,156,California,200,-130,170,100,#REF!,#REF!,-121%,57,-14,-27,-3.298245614,Low Profit,173,156
+213,228,01-11-2013,Major Market,West,75,Beans,Espresso,Decaf Espresso,292,567,California,220,190,510,107,#REF!,#REF!,51%,75,57,8,3.893333333,High Profit,228,567
+916,113,01-11-2013,Major Market,West,36,Beans,Coffee,Amaretto,-83,124,California,130,-50,130,59,#REF!,#REF!,-67%,36,-6,-17,-2.305555556,Low Profit,113,124
+213,249,01-11-2013,Major Market,West,87,Beans,Coffee,Colombian,349,664,California,290,310,740,139,#REF!,#REF!,53%,87,-76,-41,4.011494253,High Profit,249,664
+951,211,01-11-2013,Major Market,West,59,Beans,Espresso,Caffe Latte,191,451,California,200,140,410,83,#REF!,#REF!,42%,59,41,11,3.237288136,High Profit,211,451
+916,121,01-11-2013,Major Market,West,109,Beans,Espresso,Caffe Mocha,39,308,California,110,40,280,142,#REF!,#REF!,13%,109,28,11,0.357798165,Low Profit,121,308
+760,81,01-11-2013,Major Market,West,22,Leaves,Herbal Tea,Chamomile,125,211,California,70,80,180,33,#REF!,#REF!,59%,22,31,11,5.681818182,High Profit,81,211
+510,225,01-11-2013,Major Market,West,69,Leaves,Herbal Tea,Lemon,258,522,California,210,160,450,91,#REF!,#REF!,49%,69,72,15,3.739130435,High Profit,225,522
+805,118,01-11-2013,Major Market,West,33,Leaves,Tea,Darjeeling,190,309,California,80,110,210,44,#REF!,#REF!,61%,33,99,38,5.757575758,High Profit,118,309
+435,82,01-11-2013,Small Market,West,31,Beans,Coffee,Decaf Irish Cream,56,196,Utah,90,60,210,64,#REF!,#REF!,29%,31,-14,-8,1.806451613,Low Profit,82,196
+509,94,01-11-2013,Small Market,West,85,Beans,Coffee,Decaf Irish Cream,24,239,Washington,110,40,260,114,#REF!,#REF!,10%,85,-21,-16,0.282352941,Low Profit,94,239
+971,181,01-11-2013,Small Market,West,50,Beans,Espresso,Decaf Espresso,160,387,Oregon,170,120,350,74,#REF!,#REF!,41%,50,37,11,3.2,High Profit,181,387
+435,69,01-11-2013,Small Market,West,21,Beans,Coffee,Amaretto,58,160,Utah,80,50,170,42,#REF!,#REF!,36%,21,-10,-11,2.761904762,Low Profit,69,160
+541,53,01-11-2013,Small Market,West,17,Beans,Coffee,Colombian,21,136,Oregon,60,40,150,61,#REF!,#REF!,15%,17,-14,-7,1.235294118,Low Profit,53,136
+253,63,01-11-2013,Small Market,West,20,Beans,Coffee,Colombian,74,166,Washington,70,70,180,43,#REF!,#REF!,45%,20,-14,-7,3.7,Low Profit,63,166
+775,15,01-11-2013,Small Market,West,4,Beans,Espresso,Caffe Mocha,13,42,Nevada,10,10,30,15,#REF!,#REF!,31%,4,12,5,3.25,Low Profit,15,42
+801,101,01-11-2013,Small Market,West,33,Beans,Espresso,Caffe Mocha,126,246,Utah,90,90,220,45,#REF!,#REF!,51%,33,26,11,3.818181818,High Profit,101,246
+702,121,01-11-2013,Small Market,West,109,Leaves,Herbal Tea,Chamomile,39,308,Nevada,110,20,260,142,#REF!,#REF!,13%,109,48,11,0.357798165,Low Profit,121,308
+206,130,01-11-2013,Small Market,West,42,Leaves,Herbal Tea,Chamomile,181,346,Washington,120,120,300,73,#REF!,#REF!,52%,42,46,10,4.30952381,High Profit,130,346
+702,173,01-11-2013,Small Market,West,57,Leaves,Herbal Tea,Lemon,205,439,Nevada,160,130,380,101,#REF!,#REF!,47%,57,59,13,3.596491228,High Profit,173,439
+541,88,01-11-2013,Small Market,West,29,Leaves,Herbal Tea,Lemon,104,213,Oregon,80,70,180,42,#REF!,#REF!,49%,29,33,8,3.586206897,High Profit,88,213
+775,113,01-11-2013,Small Market,West,36,Leaves,Herbal Tea,Mint,159,296,Nevada,100,100,250,58,#REF!,#REF!,54%,36,46,13,4.416666667,High Profit,113,296
+775,228,01-11-2013,Small Market,West,75,Leaves,Tea,Darjeeling,291,567,Nevada,160,140,380,108,#REF!,#REF!,51%,75,187,68,3.88,High Profit,228,567
+702,211,01-11-2013,Small Market,West,59,Leaves,Tea,Earl Grey,190,451,Nevada,150,80,300,84,#REF!,#REF!,42%,59,151,61,3.220338983,High Profit,211,451
+503,78,01-11-2013,Small Market,West,25,Leaves,Tea,Earl Grey,92,210,Oregon,50,50,140,57,#REF!,#REF!,44%,25,70,28,3.68,Low Profit,78,210
+775,245,01-11-2013,Small Market,West,93,Leaves,Tea,Green Tea,-505,34,Nevada,180,-280,0,127,#REF!,#REF!,-1485%,93,34,65,-5.430107527,Low Profit,245,34
+971,102,01-11-2013,Small Market,West,31,Leaves,Tea,Green Tea,132,261,Oregon,70,70,170,54,#REF!,#REF!,51%,31,91,32,4.258064516,High Profit,102,261
+951,224,01-12-2013,Major Market,West,73,Beans,Coffee,Decaf Irish Cream,-221,205,California,260,-150,220,117,#REF!,#REF!,-108%,73,-15,-36,-3.02739726,Low Profit,224,205
+209,247,01-12-2013,Major Market,West,81,Beans,Espresso,Decaf Espresso,321,614,California,240,210,550,113,#REF!,#REF!,52%,81,64,7,3.962962963,High Profit,247,614
+209,127,01-12-2013,Major Market,West,40,Beans,Coffee,Amaretto,-131,109,California,150,-90,120,63,#REF!,#REF!,-120%,40,-11,-23,-3.275,Low Profit,127,109
+530,279,01-12-2013,Major Market,West,97,Beans,Coffee,Colombian,402,745,California,330,350,830,149,#REF!,#REF!,54%,97,-85,-51,4.144329897,High Profit,279,745
+949,250,01-12-2013,Major Market,West,70,Beans,Espresso,Caffe Latte,233,534,California,240,160,480,94,#REF!,#REF!,44%,70,54,10,3.328571429,High Profit,250,534
+530,135,01-12-2013,Major Market,West,122,Beans,Espresso,Caffe Mocha,46,343,California,130,40,310,156,#REF!,#REF!,13%,122,33,5,0.37704918,Low Profit,135,343
+916,86,01-12-2013,Major Market,West,24,Leaves,Herbal Tea,Chamomile,132,224,California,80,80,190,35,#REF!,#REF!,59%,24,34,6,5.5,High Profit,86,224
+661,241,01-12-2013,Major Market,West,74,Leaves,Herbal Tea,Lemon,279,559,California,220,170,480,96,#REF!,#REF!,50%,74,79,21,3.77027027,High Profit,241,559
+323,123,01-12-2013,Major Market,West,34,Leaves,Tea,Darjeeling,199,322,California,90,110,220,45,#REF!,#REF!,62%,34,102,33,5.852941176,High Profit,123,322
+801,68,01-12-2013,Small Market,West,25,Beans,Coffee,Decaf Irish Cream,39,163,Utah,80,50,180,59,#REF!,#REF!,24%,25,-17,-12,1.56,Low Profit,68,163
+206,105,01-12-2013,Small Market,West,95,Beans,Coffee,Decaf Irish Cream,30,266,Washington,120,50,290,125,#REF!,#REF!,11%,95,-24,-15,0.315789474,Low Profit,105,266
+971,153,01-12-2013,Small Market,West,42,Beans,Espresso,Decaf Espresso,129,326,Oregon,150,80,290,66,#REF!,#REF!,40%,42,36,3,3.071428571,High Profit,153,326
+360,80,01-12-2013,Small Market,West,24,Beans,Espresso,Decaf Espresso,76,188,Washington,70,60,170,45,#REF!,#REF!,40%,24,18,10,3.166666667,Low Profit,80,188
+435,63,01-12-2013,Small Market,West,19,Beans,Coffee,Amaretto,53,148,Utah,70,50,160,40,#REF!,#REF!,36%,19,-12,-7,2.789473684,Low Profit,63,148
+360,72,01-12-2013,Small Market,West,23,Beans,Coffee,Colombian,86,188,Washington,80,80,200,46,#REF!,#REF!,46%,23,-12,-8,3.739130435,Low Profit,72,188
+775,16,01-12-2013,Small Market,West,4,Beans,Espresso,Caffe Mocha,15,44,Nevada,10,10,30,15,#REF!,#REF!,34%,4,14,6,3.75,Low Profit,16,44
+435,94,01-12-2013,Small Market,West,31,Beans,Espresso,Caffe Mocha,114,228,Utah,90,70,200,43,#REF!,#REF!,50%,31,28,4,3.677419355,High Profit,94,228
+702,135,01-12-2013,Small Market,West,122,Leaves,Herbal Tea,Chamomile,47,343,Nevada,120,30,290,155,#REF!,#REF!,14%,122,53,15,0.385245902,Low Profit,135,343
+253,115,01-12-2013,Small Market,West,37,Leaves,Herbal Tea,Chamomile,156,308,Washington,100,110,260,69,#REF!,#REF!,51%,37,48,15,4.216216216,High Profit,115,308
+702,224,01-12-2013,Small Market,West,73,Leaves,Herbal Tea,Lemon,288,569,Nevada,210,170,490,116,#REF!,#REF!,51%,73,79,14,3.945205479,High Profit,224,569
+503,81,01-12-2013,Small Market,West,26,Leaves,Herbal Tea,Lemon,98,197,Oregon,70,70,170,38,#REF!,#REF!,50%,26,27,11,3.769230769,Low Profit,81,197
+775,127,01-12-2013,Small Market,West,40,Leaves,Herbal Tea,Mint,181,332,Nevada,120,120,290,63,#REF!,#REF!,55%,40,42,7,4.525,High Profit,127,332
+775,247,01-12-2013,Small Market,West,81,Leaves,Tea,Darjeeling,319,614,Nevada,180,150,420,114,#REF!,#REF!,52%,81,194,67,3.938271605,High Profit,247,614
+775,250,01-12-2013,Small Market,West,70,Leaves,Tea,Earl Grey,233,534,Nevada,180,100,360,94,#REF!,#REF!,44%,70,174,70,3.328571429,High Profit,250,534
+971,88,01-12-2013,Small Market,West,29,Leaves,Tea,Earl Grey,108,236,Oregon,60,60,160,60,#REF!,#REF!,46%,29,76,28,3.724137931,High Profit,88,236
+775,294,01-12-2013,Small Market,West,111,Leaves,Tea,Green Tea,-605,33,Nevada,210,-320,0,145,#REF!,#REF!,-1833%,111,33,84,-5.45045045,Low Profit,294,33
+503,134,01-12-2013,Small Market,West,41,Leaves,Tea,Green Tea,180,341,Oregon,90,100,230,65,#REF!,#REF!,53%,41,111,44,4.390243902,High Profit,134,341
+435,20,01-12-2013,Small Market,West,7,Leaves,Tea,Green Tea,-22,48,Utah,10,0,30,40,#REF!,#REF!,-46%,7,18,10,-3.142857143,Low Profit,20,48
